@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<div class="header">
+
+ <img src="/title.png" class="center"/>
+ <br/>
+<hr style="width:100%; color:#FFF; border-style: 2px;"/>
+  <h1>{{ .Title }}</h1>
+</div>
+
+<div class="content">
+  {{ range .Data.Pages }}
+    {{ .Render "summary"}}
+  {{ end }}
+</div>
+
+{{ partial "footer.html" . }}

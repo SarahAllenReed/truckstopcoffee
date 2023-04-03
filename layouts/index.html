@@ -1,0 +1,53 @@
+{{ partial "header.html" . }}
+
+<div class="header">
+ <img src="/indextitle.png" class="floatcenter"/>
+</div>
+
+
+<div class="content">
+<!----
+  {{ range ( .Paginate (where .Site.RegularPages "Type" "post")).Pages }}
+    {{ .Render "summary"}}
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+-->
+
+<div class="floatleft caption">
+  <p><img src="profile.png" alt="A little doodle of me."></p>
+</div>
+
+<h3>Dear Reader:</h3>
+Welcome to Truck Stop Coffee! 
+<br/>
+<br/>
+This is my lil' blog where I write about cartooning, writing, jazz, open source, terrible action flicks, and other things that hold my interest.
+<br/>
+<br/>
+If you're curious as to who I am and what I'm about (and where you can find these comics of mine) <a href="https://sarahallenreed.com">head on over to my main site</a> or <a href="/misc/faq">check out the FAQ for some (in)frequently asked questions.</a>
+<br/>
+<br/>
+You can also click on over to the <a href="/tags">Tags page</a> to check out topics that you might be interested in.
+<br/>
+<br/>
+Either way, I'm glad you're here with me today. You're amazing and don't let anyone tell you that you're not.
+<br/>
+<br/>
+Have a good one.
+<br/>
+<br/>
+<h3>--SARAH &#60;3 </h3>
+<br/>
+<hr/>
+<h1>Recent Ramblin's</h1>
+<hr/>
+
+  {{ range ( .Paginate (where .Site.RegularPages "Type" "post")).Pages }}
+    {{ .Render "summary"}}
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+</div>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,34 @@
+{{ partial "header.html" . }}
+
+<div class="header">
+
+ <img src="/title.png" class="center"/>
+ <br/>
+<hr style="width:100%; color:#FFF; border-style: 2px;"/>
+  <h1>{{ .Title }}</h1>
+</div>
+
+
+<div class="content">
+  {{ range ( .Paginate (where .Site.RegularPages "Type" "post")).Pages }}
+    {{ .Render "summary"}}
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+
+</div>
+
+<!----
+<div class="content">
+  {{ range .Data.Pages.GroupByDate "2006" }}
+  <h4>{{ .Key }}</h4>
+  <ul>
+  {{ range .Pages }}
+    {{ .Render "li" }}
+  {{ end }}
+  </ul>
+  {{ end }}
+</div>
+-->
+
+{{ partial "footer.html" . }}

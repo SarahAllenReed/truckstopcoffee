@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+
+<div class="header">
+
+ <img src="/title.png" class="center"/>
+ <br/>
+<hr style="width:100%; color:#FFF; border-style: 2px;"/>
+  <h1>{{ .Title }}</h1>
+</div>
+<div class="content">
+  <ul>
+  {{ $data := .Data }}
+  {{ range $key, $value := .Data.Terms.ByCount }}
+    <li>
+      <a href="{{ $value.Name | urlize }}">{{ $value.Name }}</a>
+      <span>&#40;{{ $value.Count }}&#41;</span>
+    </li>
+  {{ end }}
+  </ul>
+</div>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+
+<div class="header">
+
+ <img src="/title.png" class="center"/>
+ <br/>
+<hr style="width:100%; color:#FFF; border-style: 2px;"/>
+  <h1>{{ .Title }}</h1>
+  <h3>{{ .Description }}</h3>
+  <br/>
+</div>
+<div class="content">
+
+  {{ partial "post_meta.html" . }}
+
+  {{ .Content }}
+  <!----
+  {{ partial "share.html" . }}
+  -->
+  {{ partial "prev_next_post.html" . }}
+  <!---
+  {{ partial "commento.html" . }}
+  
+  {{ partial "disqus.html" . }}
+
+  {{ partial "telegram.html" . }}
+-->
+</div>
+
+{{ partial "footer.html" . }}
