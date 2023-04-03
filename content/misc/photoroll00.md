@@ -2,7 +2,6 @@
 title: "Photo Roll 00 - Selfies, Self-Portraits, And Portraits Of The Soul"
 description: "For some weird reason, a lot of folks want to know what I look like. This photo roll is for them."  
 tags: ['photo roll', 'misc', 'selfies']
-date: 1969-04-20
 layout: "misc"
 ---
 

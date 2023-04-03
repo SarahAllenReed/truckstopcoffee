@@ -1,31 +1,10 @@
 ---
 title: "Infrequently Asked Questions"
-layout: "misc"
+description: 
+tags: ['FAQ', 'personal']
+date: 2023-01-23
+layout: single
 ---
-- [What Is A Sarah, And What Does She Do? (About Me)](#what-is-a-sarah-and-what-does-she-do-about-me)
-  - [Who are you, exactly?](#who-are-you-exactly)
-  - [How old are you?](#how-old-are-you)
-  - [What do you look like?](#what-do-you-look-like)
-  - [Where can I see your art/check out your music/listen to you on the radio?](#where-can-i-see-your-artcheck-out-your-musiclisten-to-you-on-the-radio)
-  - [I tuned into your radio show. Love your voice, but what's up with your accent?](#i-tuned-into-your-radio-show-love-your-voice-but-whats-up-with-your-accent)
-  - [What are you supposed to be, exactly/Are you a boy or a girl/What's going on with the whole gender thing you got goin' on there?](#what-are-you-supposed-to-be-exactlyare-you-a-boy-or-a-girlwhats-going-on-with-the-whole-gender-thing-you-got-goin-on-there)
-  - [I think you're cute. What does that make me? I'm having a crisis here!](#i-think-youre-cute-what-does-that-make-me-im-having-a-crisis-here)
-  - [Are you single/available? I must know!](#are-you-singleavailable-i-must-know)
-- [How To Talk To Cartoonists At Parties (How To Get Ahold Of Me And Some Boundaries About Doing So)](#how-to-talk-to-cartoonists-at-parties-how-to-get-ahold-of-me-and-some-boundaries-about-doing-so)
-  - [The drawings you have on here look pretty dope/Your music sounds pretty cool/I'm a fan of your radio work. Can I hire you to draw stuff for me/compose music for me/narrate my next audiobook?](#the-drawings-you-have-on-here-look-pretty-dopeyour-music-sounds-pretty-coolim-a-fan-of-your-radio-work-can-i-hire-you-to-draw-stuff-for-mecompose-music-for-menarrate-my-next-audiobook)
-  - [Your blog is dope and I wanted to tell you that/I found something cool you should check out/I wanna send you something. Where can I get ahold of you?](#your-blog-is-dope-and-i-wanted-to-tell-you-thati-found-something-cool-you-should-check-outi-wanna-send-you-something-where-can-i-get-ahold-of-you)
-  - [I think you suck and are wrong and stupid. Where can I get ahold of you to tell you about it?](#i-think-you-suck-and-are-wrong-and-stupid-where-can-i-get-ahold-of-you-to-tell-you-about-it)
-  - [You're hot/I'm confused about why I think you're hot/I want to be a creep to a random trans person. I also don't know what boundaries are. Where can I put my thoughts about that?](#youre-hotim-confused-about-why-i-think-youre-hoti-want-to-be-a-creep-to-a-random-trans-person-i-also-dont-know-what-boundaries-are-where-can-i-put-my-thoughts-about-that)
-  - [You seem cool, you're visibly trans which is neat, and I'm having questions about gender stuff. Can I message you about your experiences/ask you for advice?](#you-seem-cool-youre-visibly-trans-which-is-neat-and-im-having-questions-about-gender-stuff-can-i-message-you-about-your-experiencesask-you-for-advice)
-- [A Damn Fine Cup Of Truck Stop Coffee (A Bit About This Blog)](#a-damn-fine-cup-of-truck-stop-coffee-a-bit-about-this-blog)
-  - [Why make a blog?](#why-make-a-blog)
-  - [Why isn't your blog on your main website anymore?](#why-isnt-your-blog-on-your-main-website-anymore)
-  - [Why all the footnotes?](#why-all-the-footnotes)
-  - [What's up with the domain name?](#whats-up-with-the-domain-name)
-  - [That's not entirely unique, though; a lot of artists are obnoxiously loud about their coffee drinking problems. Why not "latte.coffee" or something?](#thats-not-entirely-unique-though-a-lot-of-artists-are-obnoxiously-loud-about-their-coffee-drinking-problems-why-not-lattecoffee-or-something)
-  - [Your work is usually somewhere between "relatively straightforward" and "deadly serious". What's with the tone in this blog?](#your-work-is-usually-somewhere-between-relatively-straightforward-and-deadly-serious-whats-with-the-tone-in-this-blog)
-  - [What is a "cartoonist-errant"? Is that like a knight-errant?](#what-is-a-cartoonist-errant-is-that-like-a-knight-errant)
-  - [Alright, well, what's with the rest of the tagline? Why "foolishness"?](#alright-well-whats-with-the-rest-of-the-tagline-why-foolishness)
 
 ---
 

@@ -11,6 +11,12 @@ paginate = 10
   tag = "tags"
   topic = "topics"
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
 [params]
   # Shown in the home page
   title = "Truck Stop Coffee"
@@ -52,7 +58,7 @@ paginate = 10
     pre = "<i class='fa fa-question fa-fw'></i>"
     weight = 5
     identifier = "faq"
-    url = "/misc/faq"
+    url = "/post/faq"
  [[menu.main]]
    name = "Main Site"
    pre = "<i class='fa fa-home fa-fw'></i>"
@@ -92,4 +98,6 @@ paginate = 10
 
 
 [markup.goldmark.renderer]
-unsafe= true
+  unsafe= true
+[markup.goldmark.extensions]
+  table = true
