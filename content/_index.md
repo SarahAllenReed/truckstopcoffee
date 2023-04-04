@@ -1,5 +1,5 @@
 ---
-title: Sarah's Studio Notes
+title: "Truck Stop Coffee - Sarah Allen Reed's Blog"
 layout: index
 ---
 

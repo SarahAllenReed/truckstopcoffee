@@ -43,12 +43,17 @@ article > footer {
   text-align: right;
 }
 
+.pure-g {
+  font-family: "OldNewspaperTypes", "Baskerville", serif;
+}
+
 .prev-next-post {
   margin-top: 2em;
   padding-top: 2em;
   padding-bottom: 2em;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #eee;
+  font-family: "OldNewspaperTypes", "Baskerville", serif;
 }
 
 .prev-next-post .prev {
@@ -153,5 +158,9 @@ img.center {
 
 
 h3 {
+  color: #fff;
+}
+
+h4 {
   color: #fff;
 }
