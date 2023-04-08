@@ -31,7 +31,7 @@ paginate = 10
   # Shown in the side menu.
   [[menu.main]]
     name = "Home"
-    pre = "<i class='fa fa-book fa-fw'></i>"
+    pre = "<i class='fa fa-home fa-fw'></i>"
     weight = 1
     identifier = "home"
     url = "/"
@@ -43,7 +43,7 @@ paginate = 10
     url = "/post/"
   [[menu.main]]
     name = "Topics"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    pre = "<i class='fa fa-book fa-fw'></i>"
     weight = 3
     identifier = "topics"
     url = "/tags/"
@@ -54,15 +54,27 @@ paginate = 10
     identifier = "photos"
     url = "/tags/photo-roll"
   [[menu.main]]
+    name = "About Me"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 6
+    identifier = "about"
+    url = "/post/about"
+  [[menu.main]]
     name = "FAQ"
     pre = "<i class='fa fa-question fa-fw'></i>"
-    weight = 5
+    weight = 7
     identifier = "faq"
     url = "/post/faq"
+  [[menu.main]]
+    name = "Links"
+    pre = "<i class='fa fa-link fa-fw'></i>"
+    weight = 7
+    identifier = "links"
+    url = "/post/links"
  [[menu.main]]
    name = "Main Site"
    pre = "<i class='fa fa-home fa-fw'></i>"
-   weight = 6
+   weight = 9
    url = "http://sarahallenreed.com"
 
 [social]
