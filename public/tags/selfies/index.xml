@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>selfies on Truck Stop Coffee</title>
+    <link>/tags/selfies/</link>
+    <description>Recent content in selfies on Truck Stop Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All work written by Sarah Allen Reed.</copyright>
+    
+	<atom:link href="/tags/selfies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photo Roll 00 - Selfies, Self-Portraits, And Portraits Of The Soul</title>
+      <link>/post/photoroll00/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/photoroll00/</guid>
+      <description>For whatever reason, a lot of folks seem to be fascinated with knowing what folks who create things look like. I&amp;rsquo;ve never understood it&amp;ndash;partially because I&amp;rsquo;m not exactly the type of artist known for going out of her way to look remotely presentable&amp;ndash;but for those of you curious, here&amp;rsquo;s a tiny little selection of self-portraits and press photos I&amp;rsquo;ve had taken over the years.
+ 
+ Self-portrait from the pages of Tabula Rosetta.</description>
+    </item>
+    
+  </channel>
+</rss>

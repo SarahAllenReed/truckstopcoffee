@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open source on Truck Stop Coffee</title>
+    <link>/tags/open-source/</link>
+    <description>Recent content in open source on Truck Stop Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All work written by Sarah Allen Reed.</copyright>
+    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#005: Apparently I&#39;ve Been Banned From Instagram</title>
+      <link>/post/0005/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/0005/</guid>
+      <description>Quick note - as of me editing this post on March 15, my Instagram account has been reinstated. I&amp;rsquo;m still going to actively avoid using it unless necessary, as I stated in this post, and I&amp;rsquo;ve also added &amp;ldquo;Share To&amp;rdquo; buttons to these blog pages and to the galleries if you wish to show off my work to some folks or talk about what I have to say on this blog.</description>
+    </item>
+    
+    <item>
+      <title>#001: A Fresh Start, Old Computers, and a New Coat Of Paint</title>
+      <link>/post/0001/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/0001/</guid>
+      <description>Intro Hey, y&amp;rsquo;all. As you&amp;rsquo;ve most likely noticed, 2022 was&amp;hellip;.well, not a good year for social media. Twitter&amp;rsquo;s on fire, Facebook&amp;rsquo;s been under federal scrutiny for years now, and seeing as I don&amp;rsquo;t have a face for anything but radio, I&amp;rsquo;ve never bothered with Tiktok.
+So, now that I&amp;rsquo;ve finally updated my website again, I&amp;rsquo;ve decided to just go back to basics and start a little blog here instead. I&amp;rsquo;ve always been more long-winded than most social media sites want me to be as it is, and this kind of format gives me more of an opportunity to write a bit about things I wouldn&amp;rsquo;t normally get the chance to talk about otherwise.</description>
+    </item>
+    
+  </channel>
+</rss>

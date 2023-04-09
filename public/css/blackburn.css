@@ -1,0 +1,165 @@
+@import url("fonts.css");
+
+.header {
+  font-family: "OldNewspaperTypes", "Baskerville", serif;
+/*  background-color: #000000;*/
+}
+
+body{
+  color: #b5c5f1;
+  background: url("/bg.png");
+  background-repeat: repeat;
+  background-position: top;
+  font-family: "Typey", "Baskerville", serif;
+}
+
+div.content {
+  font-family: "Typey";
+}
+
+a {
+  color: #579dc5;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #7af5f5;
+  text-decoration: underline;
+}
+a:visited {
+  color: #8a688f;
+}
+
+.small-print {
+  font-size: 0.8em;
+}
+
+.post-meta {
+  font-size: 90%;
+}
+
+article > footer {
+  text-align: right;
+}
+
+.pure-g {
+  font-family: "OldNewspaperTypes", "Baskerville", serif;
+}
+
+.prev-next-post {
+  margin-top: 2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  font-family: "OldNewspaperTypes", "Baskerville", serif;
+}
+
+.prev-next-post .prev {
+  float: left;
+  text-align: left;
+  overflow: hidden;
+}
+
+.prev-next-post .next {
+  float: right;
+  text-align: right;
+  overflow: hidden;
+}
+
+#menu {
+  overflow-y: auto;
+}
+
+#menu a {
+  padding: 0.6em;
+}
+
+#menu .brand {
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 1em;
+  letter-spacing: 0.1em;
+  text-transform: none;
+  background: transparent;
+  text-decoration: none;
+  margin: 0.5em 0;
+}
+
+#menu .pure-menu {
+  font-size: 0.9em;
+}
+
+#menu .pure-menu ul.pure-menu-children {
+  border-top: none;
+}
+
+i {
+  display: inline-block;
+  margin-right: 0.2em;
+}
+
+.pagination {
+  text-align: center;
+  margin-top: 3em;
+}
+
+.pagination a {
+  color: #66ffff;
+}
+
+
+div p {
+	text-align: justify;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.floatleft{
+  max-width: 30%;
+  padding: 20px 20px 20px 20px;
+  width: auto;
+  height: auto;
+  float: left;
+}
+
+.floatright{
+	max-width: 30%;
+    padding: 20px 20px 20px 20px;
+	width: auto;
+	height: auto;
+	float: right;
+}
+
+.floatcenter{
+	max-width: 70%;
+  padding: 20px 20px 20px 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+  
+.caption{
+	/*font-family: 'Remington Noiseless', monospace;*/
+	color: #66ffff;
+	font-size: 10pt;
+	text-align: left;
+}
+
+
+h3 {
+  color: #fff;
+}
+
+h4 {
+  color: #fff;
+}

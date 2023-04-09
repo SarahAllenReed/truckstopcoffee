@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Truck Stop Coffee</title>
+    <link>/tags/linux/</link>
+    <description>Recent content in linux on Truck Stop Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All work written by Sarah Allen Reed.</copyright>
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#001: A Fresh Start, Old Computers, and a New Coat Of Paint</title>
+      <link>/post/0001/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/0001/</guid>
+      <description>Intro Hey, y&amp;rsquo;all. As you&amp;rsquo;ve most likely noticed, 2022 was&amp;hellip;.well, not a good year for social media. Twitter&amp;rsquo;s on fire, Facebook&amp;rsquo;s been under federal scrutiny for years now, and seeing as I don&amp;rsquo;t have a face for anything but radio, I&amp;rsquo;ve never bothered with Tiktok.
+So, now that I&amp;rsquo;ve finally updated my website again, I&amp;rsquo;ve decided to just go back to basics and start a little blog here instead. I&amp;rsquo;ve always been more long-winded than most social media sites want me to be as it is, and this kind of format gives me more of an opportunity to write a bit about things I wouldn&amp;rsquo;t normally get the chance to talk about otherwise.</description>
+    </item>
+    
+  </channel>
+</rss>

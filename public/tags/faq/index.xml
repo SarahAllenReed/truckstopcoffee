@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ on Truck Stop Coffee</title>
+    <link>/tags/faq/</link>
+    <description>Recent content in FAQ on Truck Stop Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All work written by Sarah Allen Reed.</copyright>
+    <lastBuildDate>Sun, 20 Apr 1969 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>/post/about/</link>
+      <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
+      
+      <guid>/post/about/</guid>
+      <description>I&amp;rsquo;m Sarah. I&amp;rsquo;m an underground cartoonist, professional illustrator, and wandering ne&amp;rsquo;er-do-well. I&amp;rsquo;ve been telling stories and creating work for what is basically my entire adult life, and this is where I&amp;rsquo;ve decided to place my thoughts on doing so, as well as ramblings about life in general.
+This blog is mainly where I write about things that hold my interest, and is also where I put notes on books, records, and other such things that I&amp;rsquo;m working on.</description>
+    </item>
+    
+    <item>
+      <title>Infrequently Asked Questions</title>
+      <link>/post/faq/</link>
+      <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
+      
+      <guid>/post/faq/</guid>
+      <description>A Damn Fine Cup Of Truck Stop Coffee (A Bit About This Blog) Why make a blog? To paraphrase the Allman Brothers Band, I was born a&amp;rsquo;ramblin&amp;rsquo;. I have a lot to say that doesn&amp;rsquo;t neatly fit into the thematic bonds of my books, paintings, or records. I also know full well through experience that I&amp;rsquo;m at perpetual risk of watching things I say disappear off the Internet if I don&amp;rsquo;t self-host it.</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>/post/links/</link>
+      <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
+      
+      <guid>/post/links/</guid>
+      <description>The following are links to websites of folks I think are cool. I don&amp;rsquo;t want to use this page to promote social media networks, and the vast majority of folks (specifically, other cartoonists/DJs) I know have social media accounts in place of a website, so this list shouldn&amp;rsquo;t be considered an exhaustive compendium of folks I think are neat. If you&amp;rsquo;re not on this list but think you should be, I probably can&amp;rsquo;t find your website or I haven&amp;rsquo;t gotten around to adding you yet because I&amp;rsquo;ve been busy with other obligations.</description>
+    </item>
+    
+  </channel>
+</rss>

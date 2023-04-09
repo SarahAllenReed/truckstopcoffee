@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>industry on Truck Stop Coffee</title>
+    <link>/tags/industry/</link>
+    <description>Recent content in industry on Truck Stop Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All work written by Sarah Allen Reed.</copyright>
+    <lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/industry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#007: An Old Interview (or, A Time Capsule To 2019 Sarah)</title>
+      <link>/post/0007/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/0007/</guid>
+      <description>What is this, exactly? While going through some old files on an old shared network drive trying to track down an old script I&amp;rsquo;m working on re-writing, I found this series of interview answers that I gave for a blog that wanted to interview me.
+If that seems a strange way of doing things, it kind of is. It&amp;rsquo;s also more or less the norm on a lot of journalistic outlets nowadays, especially those that cater to small press books and records.</description>
+    </item>
+    
+  </channel>
+</rss>

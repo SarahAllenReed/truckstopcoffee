@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Truck Stop Coffee</title>
+    <link>/tags/about/</link>
+    <description>Recent content in about on Truck Stop Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All work written by Sarah Allen Reed.</copyright>
+    <lastBuildDate>Sun, 20 Apr 1969 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>/post/about/</link>
+      <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
+      
+      <guid>/post/about/</guid>
+      <description>I&amp;rsquo;m Sarah. I&amp;rsquo;m an underground cartoonist, professional illustrator, and wandering ne&amp;rsquo;er-do-well. I&amp;rsquo;ve been telling stories and creating work for what is basically my entire adult life, and this is where I&amp;rsquo;ve decided to place my thoughts on doing so, as well as ramblings about life in general.
+This blog is mainly where I write about things that hold my interest, and is also where I put notes on books, records, and other such things that I&amp;rsquo;m working on.</description>
+    </item>
+    
+  </channel>
+</rss>
