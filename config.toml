@@ -14,8 +14,8 @@ paginate = 10
 [markup]
   [markup.tableOfContents]
     endLevel = 4
-    ordered = false
     startLevel = 2
+    ordered = false
 
 [params]
   # Shown in the home page
