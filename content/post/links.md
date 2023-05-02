@@ -6,15 +6,18 @@ date: 1969-04-20
 layout: single
 ---
 
+---
+
+<img class="floatright" src="/construction.png"/> 
+
 The following are links to websites of folks I think are cool. I don't want to use this page to promote social media networks, and the vast majority of folks (specifically, other cartoonists/DJs) I know have social media accounts in place of a website, so this list shouldn't be considered an exhaustive compendium of folks I think are neat. If you're not on this list but think you should be, I probably can't find your website or I haven't gotten around to adding you yet because I've been busy with other obligations. 
 
 If you don't have a website, make one then [email me a link to it!](mailto:sarah@sarahallenreed.com)
 
-<img class="floatleft" src="/construction.gif"/> 
 
-*Note: This list is VERY incomplete at the moment--I'm in the middle of a bunch of things and need time to track down a bunch of my friends' websites. I'm tossing it up as-is at this moment, though, and I'll be adding to it fairly constantly.*
+*Note: This list is VERY incomplete at the moment--I'm in the middle of a bunch of things and need time to track down a bunch of my friends' websites. I'm tossing it up as-is at this moment, though, and I'll be adding to it fairly constantly. Check back soon!*
 
-*Check back soon!*
+---
 
 ## Other Cartoonists, Artists, And Pen Wielders
 

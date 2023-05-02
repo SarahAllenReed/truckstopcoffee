@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comics on Truck Stop Coffee</title>
+    <link>/tags/comics/</link>
+    <description>Recent content in comics on Truck Stop Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All work written by Sarah Allen Reed.</copyright>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/comics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photo Roll 02 - Scenes From The Studio - Our Lady Maven, Issue 1</title>
+      <link>/post/photoroll02/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/photoroll02/</guid>
+      <description>Some in-progress photos of me working my way through Our Lady Maven Issue 1.
+ 
+ Inking panels from the comic.  
+ Full art for Page 8.  
+ Close up inks. You can see the ink smudges from the typewriter real well here.  
+ Probably my favorite panel. 
+ 
+ Sneaking in an overt homage to one of my favorite adventure game detectives</description>
+    </item>
+    
+  </channel>
+</rss>

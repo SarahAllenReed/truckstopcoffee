@@ -3,12 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/0007/</loc>
-    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
+    <loc>/post/0009/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/art/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/comics/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/heavy/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/illustration/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/misc/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/personal/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/photo-roll/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/photoroll02/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/process/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/trans/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/0008/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/luckless-games/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/music/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/our-lady-maven/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pinephone/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/studio-notes/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tech/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/0007/</loc>
     <lastmod>2023-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,37 +138,12 @@
   </url>
   
   <url>
-    <loc>/tags/misc/</loc>
-    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/photo-roll/</loc>
-    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/photoroll01/</loc>
     <lastmod>2023-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/polyhymnia/</loc>
-    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2023-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,37 +193,12 @@
   </url>
   
   <url>
-    <loc>/tags/personal/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tech/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/0004/</loc>
     <lastmod>2023-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/0003/</loc>
-    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/luckless-games/</loc>
-    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/music/</loc>
-    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/our-lady-maven/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -200,6 +250,10 @@
   <url>
     <loc>/post/links/</loc>
     <lastmod>1969-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/0010/</loc>
   </url>
   
   <url>

@@ -8,6 +8,20 @@ layout: single
 
 ---
 
+<img class="floatleft" src="/construction.png"/> 
+<br/>
+<br/>
+<br/>
+
+*Note: This FAQ page is a constant work in progress, as is most of the site. As I get new questions, think of things I might want to make sure my readers know, and invent new answers and/or questions for those answers, I'll be adding them here. If you can't find an answer to whatever it is that you're curious about, [send me an email](mailto:sarah@sarahallenreed.com) and I might just add it here.*
+
+*Check back soon!*
+
+<br/>
+<br/>
+
+---
+
 ## A Damn Fine Cup Of Truck Stop Coffee (A Bit About This Blog)
 
 ### Why make a blog?
