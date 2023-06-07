@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pinephone on Truck Stop Coffee</title>
@@ -9,7 +8,7 @@
     <copyright>All work written by Sarah Allen Reed.</copyright>
     <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/pinephone/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/pinephone/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,9 +17,111 @@
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/post/0008/</guid>
-      <description>Hey y’all! It’s your favorite dork, back at it again. I&amp;rsquo;ve got a bit of a longer segment this month, so I&amp;rsquo;m breaking my &amp;ldquo;The Finer Things&amp;rdquo; into two segments; &amp;ldquo;Studio News&amp;rdquo;, where I talk about the things I&amp;rsquo;ve been up to and what I&amp;rsquo;ve got in the pipeline, and &amp;ldquo;The Finer Things&amp;rdquo;, where I talk a bit about what I&amp;rsquo;ve been listening to, watching, reading, playing, and smoking.
-I&amp;rsquo;ve also got a bit of a long, introspective topic to talk about, but that&amp;rsquo;s getting lopped into its own post as well; it&amp;rsquo;s heavy enough for one of my books, which means that I&amp;rsquo;d rather put it in its own little column instead of putting it in with the lighter things I usually talk about on this blog.</description>
+      <description>&lt;p&gt;Hey y’all! It’s your favorite dork, back at it again. I&amp;rsquo;ve got a bit of a longer segment this month, so I&amp;rsquo;m breaking my &amp;ldquo;The Finer Things&amp;rdquo; into two segments; &amp;ldquo;Studio News&amp;rdquo;, where I talk about the things I&amp;rsquo;ve been up to and what I&amp;rsquo;ve got in the pipeline, and &amp;ldquo;The Finer Things&amp;rdquo;, where I talk a bit about what I&amp;rsquo;ve been listening to, watching, reading, playing, and smoking.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve also got a bit of a long, introspective topic to talk about, but that&amp;rsquo;s getting lopped into its own post as well; it&amp;rsquo;s heavy enough for one of my books, which means that I&amp;rsquo;d rather put it in its own little column instead of putting it in with the lighter things I usually talk about on this blog. I&amp;rsquo;ll have a bit more on that at the end of this post.&lt;/p&gt;
+&lt;p&gt;So without further ado, here&amp;rsquo;s the studio notes for the past couple months.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-ive-been-working-on&#34;&gt;WHAT I&amp;rsquo;VE BEEN WORKING ON&lt;/h2&gt;
+&lt;div class=&#34;floatright caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/blog/0008/01.png&#34;&gt;&lt;img src=&#34;/blog/0008/01.png&#34; alt=&#34;Datafruits&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Signing copies of Our Lady Maven to send out to backers. &lt;/p&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;our-lady-maven&#34;&gt;OUR LADY MAVEN&lt;/h3&gt;
+&lt;p&gt;Our Lady Maven Issue 1 is finally done, promo art and all, and it&amp;rsquo;s more or less all out the door. I&amp;rsquo;ve signed and sent back my portion of the signed copies we did for the crowdfunding campaign, and I&amp;rsquo;ll be packing up the original art the fine folks who picked them up for the crowdfunding campaign and writing letters to go with them soon.&lt;/p&gt;
+&lt;p&gt;I cannot underscore how stoked I am to finally have this book out into the world, and both Em and I are very grateful for all of your support.&lt;/p&gt;
+&lt;p&gt;If you haven&amp;rsquo;t checked out the book yet, you can check out &lt;a href=&#34;/post/photoroll02&#34;&gt;this photo roll&lt;/a&gt; where I go into detail on the process of working through the issue itself, and you can also check it out &lt;a href=&#34;https://globalcomix.com/c/our-lady-maven/chapters/en/1/&#34;&gt;on GlobalComix&lt;/a&gt; and &lt;a href=&#34;https://ourladymaven.com/shop/&#34;&gt;purchase a physical copy here.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;cigarettes-demo&#34;&gt;CIGARETTES DEMO&lt;/h3&gt;
+&lt;div class=&#34;floatleft caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/blog/0008/02.png&#34;&gt;&lt;img src=&#34;/blog/0008/02.png&#34; alt=&#34;Datafruits&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Mapping out the...er, map.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;I&amp;rsquo;ve also been intermittently working on the &lt;a href=&#34;/post/0003/#what-ive-been-working-on&#34;&gt;adventure game you all saw last time&lt;/a&gt;, albeit with a bit of a twist&amp;ndash;in order to flesh out the actual systems of the game in a slightly more low-stakes setting, Autumn ████████ and I have been crafting a tiny demo. Her and I have been collaborating for about a year and a half on developing a small TTRPG setting that we want to eventually expand upon, and I figured telling a story in that setting in a tiny demo of the ADV-style adventure game engine I&amp;rsquo;ve been working on developing in Renpy would be a fantastic way to make sure everything ticks just the way we want it to.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t have much to show on it currently&amp;ndash;and probably won&amp;rsquo;t for a bit, seeing as I&amp;rsquo;m about to start in on OLM Issue 2, as well as one other project I can&amp;rsquo;t talk about just yet and other comics that I&amp;rsquo;ll talk about later in this post. This will mostly be a little thing to hack on in the mornings when I&amp;rsquo;m still waking up and need something to get my mind rolling. Still, it is coming along decently nicely, and I&amp;rsquo;ve already got the map for the demo mostly plotted out, as you can see here.&lt;/p&gt;
+&lt;p&gt;Speaking of hacking on things&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;pinephones-porting-themes-and-other-open-source-fuckery&#34;&gt;PINEPHONES, PORTING THEMES, AND OTHER OPEN SOURCE FUCKERY&lt;/h3&gt;
+&lt;p&gt;As some of you know, I own a Pinephone, and I love the little bastard. I&amp;rsquo;ve used the thing in place of a commonplace book, as a portable SSH terminal, as a ScummVM box that fits in my purse, and as a general fun-time hacky thingy.&lt;/p&gt;
+&lt;div class=&#34;floatright caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/blog/0008/03.png&#34;&gt;&lt;img src=&#34;/blog/0008/03.png&#34; alt=&#34;Datafruits&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Rose Pine theme, ported to qt5. I&#39;m running &lt;a href=&#34;https://audacious-media-player.org/&#34;&gt;Audacious&lt;/a&gt; here for my music player.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;I&amp;rsquo;ve also been working on making sure that I&amp;rsquo;m not the only one who gets to benefit from my tinkering (and occasional suffering). I had to manually port the &lt;a href=&#34;https://rosepinetheme.com/&#34;&gt;Rosé Pine theme&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to qt5ct (you can see it in the screenshot to your left there, running the QT version of Audacious), and ended up porting it to Xresources as well before being informed that they already had a theme going for it. &lt;a href=&#34;https://github.com/rose-pine/xresources&#34;&gt;Thankfully the fine folks needed screenshots anyways, so I at least got to make one decent contribution.&lt;/a&gt; I&amp;rsquo;ll probably be sending them a qt5 theme as well, once I&amp;rsquo;ve finished up with it.&lt;/p&gt;
+&lt;p&gt;The thing is, I had a helluva time even getting qt5ct running on PostmarketOS (among other things, including bluetooth&amp;ndash;which involved multiple wipes-and-OS-reinstalls) and while she&amp;rsquo;s all set up now I&amp;rsquo;ll probably be putting together a little blog post so you all don&amp;rsquo;t make the same mistakes I did. That&amp;rsquo;ll probably be a thing for next month, however.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve finally got the ol&amp;rsquo; girl fairly close to a unixporn-worthy setup, though. She&amp;rsquo;s comin&amp;rsquo; along just fine.&lt;/p&gt;
+&lt;h3 id=&#34;new-comics-maybe&#34;&gt;NEW COMICS? MAYBE?&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img class=&#34;floatleft&#34; src=&#34;/heavysm.png&#34;/&gt; 
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Fair warning: the following segment talks about an in-progress book of mine that covers a particularly heavy topic&amp;ndash;namely, the ongoing mistreatment and attempted genocide of the transgender population by certain far-right subsects of the American government.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;I know not everyone has the spoons to read about that right now, or even read about an in-progress book about it&amp;ndash;lord knows I barely have the spoons to write about it&amp;ndash;so if you&amp;rsquo;re not in a good place or just would prefer to skip ahead to the next section, go on ahead.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;hr&gt;
+&lt;p&gt;Finally, as some of you have noticed on &lt;a href=&#34;https://defcon.social/@sarahallenreed&#34;&gt;Mastodon&lt;/a&gt;, I&amp;rsquo;ve been angry-typing my way through a new script, &amp;ldquo;Snakes: A Brief And Personal History Of The Inner Workings Of Trans Genocide&amp;rdquo;, in response to my home state of Missouri officially criminalizing trans healthcare in the name of &amp;ldquo;consumer protections&amp;rdquo;; a hilariously dishonest one, seeing as half the billboards you see when entering our state advertise that you should buy your smokes here, because we have the lowest cigarette tax in the contiguous 48. Hell, we have multiple establishments in our fine state that are a combination smoke shop, gas station, and &lt;em&gt;fireworks emporium.&lt;/em&gt; I say this as a habitual cigar smoker and recovering alcoholic&amp;ndash;if Missouri gives a shit about public health, I&amp;rsquo;m the second coming of Anne Fuckin&amp;rsquo; Rice and I have a bridge to sell you.&lt;/p&gt;
+&lt;p&gt;The issue with this obvious slam dunk of graphic journalism can be fairly clearly illustrated the fact that I&amp;rsquo;m probably the only one stupid enough to write it. I&amp;rsquo;m going to be honest, I have zero expectation of this doing anything but getting me doxxed, harassed, and possibly shot, regardless of how much effort I put into it. I don&amp;rsquo;t see this getting picked up by any publisher or any magazine or periodical, a statement I say with some experience. I actually pitched this book last year to a couple graphic journalism outlets, and one of my friends even gave me a direct referral to her publisher. Not a single publisher took me up on it, and that was well over a year ago at this point.&lt;/p&gt;
+&lt;div class=&#34;floatleft caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/blog/0008/04.png&#34;&gt;&lt;img src=&#34;/blog/0008/04.png&#34; alt=&#34;Datafruits&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; An early draft of Snakes, with its original working title.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;The thing with writing about trans issues is that most of the populace doesn&amp;rsquo;t give a shit about trans people dying, especially if the ones who die aren&amp;rsquo;t useful to the cis narrative, and there&amp;rsquo;s a certain segment of the population that would rather us straight up commit suicide than bother them with our existence at all.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Even the folks that &lt;em&gt;do&lt;/em&gt; care about trans lives often will straight up not support work by trans folk that aren&amp;rsquo;t woefully capitulatory to the &amp;ldquo;generosity&amp;rdquo;, &amp;ldquo;acceptance&amp;rdquo;, and &amp;ldquo;compassion&amp;rdquo; of the cis people around us, three things that a large section of the trans population rarely, if ever, get shown. In fact, unless you&amp;rsquo;re white, cis-passing, come from wealth or some kind of generational privilege, didn&amp;rsquo;t come out publicly until you&amp;rsquo;ve already done some kind of public-appeal work the cis folk liked, and don&amp;rsquo;t have an inordinately tragic backstory that involves you getting disowned, repeatedly sacked, and dragged through the mud and thrust into a state of depression and isolation that is nearly guaranteed to eventually kill you, you&amp;rsquo;re often doomed to not even be allowed near the microphones at all.&lt;/p&gt;
+&lt;p&gt;I am exactly one of those things&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, and I&amp;rsquo;m also not writing about a fun part of the trans experience. I&amp;rsquo;m writing a series of arguments for the fact that the current persecution and violent treatment of trans folks in the United States is a direct&amp;ndash;and intentional&amp;ndash;mirror of the ten steps of genocide, as well as outlining my own personal history being raised in an abusive religious foster family, my experiences with a church (the one I was raised in, for the record) that directly funded the AIDS crisis and subsequent genocide of the gay community in the &amp;rsquo;80s and &amp;rsquo;90s, and the parallels between that event in American history and the one going on today in my own home state being pushed by ultra-Christian white supremacists who own copious amounts of guns and are more than happy to broadcast the fact that they&amp;rsquo;re willing to shoot minorities with them. This is not something anyone is going to pick up. This is not even remotely publishable. If anything, this is a death wish.&lt;/p&gt;
+&lt;div class=&#34;floatright caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/blog/0008/04_1.png&#34;&gt;&lt;img src=&#34;/blog/0008/04_1.png&#34; alt=&#34;Datafruits&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Its current state, as of me typing out this blog. To say this has come together quickly is a bit of an understatement.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Thing is, that&amp;rsquo;s not remotely new to me. Hell, at the moment, I&amp;rsquo;m also working on BARREN, another book that I genuinely don&amp;rsquo;t think is going to get picked up by any publisher due to its violent content, fucked-up and complicated storyline, and its unflinchingly bleak ending.&lt;/p&gt;
+&lt;p&gt;This kind of leaves me with exactly one option if I want to get these books out into the world, and that&amp;rsquo;s to publish them myself. I&amp;rsquo;ve done this before&amp;ndash;Tabula Rosetta was my answer to the fact that no one wanted to publish my comics, and it ran for nine issues over nearly three years. I don&amp;rsquo;t want to re-boot Tabula Rosetta; as far as I&amp;rsquo;m concerned, it ran its course, and seeing as the first three chapters of the original draft of BARREN were published in the original run of TR, I think it&amp;rsquo;d be kind of weird having the tenth issue start up by telling a more refined version of the first chapter of a book that was already published in issue 7.&lt;/p&gt;
+&lt;p&gt;I also don&amp;rsquo;t want to go back to a regular release schedule. Tabula Rosetta&amp;rsquo;s bimonthly release schedule&amp;ndash;which was kept to even when I was living in a van and homeless on the east coast&amp;ndash;was more or less what stopped me from continuing it. I don&amp;rsquo;t want to risk burning myself out by forcing myself into slamming through a regular release schedule, especially since I&amp;rsquo;ve been dealing with burnout for years anyways and haven&amp;rsquo;t released a full-length solo work in nearly four years at this point.&lt;/p&gt;
+&lt;p&gt;What this leaves us with is either:&lt;/p&gt;
+&lt;p&gt;A.  I&amp;rsquo;ll end up putting these comics online, on their own website, as I finish each chapter, or;&lt;/p&gt;
+&lt;p&gt;B.  I&amp;rsquo;ll end up putting these out, chapter by chapter, in their own magazine, which won&amp;rsquo;t be released until each issue is done to my satisfaction and ready to roll. &lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The current plan is to do both at once. I have a title picked out for the magazine in option B, and I&amp;rsquo;ll probably secure the domain name for option A as well just in case. Lord knows my agoraphobia has kept me from getting to the post office in a timely manner more than once in my career; option A is probably the safest to ensure that I&amp;rsquo;m actually able to get these out there to all of you without you having to wait until my head&amp;rsquo;s in a good enough state to leave the house and deal with the post.&lt;/p&gt;
+&lt;p&gt;Stay tuned.&lt;/p&gt;
+&lt;h2 id=&#34;what-ive-been-up-to&#34;&gt;WHAT I&amp;rsquo;VE BEEN UP TO&lt;/h2&gt;
+&lt;h3 id=&#34;coming-to-terms-with-having-to-root-for-the-cubs&#34;&gt;COMING TO TERMS WITH HAVING TO ROOT FOR THE CUBS&lt;/h3&gt;
+&lt;div class=&#34;floatleft caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/blog/0008/05.png&#34;&gt;&lt;img src=&#34;/blog/0008/05.png&#34; alt=&#34;Datafruits&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; hahahahahaha yeah about that&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;So, I&amp;rsquo;ve got good news and bad news. The good news is, Autumn ████████ and I are finally getting the hell out of Colorado. I&amp;rsquo;ve been trying to leave this shithole since nearly the minute I got here, and after multiple years of having setback after setback, it&amp;rsquo;s finally just about time for us to get out of Dodge.&lt;/p&gt;
+&lt;p&gt;The bad news is that we&amp;rsquo;re moving this red-blooded dyed-in-the-wood Ozzie-Smith-loving Cardinals girl to Illinois, just outside of Chicago. You know, the home of the Chicago Cubs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sacrilege&lt;/em&gt;, I tell ya.&lt;/p&gt;
+&lt;div class=&#34;floatright caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/blog/0008/06.png&#34;&gt;&lt;img src=&#34;/blog/0008/06.png&#34; alt=&#34;Datafruits&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Packin&#39; boxes. If you wanna judge my book collection, now&#39;s the time; I&#39;m not sure when I&#39;m gonna be able to unpack it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;The fun part about being a household made up of a found family consisting of two trans folk and a toothy barking fuzzball is that there&amp;rsquo;s not many places you can move where you won&amp;rsquo;t be risking getting shot at. We obviously can&amp;rsquo;t go back to my home state of Missouri, and Autumn&amp;rsquo;s from even further south in DeSantis Land so we&amp;rsquo;re definitely not moving to her neck of the woods. Thankfully, Illinois not only has trans protections but is also a true-blue trade union state, something that has been very clearly lacking in the state that has been desperately trying to live up to Senator Armstrong&amp;rsquo;s libertarian ideals since well before the release of Revengeance.&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m honestly looking forward to being back in the Midwest again, if for no other reason than the fact that the elevation here makes my skin flake up, the lack of humidity kills both of us and I miss my fuckin&amp;rsquo; rivers. Had we the cash, I&amp;rsquo;d have preferred to move back to Maine&amp;ndash;I lived there for about a year, and I honestly kind of grew to love it. Still miss Portland to this day. Maybe at some point we&amp;rsquo;ll have the money to end up back there, but for now, it&amp;rsquo;s back to the lower rents and muddy waters of the Mississippi River, where my accent won&amp;rsquo;t be out of place, my beater car won&amp;rsquo;t get rammed by idiots driving Teslas who are really angry that I don&amp;rsquo;t know who their father is, and the fact that I don&amp;rsquo;t regularly get high enough to think Joe Rogan is onto something is a social faux pax in and of itself.&lt;/p&gt;
+&lt;p&gt;(Seriously, though, don&amp;rsquo;t expect me to root for the fuckin&amp;rsquo; Cubs. I ain&amp;rsquo;t doin&amp;rsquo; it. You can&amp;rsquo;t make me.)&lt;/p&gt;
+&lt;h3 id=&#34;sobriety-and-recovery&#34;&gt;SOBRIETY AND RECOVERY&lt;/h3&gt;
+&lt;p&gt;Next month, I&amp;rsquo;ll have hit a major milestone&amp;ndash;six months sober. I&amp;rsquo;ve also finally weighed in for the first time in a while, and I&amp;rsquo;m finally down to 155lbs&amp;ndash;last year in January, I weighed in at 215 after two years of relapsing on my eating disorder.&lt;/p&gt;
+&lt;p&gt;The past three years have been particularly rough, and to be frank I&amp;rsquo;m surprised I survived them. Finally getting sober and getting my eating disorder back under control is something that took an absurd amount of effort. I want to keep this post at least relatively light, so I won&amp;rsquo;t be going into it here, but I did write a bit about the past few years and trying to get a handle back on my life. &lt;a href=&#34;/post/0009/&#34;&gt;If you&amp;rsquo;re in a place where you can handle some heavier narratives, you can check it out here.&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;That&amp;rsquo;s about all I&amp;rsquo;ve been up to in the studio for the past month. Tomorrow I&amp;rsquo;ll have the radio schedule up for The Jazz Program and Talkie Time for the month of May, and probably shortly thereafter I&amp;rsquo;ll post a new installment of The Finer Things.&lt;/p&gt;
+&lt;p&gt;Thank you all, as always, for reading. You&amp;rsquo;re all amazing and don&amp;rsquo;t let anyone tell you that you&amp;rsquo;re not. See you soon.&lt;/p&gt;
+&lt;p&gt;&amp;ndash;SARAH&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Footnotes...&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;I used to use &lt;a href=&#34;https://draculatheme.com/&#34;&gt;Dracula&lt;/a&gt; across most of my devices, but I honestly like the pastels of Rose Pine a lot better. If you saw older screenshots of my setups over the past year, though, I was probably using Dracula. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;You know, I almost cut this line, thinking it was too confrontational even for my radical ass, and then &lt;a href=&#34;https://www.advocate.com/politics/montana-seekins-crowe-daughter-suicide&#34;&gt;this story hit the news the same day I was editing this.&lt;/a&gt; If you wanted proof, here you go. Trust me, I don&amp;rsquo;t like it anymore than you do. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;If you somehow couldn&amp;rsquo;t figure out which of the list applies here&amp;hellip;it&amp;rsquo;s the first one, honey. I&amp;rsquo;m paler than mayonnaise. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;There is also a &lt;a href=&#34;https://www.merriam-webster.com/dictionary/tertiary&#34;&gt;tertiary&lt;/a&gt; option and failure state C, where I just don&amp;rsquo;t release any of these books in any form, realize what&amp;rsquo;s good for me, stop drawing forever and take up a career as an underwater nuclear welder, bomb disposal expert, or something equally less hazardous to my health than being the weird fusion of gonzo journalist, underground cartoonist, and certifiable lunatic that I am. I don&amp;rsquo;t see that happening though. If I were smart enough to know what was good for me I wouldn&amp;rsquo;t have survived this long. &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;If you&amp;rsquo;ve forgotten, or just never played MGS:R, Senator Armstrong is the state senator from Colorado. He also used the line &amp;ldquo;Make America Great Again&amp;rdquo; well before Orange Manbad ever made a bid for the US Presidency, and his nonsense is honestly a pretty on-the-nose reflection of the political beliefs and personal philosophies of most Colorado residents I&amp;rsquo;ve ever met. &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
     </item>
     
   </channel>
 </rss>
+

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dog on Truck Stop Coffee</title>
@@ -9,7 +8,7 @@
     <copyright>All work written by Sarah Allen Reed.</copyright>
     <lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/dog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/dog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,14 +17,64 @@
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/post/photoroll01/</guid>
-      <description>Polyhymnia was supposed to be a service dog for my autism and PTSD, but the training she was supposed to get never actually happened. So now she&amp;rsquo;s just my favorite dumbass who tries her best. Here&amp;rsquo;s some cute photos of her over the years.
- 
- Baby Poly  
- Not-quite-baby Poly, sunnin&#39; on my old sofa.   
- OH LAWD SHE TONGUE
- 
- &amp;quot;Look mom, I can DJ too!</description>
+      <description>&lt;p&gt;Polyhymnia was supposed to be a service dog for my autism and PTSD, but the training she was supposed to get never actually happened. So now she&amp;rsquo;s just my favorite dumbass who tries her best. Here&amp;rsquo;s some cute photos of her over the years.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/01.jpg&#34;&gt;&lt;img src=&#34;/photo/001/01.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Baby Poly &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/02.jpg&#34;&gt;&lt;img src=&#34;/photo/001/02.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Not-quite-baby Poly, sunnin&#39; on my old sofa. &lt;/a&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/03.jpg&#34;&gt;&lt;img src=&#34;/photo/001/03.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; OH LAWD SHE TONGUE&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/04.jpg&#34;&gt;&lt;img src=&#34;/photo/001/04.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; &amp;quot;Look mom, I can DJ too!&amp;quot;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;!--
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/05.jpg&#34;&gt;&lt;img src=&#34;/photo/001/05.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Old photo of me performing live as Ophelia Drowning at Glitter City, with Poly napping in the foreground. &lt;/p&gt;
+&lt;/div&gt;
+--&gt;
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/06.jpg&#34;&gt;&lt;img src=&#34;/photo/001/06.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; M O N C H &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/07.jpg&#34;&gt;&lt;img src=&#34;/photo/001/07.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Lookit dem TEFFZ&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/08.jpg&#34;&gt;&lt;img src=&#34;/photo/001/08.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Sniffing her &amp;#40;at the time&amp;#41; favorite toy&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/09.jpg&#34;&gt;&lt;img src=&#34;/photo/001/09.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; b a l l &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/10.jpg&#34;&gt;&lt;img src=&#34;/photo/001/10.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Garden guardian &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/11.jpg&#34;&gt;&lt;img src=&#34;/photo/001/11.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Napping with mom in my old rockin&#39; chair &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/12.jpg&#34;&gt;&lt;img src=&#34;/photo/001/12.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; Stuffy snuggly &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;floatcenter caption&#34;&gt;
+  &lt;p&gt;&lt;a href= &#34;/photo/001/13.jpg&#34;&gt;&lt;img src=&#34;/photo/001/13.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt; l i k &lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     
   </channel>
 </rss>
+

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Truck Stop Coffee</title>
@@ -7,10 +6,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All work written by Sarah Allen Reed.</copyright>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>luckless games</title>
+      <link>/tags/luckless-games/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/luckless-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>/tags/music/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>our lady maven</title>
+      <link>/tags/our-lady-maven/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/our-lady-maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>/tags/personal/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>studio notes</title>
+      <link>/tags/studio-notes/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/studio-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>/tags/tech/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the finer things</title>
+      <link>/tags/the-finer-things/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/the-finer-things/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>essay</title>
@@ -112,15 +174,6 @@
     </item>
     
     <item>
-      <title>personal</title>
-      <link>/tags/personal/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>photo roll</title>
       <link>/tags/photo-roll/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
@@ -148,56 +201,11 @@
     </item>
     
     <item>
-      <title>luckless games</title>
-      <link>/tags/luckless-games/</link>
-      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/luckless-games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>/tags/music/</link>
-      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>our lady maven</title>
-      <link>/tags/our-lady-maven/</link>
-      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/our-lady-maven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>pinephone</title>
       <link>/tags/pinephone/</link>
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/pinephone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>studio notes</title>
-      <link>/tags/studio-notes/</link>
-      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/studio-notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>/tags/tech/</link>
-      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tech/</guid>
       <description></description>
     </item>
     
@@ -265,15 +273,6 @@
     </item>
     
     <item>
-      <title>the finer things</title>
-      <link>/tags/the-finer-things/</link>
-      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/the-finer-things/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>linux</title>
       <link>/tags/linux/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
@@ -320,3 +319,4 @@
     
   </channel>
 </rss>
+
