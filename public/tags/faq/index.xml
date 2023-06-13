@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FAQ on Truck Stop Coffee</title>
@@ -8,7 +9,7 @@
     <copyright>All work written by Sarah Allen Reed.</copyright>
     <lastBuildDate>Sun, 20 Apr 1969 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/tags/faq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/faq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,28 +18,8 @@
       <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
       
       <guid>/post/about/</guid>
-      <description>&lt;div class=&#34;floatcenter caption&#34;&gt;
-  &lt;p&gt;&lt;a href= &#34;/photo/000/06.png&#34;&gt;&lt;img src=&#34;/photo/000/06.png&#34; alt=&#34;Datafruits&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;I&amp;rsquo;m Sarah. I&amp;rsquo;m an underground cartoonist, professional illustrator, and wandering ne&amp;rsquo;er-do-well. I&amp;rsquo;ve been telling stories and creating work for what is basically my entire adult life, and this is where I&amp;rsquo;ve decided to place my thoughts on doing so, as well as ramblings about &lt;a href=&#34;https://www.youtube.com/watch?v=IAu2X4BExfk&#34;&gt;life in general&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This blog is mainly where I write about things that hold my interest, and is also where I put notes on books, records, and other such things that I&amp;rsquo;m working on. I&amp;rsquo;d shy away of viewing this as an extention of my professional work as an illustrator&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, but I wouldn&amp;rsquo;t consider it out of the question to view this as a suppliment to my work as a storyteller. I do illustration and contract work to pay the bills, sure, but the vast majority of my ouvure is decidedly more introspective, and you could view this &lt;a href=&#34;https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/&#34;&gt;digital garden&lt;/a&gt; as one would view &lt;a href=&#34;https://emvi.com/blog/luhmanns-zettelkasten-a-productivity-tool-that-works-like-your-brain-N9Gd2G4aPv&#34;&gt;Luhmann&amp;rsquo;s zettelkasten&lt;/a&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; or &lt;a href=&#34;https://www.bl.uk/collection-items/the-notebook-of-william-blake&#34;&gt;William Blake&amp;rsquo;s sketchbooks&lt;/a&gt;, albeit written by an &lt;a href=&#34;https://www.merriam-webster.com/dictionary/incongruous&#34;&gt;incongurious&lt;/a&gt; professional &lt;a href=&#34;https://www.merriam-webster.com/dictionary/dolt&#34;&gt;dolt&lt;/a&gt; rather than a man of letters.&lt;/p&gt;
-&lt;p&gt;Occasionally you&amp;rsquo;ll see posts about where I&amp;rsquo;ll be and what I&amp;rsquo;ll be up to, if those happen to be things you can tune into or come say hi to me at. The most frequent of those posts are the &lt;a href=&#34;/tags/the-jazz-program/&#34;&gt;schedules&lt;/a&gt; to my weekly three-hour radio block on &lt;a href=&#34;https://datafruits.fm&#34;&gt;datafruits.fm&lt;/a&gt;, but in the few instances that see me doing interviews or showing up in &lt;a href=&#34;https://en.wiktionary.org/wiki/meatspace&#34;&gt;meatspace&lt;/a&gt; they&amp;rsquo;ll be on here as well.&lt;/p&gt;
-&lt;p&gt;I also curate a &lt;a href=&#34;/tags/photo-roll/&#34;&gt;photo roll&lt;/a&gt; with things in my world I find important. I am not a fan of social media for a good many reasons, but &lt;a href=&#34;/post/0005&#34;&gt;having my Instagram account nearly banned for reasons I still don&amp;rsquo;t understand&lt;/a&gt; has kind of taught me the lesson that, if I care about the few memories I bother to share with the world, I probably shouldn&amp;rsquo;t be hostin&amp;rsquo; &amp;lsquo;em on the walled garden. You can also see &lt;a href=&#34;/post/photoroll00/&#34;&gt;drawings and photos of me on here&lt;/a&gt; if you want to do that for whatever reason.&lt;/p&gt;
-&lt;p&gt;Finally, I keep a &lt;a href=&#34;/post/links/&#34;&gt;list of links&lt;/a&gt; on here of sites by folks I respect, folks whose work I enjoy, or folks I consider friends. I adamantly refuse to link to social media if I can at all avoid it, so all of the links listed are websites away from the confines of the &lt;a href=&#34;https://indieweb.org/silo&#34;&gt;silos&lt;/a&gt; and shouldn&amp;rsquo;t be consider a comprehensive list of &amp;ldquo;good folks&amp;rdquo; due to the fact that not everyone has their own website. If we&amp;rsquo;re buds and you don&amp;rsquo;t have one, consider making a website!&lt;/p&gt;
-&lt;p&gt;If that doesn&amp;rsquo;t answer all your questions, feel free to check out the &lt;a href=&#34;/post/faq&#34;&gt;(in)frequently asked questions&lt;/a&gt;, head over to &lt;a href=&#34;https://sarahallenreed/resume/bio&#34;&gt;the slightly more professional-sounding bio on my portfolio website&lt;/a&gt;, or just &lt;a href=&#34;mailto:sarah@sarahallenreed.com&#34;&gt;drop me an email&lt;/a&gt; or &lt;a href=&#34;https://sarahallenreed.com/resume/bio/&#34;&gt;write me a letter&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You&amp;rsquo;re amazing and don&amp;rsquo;t let anyone tell you that you&amp;rsquo;re not. Stay safe out there.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;It should go without saying that the nonsense I prattle on about is not a reflection of those who employ me or enlist my services, but because bad faith is the rule on the modern Internet I&amp;rsquo;m putting that disclaimer here. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;I do keep a zettlekasten of my own in a cigar box, and at some point&amp;ndash;probably when I start putting pieces of my next book together&amp;ndash;intend on porting it to Tiddlywiki and posting it here, in case folks wish to follow the proverbial bouncing ball. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
+      <description>I&amp;rsquo;m Sarah. I&amp;rsquo;m an underground cartoonist, professional illustrator, and wandering ne&amp;rsquo;er-do-well. I&amp;rsquo;ve been telling stories and creating work for what is basically my entire adult life, and this is where I&amp;rsquo;ve decided to place my thoughts on doing so, as well as ramblings about life in general.
+This blog is mainly where I write about things that hold my interest, and is also where I put notes on books, records, and other such things that I&amp;rsquo;m working on.</description>
     </item>
     
     <item>
@@ -47,151 +28,7 @@
       <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
       
       <guid>/post/faq/</guid>
-      <description>&lt;hr&gt;
-&lt;img class=&#34;floatleft&#34; src=&#34;/construction.png&#34;/&gt; 
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;p&gt;&lt;em&gt;Note: This FAQ page is a constant work in progress, as is most of the site. As I get new questions, think of things I might want to make sure my readers know, and invent new answers and/or questions for those answers, I&amp;rsquo;ll be adding them here. If you can&amp;rsquo;t find an answer to whatever it is that you&amp;rsquo;re curious about, &lt;a href=&#34;mailto:sarah@sarahallenreed.com&#34;&gt;send me an email&lt;/a&gt; and I might just add it here.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Check back soon!&lt;/em&gt;&lt;/p&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;a-damn-fine-cup-of-truck-stop-coffee-a-bit-about-this-blog&#34;&gt;A Damn Fine Cup Of Truck Stop Coffee (A Bit About This Blog)&lt;/h2&gt;
-&lt;h3 id=&#34;why-make-a-blog&#34;&gt;Why make a blog?&lt;/h3&gt;
-&lt;p&gt;To paraphrase the Allman Brothers Band, &lt;a href=&#34;https://www.youtube.com/watch?v=68X8o0S7vJc&#34;&gt;I was born a&amp;rsquo;ramblin&amp;rsquo;&lt;/a&gt;. I have a lot to say that doesn&amp;rsquo;t neatly fit into the thematic bonds of my books, paintings, or records. I also know full well through experience that I&amp;rsquo;m at perpetual risk of watching things I say disappear off the Internet if I don&amp;rsquo;t self-host it.&lt;/p&gt;
-&lt;p&gt;There&amp;rsquo;s a lot of reasons for that, and a good portion of those reasons have to do with the walled garden nature of the Internet these days. To put it bluntly, I check a lot of boxes that the Silicon Valley kids make a habit of shadowbanning and de-platforming, the three biggest ones being &amp;ldquo;visibly trans&amp;rdquo;, &amp;ldquo;vocally anarchist&amp;rdquo;, and &amp;ldquo;says &amp;lsquo;fuck&amp;rsquo; a lot&amp;rdquo;. Besides, a lot of what I have to say isn&amp;rsquo;t &amp;ldquo;advertiser friendly&amp;rdquo;, doesn&amp;rsquo;t fit neatly into 240 characters, or isn&amp;rsquo;t something I want to leave to the mercy of the algorithm to begin with. Hell, the fact that I&amp;rsquo;m visibly queer is in and of itself an argument against having social media at all. Twitter specifically isn&amp;rsquo;t exactly kind to girls like me.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m also a huge proponent of the free and open web/&lt;a href=&#34;https://indieweb.org/&#34;&gt;indie web&lt;/a&gt; movements, and I&amp;rsquo;ve spent most of my life hacking around on Linux systems. It seemed a reasonable jump to just make a lil&amp;rsquo; website to put it all on.&lt;/p&gt;
-&lt;h3 id=&#34;why-isnt-your-blog-on-your-main-website-anymore&#34;&gt;Why isn&amp;rsquo;t your blog on your main website anymore?&lt;/h3&gt;
-&lt;p&gt;I swear too much and that&amp;rsquo;s my professional portfolio site. That&amp;rsquo;s about 99% of it.&lt;/p&gt;
-&lt;p&gt;I also wanted to talk about things that aren&amp;rsquo;t &lt;em&gt;just&lt;/em&gt; about my work. While I am of the school of thought that holds that the things an artist surrounds themselves with, the places they have been and are planning on going&amp;ndash;the things that shape their way of being in the world&amp;ndash;define their oeuvre, I&amp;rsquo;m fully aware that isn&amp;rsquo;t a common outlook, especially among folks that would be reviewing my portfolio for professional reasons.&lt;/p&gt;
-&lt;p&gt;For that reason, I wanted a clear line of demarcation drawn between &amp;ldquo;here&amp;rsquo;s what is functionally my resume&amp;rdquo; and &amp;ldquo;here&amp;rsquo;s me&amp;rdquo;, and putting it on a separate website with a name I&amp;rsquo;ve never used for any other project was the easiest way to do so.&lt;/p&gt;
-&lt;h3 id=&#34;why-all-the-footnotes&#34;&gt;Why all the footnotes?&lt;/h3&gt;
-&lt;p&gt;I have gotten a LOT of complaints from human editors and grammar-check software alike that my sentences are too wordy and that I go off in too many directions. There&amp;rsquo;s a lot of times where I want to add tangents to things I&amp;rsquo;m saying, but when I do an editing pass a few days later I take a look at it and realize it adds nothing to what I&amp;rsquo;m trying to say, or that it adds something but in an inefficient way. I&amp;rsquo;ve found that turning those passages into footnotes still keeps the color of the addendum without breaking up the flow of the thoughts I&amp;rsquo;m trying to convey.&lt;/p&gt;
-&lt;p&gt;Also, sometimes I just wanna make sure you all have context that you might otherwise miss. I make a lot of random in-jokes and dated references in regular conversations because I&amp;rsquo;m just one of those types of nerds. (I mean, hell, the titles of these sections are a Homestar Runner reference, a Neil Gaiman short story, and a line from Twin Peaks, respectively.) I also read way too much, and I happen to enjoy dropping random slang, colloquialisms, and antiquated phrasings that I find fun into my ramblings.&lt;/p&gt;
-&lt;p&gt;For better or for worse, those random references and &lt;a href=&#34;https://en.wiktionary.org/wiki/ten-dollar_word&#34;&gt;ten-dollar words&lt;/a&gt; are just kind of part of my literary voice at this point. I don&amp;rsquo;t really want to neuter that part of myself for the sake of readability, but I also want folks to know what that archaic word I just used meant or what that reference was to. Sometimes I just put a link to a dictionary entry, Youtube video, or Wikipedia article directly in place, and sometimes it&amp;rsquo;s easier to just use a footnote.&lt;/p&gt;
-&lt;h3 id=&#34;whats-up-with-the-domain-name&#34;&gt;What&amp;rsquo;s up with the domain name?&lt;/h3&gt;
-&lt;p&gt;To put it a tad bit more poetically than is probably needed here, I can&amp;rsquo;t think of any more succinct way to describe the core of my being.&lt;/p&gt;
-&lt;p&gt;I drink a LOT of coffee. As in, an unreasonable amount. Being American and self-employed by most definitions of the word, I don&amp;rsquo;t have health insurance. And, like most professional artists, I have fairly severe ADHD (among other things that put me squarely in the realm of &amp;ldquo;neurodiverse&amp;rdquo;.) Coffee and pipe tobacco are more or less how I self-medicate, and they&amp;rsquo;re both habits that kind of define me&amp;ndash;you very rarely see me without a cup of coffee and either a briar or corncob pipe or my &lt;a href=&#34;https://www.vapeyaya.com/Premium-E-cig-E-Pipe&#34;&gt;weird pipe/e-cigarette hybrid&lt;/a&gt; that I use to get around no-smoking regs.&lt;/p&gt;
-&lt;div class=&#34;center caption&#34;&gt;
-  &lt;p&gt;&lt;a href= &#34;/faq/03.jpg&#34;&gt;&lt;img src=&#34;/faq/3.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;dale cooper just &lt;i&gt;gets&lt;/i&gt; me, maaaaaan&lt;/p&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;thats-not-entirely-unique-though-a-lot-of-artists-are-obnoxiously-loud-about-their-coffee-drinking-problems-why-not-lattecoffee-or-something&#34;&gt;That&amp;rsquo;s not entirely unique, though; a lot of artists are obnoxiously loud about their coffee drinking problems. Why not &amp;ldquo;latte.coffee&amp;rdquo; or something?&lt;/h3&gt;
-&lt;p&gt;Well, to put it simply, I&amp;rsquo;m working class. I used to be a trucker, and when I haven&amp;rsquo;t been a trucker I&amp;rsquo;ve been either nomadic or generally poor. I also spent a lot of my life in and around America&amp;rsquo;s highway systems in general, including in the I-70 corridor in rural Missouri where most of my accent comes from. I&amp;rsquo;ve never met a Starbucks whose coffee I enjoy (including during my brief stint as a barista) but I have a fairly sizable collection of Flying J, Pilot, Love&amp;rsquo;s, Casey&amp;rsquo;s, and other branded travel mugs from truck stops and fuel stations I&amp;rsquo;ve been to in my travels.&lt;/p&gt;
-&lt;p&gt;Hence, truckstop.coffee.&lt;/p&gt;
-&lt;p&gt;(Also, &amp;ldquo;damnfine.coffee&amp;rdquo; was taken. No Twin Peaks reference for me, unfortunately.)&lt;/p&gt;
-&lt;h3 id=&#34;your-work-is-usually-somewhere-between-relatively-straightforward-and-deadly-serious-whats-with-the-tone-in-this-blog&#34;&gt;Your work is usually somewhere between &amp;ldquo;relatively straightforward&amp;rdquo; and &amp;ldquo;deadly serious&amp;rdquo;. What&amp;rsquo;s with the tone in this blog?&lt;/h3&gt;
-&lt;p&gt;My work&amp;rsquo;s as serious in its tone as it is because I&amp;rsquo;ve had a pretty rough life. The vast majority of my personal/solo work is my way of working through the types of difficult emotions and portraying the beauty and pain I&amp;rsquo;ve seen during a life&amp;rsquo;s worth of loss and traumatic experiences.&lt;/p&gt;
-&lt;p&gt;With that stated&amp;hellip;wearin&amp;rsquo; nothin&amp;rsquo; but a &lt;a href=&#34;https://www.collinsdictionary.com/us/dictionary/english/hair-shirt&#34;&gt;hair shirt&lt;/a&gt; is no way to dress, man. And this blog is (mostly) about how I approach my life through my art.&lt;/p&gt;
-&lt;p&gt;Hell, if you&amp;rsquo;ve missed my foolishness in my work entirely, you&amp;rsquo;re not looking hard enough. You&amp;rsquo;re talking to someone that back-ended a relatively serious neo-classical live recording &lt;a href=&#34;https://shibito.bandcamp.com/track/sound-check-bonus-track&#34;&gt;with a sample from the sound check where I tell the sound booth guy I&amp;rsquo;m planning on playing nothing but Rhianna and then scatted my way through a Bee Gees track.&lt;/a&gt;. I regularly open my &lt;a href=&#34;https://datafruits.fm/djs/sarahallenreed&#34;&gt;weekly block on datafruits.fm&lt;/a&gt; with samples from old TV shows, Youtube meme mashups &lt;a href=&#34;https://www.youtube.com/watch?v=dmHHjN5FJEo&#34;&gt;(my favorite being this one)&lt;/a&gt; and random other nonsense back to back with whatever random tracks I&amp;rsquo;ve been listening to that week.&lt;/p&gt;
-&lt;p&gt;As a human being, I&amp;rsquo;m not known for being serious. Excitable, sure. Overly analytic, absolutely. Obsessive at times, definitely. Do I get far too deep into techniques and theme analysis on here? Darned tootin&amp;rsquo;. But this website is for me as a human being to talk about my life, my interests, my process, and my way of being in the world, as well as how all of that comes together to influence the final output. A large part of that mix involves me being a goofball.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re expecting nothing but the academic wankery, obscene amounts of gravitas, tightly wound symbolism and narratives, and dry-as-nails studiousness that frames a lot of my other work, I&amp;rsquo;m afraid I&amp;rsquo;m going to disappoint you here. This is me writing about my life, and in real life I&amp;rsquo;m a bit of a goober. Expect some color.&lt;/p&gt;
-&lt;h3 id=&#34;what-is-a-cartoonist-errant-is-that-like-a-knight-errant&#34;&gt;What is a &amp;ldquo;cartoonist-errant&amp;rdquo;? Is that like a knight-errant?&lt;/h3&gt;
-&lt;p&gt;Kinda.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;er·rant&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;adjective&lt;/em&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;formal/humorous. erring or straying from the proper course or standards.&lt;br&gt;
-eg., &amp;ldquo;he could never forgive his daughter&amp;rsquo;s errant ways&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;archaic/literary. traveling in search of adventure.&lt;br&gt;
-eg., &amp;ldquo;that same lady errant&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ndash;Oxford Languages&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The suffix itself I stole from my sister, Autumn Redacted, who describes herself as a &amp;ldquo;bioethicist-errant&amp;rdquo;. It fits me quite well, and that&amp;rsquo;s why I use it.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m not exactly known for doing anything the right way. Or, to put it more accurately, I&amp;rsquo;m most known for explicitly going out of my way to do things the &lt;em&gt;wrong&lt;/em&gt; way on purpose as a joke, or to intentionally figure out how to do things in the &amp;ldquo;wrong&amp;rdquo; way in order to create a unique result.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m also not exactly what you&amp;rsquo;d call a typical professional in this field. I got kicked out of high school instead of going to college for art, and spent a lot of my early adulthood getting into some manner of trouble. Most of my &amp;ldquo;career&amp;rdquo; experience is in either culinary or some variation of logistics work instead of marketing or communications, and I&amp;rsquo;m not exactly known for my subtlety or camera-friendliness in a career currently monopolized by &amp;ldquo;personal brands&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve also spent a good portion of my adult life trying to find new and interesting ways to solve whatever issues the pieces I&amp;rsquo;m working on are facing. Most of my career output doesn&amp;rsquo;t fit neatly into any major category as a direct result, and I&amp;rsquo;ve spent a lot of my career in places you wouldn&amp;rsquo;t expect to find someone with my profession.&lt;/p&gt;
-&lt;p&gt;There&amp;rsquo;s a reason the bottom of this page displays the &lt;a href=&#34;http://www.catb.org/hacker-emblem/&#34;&gt;glider&lt;/a&gt;; I have more in common with hacker culture than I do with most other folks in my field. If there&amp;rsquo;s a way to break something, I&amp;rsquo;ll find it just to see how it ticks. And if there&amp;rsquo;s something interesting to be found in the dissection process, all the better.&lt;/p&gt;
-&lt;p&gt;(It&amp;rsquo;s also worth noting that I used to refer to myself as a &amp;ldquo;professional jackass&amp;rdquo;&amp;ndash;a moniker which works ever so slightly better if the reader knows to use the &amp;ldquo;playful, chaotic prankster&amp;rdquo; definition of &amp;ldquo;jackass&amp;rdquo; &lt;a href=&#34;https://en.wikipedia.org/wiki/Jackass_(franchise)&#34;&gt;popularized by the television show of the same name&lt;/a&gt;. Issue is, most folks don&amp;rsquo;t, and you could argue that Johnny Knoxville and crew didn&amp;rsquo;t either. So, cartoonist-errant it is.)&lt;/p&gt;
-&lt;h3 id=&#34;alright-well-whats-with-the-rest-of-the-tagline-why-foolishness&#34;&gt;Alright, well, what&amp;rsquo;s with the rest of the tagline? Why &amp;ldquo;foolishness&amp;rdquo;?&lt;/h3&gt;
-&lt;p&gt;My foster grandfather was a fairly big influence on who I grew up to be. He had a farm in rural Missouri on the topmost part of the Ozarks, and that came with it all of the colloquialisms one would expect it to. (Those colloquialisms and his particular accent is the reason I have roughly half of mine, as well, but that&amp;rsquo;s another topic.) &amp;ldquo;Quit yer foolishness&amp;rdquo; was his way of angrily telling me to quit fuckin&amp;rsquo; around and being a goofball when I was a kid.&lt;/p&gt;
-&lt;p&gt;Surprising literally no one, I have never quit either my foolishness or my rambling. Hence, the tagline, as well as my &lt;a href=&#34;https://www.merriam-webster.com/dictionary/raison%20d%27%C3%AAtre&#34;&gt;raison d&#39;être&lt;/a&gt; in general.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;what-is-a-sarah-and-what-does-she-do-about-me&#34;&gt;What Is A Sarah, And What Does She Do? (About Me)&lt;/h2&gt;
-&lt;p&gt;It&amp;rsquo;s worth noting that &lt;a href=&#34;/post/about&#34;&gt;you can view my &amp;quot;About Me&amp;quot; page here&lt;/a&gt; for most of the answers one would have to the question &amp;quot;Who is Sarah?&amp;quot;. For the rest, here&amp;rsquo;s this.&lt;/p&gt;
-&lt;h3 id=&#34;who-are-you-exactly&#34;&gt;Who are you, exactly?&lt;/h3&gt;
-&lt;p&gt;I&amp;rsquo;m Sarah, and I&amp;rsquo;m a cartoonist.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve worked in illustration for most of my adult life and been making scribbles of some variety for the vast majority of my life before that. I&amp;rsquo;ve also been a trucker, a chef, a programmer, a janitor, a radio DJ, a touring musician, and a bunch of other things at some point or another.&lt;/p&gt;
-&lt;p&gt;Mostly, I&amp;rsquo;m just a storyteller with a penchant for exaggeration and &lt;a href=&#34;https://www.merriam-webster.com/dictionary/fish%20story&#34;&gt;fish-stories&lt;/a&gt;. Hence why I call myself a cartoonist as opposed to anything else&amp;ndash;even when I&amp;rsquo;m not drawing, I&amp;rsquo;m telling big stories and painting pictures with words and sound. Hell, given my mannerisms, I&amp;rsquo;m basically a cartoon character myself.&lt;/p&gt;
-&lt;h3 id=&#34;how-old-are-you&#34;&gt;How old are you?&lt;/h3&gt;
-&lt;p&gt;Man, didn&amp;rsquo;t your mother tell you not to ask a lady questions like that? I know I&amp;rsquo;m not much of a lady, but still.&lt;/p&gt;
-&lt;div class=&#34;floatcenter caption&#34;&#34;&gt;
-  &lt;p&gt;&lt;a href= &#34;/faq/02.jpg&#34;&gt;&lt;img src=&#34;/faq/2.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt; why y&#39;all damn kids askin me this foolishness&lt;/p&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;what-do-you-look-like&#34;&gt;What do you look like?&lt;/h3&gt;
-&lt;p&gt;An idiot, mostly.&lt;/p&gt;
-&lt;p&gt;As for a serious answer to that one&amp;hellip;I go out of my way these days to try and make sure there aren&amp;rsquo;t too many photos of me online&amp;ndash;half because I&amp;rsquo;m visibly trans and work in media, and half because I just usually don&amp;rsquo;t like how I look and don&amp;rsquo;t think it&amp;rsquo;s relevant to my work. There&amp;rsquo;s a reason why blind auditions have become the standard in symphonic music&amp;ndash;there&amp;rsquo;s often very little correlation between an artist&amp;rsquo;s output and their physical form, and you can know me and my way of being better through my work than you ever can through the pound of flesh I inhabit in meatspace.&lt;/p&gt;
-&lt;p&gt;With that stated, I know a lot of people seem to want to see the face behind the pen, so &lt;a href=&#34;/post/photoroll00&#34;&gt;here&amp;rsquo;s a little gallery of self-portraits and press photos if you absolutely need an answer to that particular burning question.&lt;/a&gt; The little self-portrait doodle on the banner is fairly accurate, as well. I&amp;rsquo;m rarely seen without coffee, my pipe, and my headphones.&lt;/p&gt;
-&lt;h3 id=&#34;where-can-i-see-your-artcheck-out-your-musiclisten-to-you-on-the-radio&#34;&gt;Where can I see your art/check out your music/listen to you on the radio?&lt;/h3&gt;
-&lt;p&gt;There&amp;rsquo;s a bunch of links, lists, and illustration samples &lt;a href=&#34;https://sarahallenreed.com&#34;&gt;over here on my main website.&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;i-tuned-into-your-radio-show-love-your-voice-but-whats-up-with-your-accent&#34;&gt;I tuned into your radio show. Love your voice, but what&amp;rsquo;s up with your accent?&lt;/h3&gt;
-&lt;p&gt;I&amp;rsquo;ve often joked that my accent is half Saint Louis hood and half Ozark backwoods. This is mostly correct&amp;ndash;I hail from a mix of the rougher parts of both of those places, and there&amp;rsquo;s also a bit of Mainer thrown in from my time on the East coast, as well as some other bastardizations&amp;ndash;but the reason it&amp;rsquo;s so thick comes down to one factor; isolation.&lt;/p&gt;
-&lt;p&gt;The thing about accents is that they&amp;rsquo;re mostly shorthand for whatever language you happen to be speaking. I&amp;rsquo;ve spent a lot of time travelling alone, and when you talk to yourself like a crazy person as much as I do, you tend to talk to yourself exclusively in that shorthand, and if you already &lt;em&gt;had&lt;/em&gt; an accent it tends to make it worse. Hence why it&amp;rsquo;s a bit thicker and a bit more wonky than a lot of other Missourians. I&amp;rsquo;ve spent a lot of time practicing my &lt;a href=&#34;https://www.merriam-webster.com/dictionary/stenography&#34;&gt;steno&lt;/a&gt;, so to speak.&lt;/p&gt;
-&lt;h3 id=&#34;what-are-you-supposed-to-be-exactlyare-you-a-boy-or-a-girlwhats-going-on-with-the-whole-gender-thing-you-got-goin-on-there&#34;&gt;What are you supposed to be, exactly/Are you a boy or a girl/What&amp;rsquo;s going on with the whole gender thing you got goin&amp;rsquo; on there?&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;sigh&lt;/em&gt; Here&amp;rsquo;s the easiest answer, in the immortal words of the Muppets.&lt;/p&gt;
-&lt;div class=&#34;caption floatcenter&#34;&gt;
-  &lt;p&gt;&lt;a href= &#34;/faq/02.jpg&#34;&gt;&lt;img src=&#34;/faq/4.png&#34; alt=&#34;I&#39;m an ARTIST&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt; my gender is &amp;quot;gay muppet&amp;quot; &lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;I use she/her (and no other set of) pronouns, feminine nouns in languages with gendered nouns, and I identify wih neither womanhood nor as a man. I also do not consider being &amp;ldquo;nonbinary&amp;rdquo; to apply to me.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;d like a more thorough explanation, expand the following section. Fair warning: the following is about as blunt and hostile to this question as my answer to it would be in real life should it come up.&lt;/p&gt;
-&lt;details&gt;
-  &lt;summary style=&#34;color:#b288dd;&#34;&gt;If you&#39;re the type to ask trans folks invasive questions and absolutely insist upon needing a more thorough explanation, click here.&lt;/summary&gt;
-&lt;hr&gt;
-&lt;p&gt;To be completely blunt, I view demanding any further explanation/justification of one&amp;rsquo;s identity aside from &amp;ldquo;which pronouns should i refer to you by&amp;rdquo; as needlessly invasive and utterly irrelevant in 99% of usecases. If I don&amp;rsquo;t know you and you need to refer to me in a written work, or if you wish to mention me in passing conversation, the common pronoun of &amp;ldquo;she/her/hers&amp;rdquo; should be all you need. Anything else is just &lt;a href=&#34;https://en.wikipedia.org/wiki/Other_(philosophy)#LGBT_identities&#34;&gt;othering&lt;/a&gt; under the guise of posturing curiosity. My tone here for answering this question further sounds annoyed because I &lt;em&gt;am&lt;/em&gt; annoyed at having to answer further, almost as much as I would be if you asked me if I&amp;rsquo;ve had &amp;ldquo;the surgery&amp;rdquo;. It&amp;rsquo;s a personal question and you don&amp;rsquo;t need to know the answer past what I&amp;rsquo;ve already given you.&lt;/p&gt;
-&lt;p&gt;With that stated, I have had further answers demanded of me a lot more than I&amp;rsquo;d like, and I&amp;rsquo;ve also had far more folks&amp;ndash;including editors, promoters, and other people in the industry who should know better&amp;ndash;simply assume I&amp;rsquo;m something I&amp;rsquo;m not without bothering to ask me how I wish to be referred to. I also know a non-zero amount of folks clicked this FAQ for no other reason than to find a more &amp;ldquo;accurate&amp;rdquo; answer to this question for whatever reason. So, in the interest of dodging these questions at parties and at panels for the rest of my life, here&amp;rsquo;s the &lt;a href=&#34;https://en.wiktionary.org/wiki/Cliff_notes&#34;&gt;cliff notes&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;To underscore, &lt;strong&gt;I use she/her pronouns and use feminine nouns in languages which have gendered nouns.&lt;/strong&gt; I do not go by they/them, he/him, or whatever other pronouns you think I should be using. If you use anything other than she/her and you have reason to know better than to do so, I&amp;rsquo;m going to assume you&amp;rsquo;re intentionally misgendering me and I have no interest in interacting with people who would rather prescribe me an identity than listen to what I have to say.&lt;/li&gt;
-&lt;li&gt;Insofar as descriptive adjectives go, your best bet is some variation of &amp;ldquo;femme&amp;rdquo; if you feel the need to refer to me/describe me using that part of speech for whatever reason. With that stated, &lt;em&gt;I&amp;rsquo;m not a &amp;ldquo;woman&amp;rdquo; or &amp;ldquo;female&amp;rdquo;&lt;/em&gt;, nor do I have any connection to whatever those words mean. &lt;em&gt;&lt;strong&gt;This statement does not make me a &amp;ldquo;man&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;&amp;ndash;in fact, if you call me a &amp;ldquo;man&amp;rdquo; or a &amp;ldquo;male&amp;rdquo; in &lt;a href=&#34;https://en.wiktionary.org/wiki/meatspace&#34;&gt;meatspace&lt;/a&gt; there&amp;rsquo;s pretty solid odds that you&amp;rsquo;re going to get slapped. I just have no connection to society&amp;rsquo;s definition of &amp;ldquo;womanhood&amp;rdquo;, and I find the insistence upon a binary choice utterly useless. I often refer to myself as a &amp;ldquo;femme&amp;rdquo; or &amp;ldquo;femboy&amp;rdquo;, and those two phrases and their close variations are the closest to a descriptor of my presentation that you&amp;rsquo;re going to get.&lt;/li&gt;
-&lt;li&gt;Despite what some might call evidence to the contrary, &lt;em&gt;I am not non-binary.&lt;/em&gt; I don&amp;rsquo;t find any definition of the term in current common parlance useful, and I have never heard anyone use it to describe me that wasn&amp;rsquo;t simply going out of their way to ignore how I have requested to be addressed for the sake of their own convenience. Don&amp;rsquo;t use it to describe me.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Past those three bullet points and the set of pronouns given, my gender presentation or identity is neither a conversation I enjoy having nor something I think should be a topic of conversation with random strangers, be them online or in real life. Yes, this includes you.&lt;/p&gt;
-&lt;hr&gt;
-&lt;/details&gt;~~~~
-&lt;p&gt;While a lot of my work is explicitly queer in content and nature, the specifics of said queerness isn&amp;rsquo;t something I care to go into detail unless I have to in order to tell the specific story I&amp;rsquo;m telling. Thing is, 99% of the time neither my gender presentation nor my sexual preferences are particularly relevant for those stories&amp;ndash;including the stories I have to tell here&amp;ndash;and I don&amp;rsquo;t view it as useful for the audience to know&amp;ndash;or care&amp;ndash;what I am. &amp;ldquo;She/her&amp;rdquo; should give you all the information you need to know.&lt;/p&gt;
-&lt;h3 id=&#34;i-think-youre-cute-what-does-that-make-me-im-having-a-crisis-here&#34;&gt;I think you&amp;rsquo;re cute. What does that make me? I&amp;rsquo;m having a crisis here!&lt;/h3&gt;
-&lt;p&gt;It makes you gay, bud. Congratulations. No, your gender presentation doesn&amp;rsquo;t matter. You&amp;rsquo;re just gay now and you&amp;rsquo;re gonna have to live with that. Mazel tov. Your card is in the mail.&lt;/p&gt;
-&lt;div class=&#34;center floatcenter caption&#34;&gt;
-  &lt;p&gt;&lt;a href= &#34;/faq/02.jpg&#34;&gt;&lt;img src=&#34;/faq/1.png&#34; alt=&#34;me irl&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt; me irl&lt;/p&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;are-you-singleavailable-i-must-know&#34;&gt;Are you single/available? I must know!&lt;/h3&gt;
-&lt;p&gt;As far as you&amp;rsquo;re concerned, probably not, no. Sorry, tiger.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;how-to-talk-to-cartoonists-at-parties-how-to-get-ahold-of-me-and-some-boundaries-about-doing-so&#34;&gt;How To Talk To Cartoonists At Parties (How To Get Ahold Of Me And Some Boundaries About Doing So)&lt;/h2&gt;
-&lt;h3 id=&#34;the-drawings-you-have-on-here-look-pretty-dopeyour-music-sounds-pretty-coolim-a-fan-of-your-radio-work-can-i-hire-you-to-draw-stuff-for-mecompose-music-for-menarrate-my-next-audiobook&#34;&gt;The drawings you have on here look pretty dope/Your music sounds pretty cool/I&amp;rsquo;m a fan of your radio work. Can I hire you to draw stuff for me/compose music for me/narrate my next audiobook?&lt;/h3&gt;
-&lt;p&gt;Sure. &lt;a href=&#34;https://sarahallenreed.com&#34;&gt;Check out my main website for my rates, policies, professional work samples, and all that.&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;your-blog-is-dope-and-i-wanted-to-tell-you-thati-found-something-cool-you-should-check-outi-wanna-send-you-something-where-can-i-get-ahold-of-you&#34;&gt;Your blog is dope and I wanted to tell you that/I found something cool you should check out/I wanna send you something. Where can I get ahold of you?&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:sarah@sarahallenreed.com&#34;&gt;Email is more than welcome&lt;/a&gt; if you want to talk about something I&amp;rsquo;ve written or want to share somethin&amp;rsquo; dope with me. If I get enough letters or I end up with a letter that I feel I could write a shitton about, I&amp;rsquo;ll probably put it in a letter column on here.&lt;/p&gt;
-&lt;p&gt;If you wanna send me some snail mail, you can do that as well. &lt;a href=&#34;https://sarahallenreed.com/resume/bio&#34;&gt;My current mailing addy is on my website.&lt;/a&gt; No pipe bombs or arsenic, please.&lt;/p&gt;
-&lt;div class=&#34;center caption&#34;&gt;
-  &lt;p&gt;&lt;a href= &#34;/faq/05.png&#34;&gt;&lt;img src=&#34;/faq/5.png&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt; plz don&#39;t&lt;/p&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;i-think-you-suck-and-are-wrong-and-stupid-where-can-i-get-ahold-of-you-to-tell-you-about-it&#34;&gt;I think you suck and are wrong and stupid. Where can I get ahold of you to tell you about it?&lt;/h3&gt;
-&lt;p&gt;You can&amp;rsquo;t. If you send me hate mail, I&amp;rsquo;ll probably block you. You aren&amp;rsquo;t making it into the mailbag in a &amp;ldquo;dunking-on&amp;rdquo; section, and I probably won&amp;rsquo;t even read it at all the second I&amp;rsquo;ve read enough to catch on to your lack of good faith.&lt;/p&gt;
-&lt;p&gt;As good as I am at writing insults, I didn&amp;rsquo;t delete my Twitter account just to give that kind of &lt;a href=&#34;https://www.google.com/search?q=soykaf&#34;&gt;soykaf&lt;/a&gt; a soapbox via a different medium. If you wanna say weird, ignorant shit about how angry you are at me for whatever reason, do it into your pillow.&lt;/p&gt;
-&lt;h3 id=&#34;youre-hotim-confused-about-why-i-think-youre-hoti-want-to-be-a-creep-to-a-random-trans-person-i-also-dont-know-what-boundaries-are-where-can-i-put-my-thoughts-about-that&#34;&gt;You&amp;rsquo;re hot/I&amp;rsquo;m confused about why I think you&amp;rsquo;re hot/I want to be a creep to a random trans person. I also don&amp;rsquo;t know what boundaries are. Where can I put my thoughts about that?&lt;/h3&gt;
-&lt;p&gt;You can do that into your pillow too, buddy. Just keep it out of my inbox.&lt;/p&gt;
-&lt;h3 id=&#34;you-seem-cool-youre-visibly-trans-which-is-neat-and-im-having-questions-about-gender-stuff-can-i-message-you-about-your-experiencesask-you-for-advice&#34;&gt;You seem cool, you&amp;rsquo;re visibly trans which is neat, and I&amp;rsquo;m having questions about gender stuff. Can I message you about your experiences/ask you for advice?&lt;/h3&gt;
-&lt;p&gt;You &lt;em&gt;can&lt;/em&gt;, but I wouldn&amp;rsquo;t.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m going to be honest, I&amp;rsquo;m not the best person to ask about that. I&amp;rsquo;ve &lt;a href=&#34;https://old.reddit.com/r/ask_transgender/comments/7kcgnq/what_does_it_mean_to_be_called_an_egg/drd9uxv/?context=3&#34;&gt;unintentionally cracked quite a few eggs&lt;/a&gt; in my time, sure, but to be quite frank I haven&amp;rsquo;t had the best time trying to play mother hen. The vast majority of my experiences as a trans femme have been overwhelmingly negative, both socially and medically, and if you come to me for advice I&amp;rsquo;m not going to have much life experience that isn&amp;rsquo;t going to reflect that.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m not going to tell you that you &lt;em&gt;shouldn&amp;rsquo;t&lt;/em&gt; transition&amp;ndash;hell, I&amp;rsquo;d be dead if I hadn&amp;rsquo;t. I will, however, warn you that, if you ask me for advice, I won&amp;rsquo;t exactly have any warm-and-fuzzies to give you. Add into that the fact that my autistic ass is a bit more blunt than it needs to be in the most mundane of conversations, and you have a recipe for disaster. There&amp;rsquo;s plenty of wonderful folks in the trans community that are more than happy to assist newly hatched eggs in coming into their own, and if you need a &amp;ldquo;mother hen&amp;rdquo; figure there&amp;rsquo;s plenty of girls in the community for you to look to. Sadly, as much as as I wish I was, I&amp;rsquo;m afraid that I&amp;rsquo;m not the best person for that.&lt;/p&gt;
-&lt;p&gt;Best I can tell you is that however you feel is more than likely worth exploring, and that, for whatever it&amp;rsquo;s worth, I&amp;rsquo;m proud of you for having the courage to confront it and work out those feelings and emotions for yourself. It takes a lot of courage to tackle these types of core questions about one&amp;rsquo;s identity, and that courage is worth something. You&amp;rsquo;re worth something too, and don&amp;rsquo;t let anyone tell you that you&amp;rsquo;re not.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;That about sums it up. If you have any more questions, or just want to say hi, &lt;a href=&#34;mailto:sarah@sarahallenreed.com&#34;&gt;email me&lt;/a&gt;. I might just add them to the list here, or I&amp;rsquo;ll answer &amp;lsquo;em in a mailbag post at some point.&lt;/p&gt;
-&lt;div class=&#34;floatcenter caption&#34;&gt;
-  &lt;p&gt;&lt;a href= &#34;/faq/06.jpg&#34;&gt;&lt;img src=&#34;/faq/6.jpg&#34; alt=&#34;Eiffel tower&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt; me answering mailbag questions&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Either way, thanks for spending some time with me today. Stay safe out there, folks.&lt;/p&gt;
-</description>
+      <description>Note: This FAQ page is a constant work in progress, as is most of the site. As I get new questions, think of things I might want to make sure my readers know, and invent new answers and/or questions for those answers, I&amp;rsquo;ll be adding them here. If you can&amp;rsquo;t find an answer to whatever it is that you&amp;rsquo;re curious about, send me an email and I might just add it here.</description>
     </item>
     
     <item>
@@ -200,43 +37,8 @@ eg., &amp;ldquo;that same lady errant&amp;rdquo;&lt;/p&gt;
       <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
       
       <guid>/post/links/</guid>
-      <description>&lt;hr&gt;
-&lt;img class=&#34;floatright&#34; src=&#34;/construction.png&#34;/&gt; 
-&lt;p&gt;The following are links to websites of folks I think are cool. I don&amp;rsquo;t want to use this page to promote social media networks, and the vast majority of folks (specifically, other cartoonists/DJs) I know have social media accounts in place of a website, so this list shouldn&amp;rsquo;t be considered an exhaustive compendium of folks I think are neat. If you&amp;rsquo;re not on this list but think you should be, I probably can&amp;rsquo;t find your website or I haven&amp;rsquo;t gotten around to adding you yet because I&amp;rsquo;ve been busy with other obligations.&lt;/p&gt;
-&lt;p&gt;If you don&amp;rsquo;t have a website, make one then &lt;a href=&#34;mailto:sarah@sarahallenreed.com&#34;&gt;email me a link to it!&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Note: This list is VERY incomplete at the moment&amp;ndash;I&amp;rsquo;m in the middle of a bunch of things and need time to track down a bunch of my friends&amp;rsquo; websites. I&amp;rsquo;m tossing it up as-is at this moment, though, and I&amp;rsquo;ll be adding to it fairly constantly. Check back soon!&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;other-cartoonists-artists-and-pen-wielders&#34;&gt;Other Cartoonists, Artists, And Pen Wielders&lt;/h2&gt;
-&lt;h3 id=&#34;joshua-w-cotter&#34;&gt;Joshua W. Cotter&lt;/h3&gt;
-&lt;p&gt;Josh is more or less the closest I have to one single person I can credit/blame with setting me on this line of work. Hell, he literally gave me my first dip pen when I was a kid, and his style of writing and cartooning continue to both influence my own and blow my mind today. &lt;a href=&#34;https://www.joshuawcotter.com/&#34;&gt;Check out his work here.&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;alex-n-graham&#34;&gt;Alex N. Graham&lt;/h3&gt;
-&lt;p&gt;A fantastic illustrator, a stellar painter, and an all-around great human being. &lt;a href=&#34;https://alexngraham.com/&#34;&gt;Check her work out here.&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;mel-sealy&#34;&gt;Mel Sealy&lt;/h3&gt;
-&lt;p&gt;I met Mel during a comix reading I did at Cafe Kerouac one year, and I&amp;rsquo;ve been a fan of her work ever since. &lt;a href=&#34;https://melsealy.com&#34;&gt;Check out her work here.&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;cabbage&#34;&gt;Cabbage&lt;/h3&gt;
-&lt;p&gt;Another very good friend and collaborator, as well as a noted hater of puns for some reason I will never understand. &lt;a href=&#34;https://kc-comics.com/&#34;&gt;Check out their blog here.&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;other-djsmusiciansnetradio-stations&#34;&gt;Other DJs/Musicians/Netradio Stations&lt;/h2&gt;
-&lt;h3 id=&#34;freedrull&#34;&gt;Freedrull&lt;/h3&gt;
-&lt;p&gt;I could have honestly put Tony here under the &amp;quot;Cartoonists&amp;quot; or &amp;quot;Hackers&amp;quot; sections if I wanted&amp;ndash;his work is fantastic&amp;ndash;but he&amp;rsquo;s most known for running &lt;a href=&#34;https://datafruits.fm&#34;&gt;datafruits.fm&lt;/a&gt;, my home on the airwaves for the past few years. &lt;a href=&#34;https://freedrull.online/&#34;&gt;Check out his personal site here.&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;trash-panda-qc&#34;&gt;Trash Panda QC&lt;/h3&gt;
-&lt;p&gt;Trash Panda is another fellow Datafruit DJ and all-around good dude. &lt;a href=&#34;https://trashpandaqc.xyz/&#34;&gt;Check out his page here.&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;rbxbx&#34;&gt;rbxbx&lt;/h3&gt;
-&lt;p&gt;Another fellow Datafruit, a stellar human being and good friend, and the entire reason I own a Pinephone. &lt;a href=&#34;http://www.bleakbeat.com&#34;&gt;Check out their website here.&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;other-hackerstinkererssmart-folk&#34;&gt;Other Hackers/Tinkerers/Smart Folk&lt;/h2&gt;
-&lt;h3 id=&#34;emily-crose&#34;&gt;Emily Crose&lt;/h3&gt;
-&lt;p&gt;A good friend and frequent collaborator of mine. We worked on The Teletypist and are currently working on &lt;a href=&#34;https://ourladymaven.com&#34;&gt;Our Lady Maven&lt;/a&gt; together. &lt;a href=&#34;https://hexadecim8.com&#34;&gt;Check out her site here.&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;soren-bjornstad&#34;&gt;Soren Bjornstad&lt;/h3&gt;
-&lt;p&gt;A large part of why I picked Tiddlywiki to digitize my zettelkasten is because of this guy right here. &lt;a href=&#34;https://groktiddlywiki.com&#34;&gt;Check out the work that got me into his output here&lt;/a&gt; and &lt;a href=&#34;https://controlaltbackspace.org/&#34;&gt;check out his blog here.&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;shit-i-think-is-cool&#34;&gt;Shit I Think Is Cool&lt;/h2&gt;
-&lt;h3 id=&#34;sadness&#34;&gt;Sadness&lt;/h3&gt;
-&lt;p&gt;You literally can&amp;rsquo;t have an old-school website at this point and &lt;em&gt;not&lt;/em&gt; link Sadness&amp;rsquo;s page. &lt;a href=&#34;https://sadgrl.online/&#34;&gt;Check out sadgrl.online here.&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;archiveorg&#34;&gt;archive.org&lt;/h3&gt;
-&lt;p&gt;Long live the Archive. &lt;a href=&#34;https://archive.org/donate&#34;&gt;Support the Alexandria of the Web here.&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;pine64&#34;&gt;Pine64&lt;/h3&gt;
-&lt;p&gt;I have a Pinephone named Navi, and she&amp;rsquo;s honestly my favorite gadget in my very gadget-filled purse. Affordable maker tech made by FOSS kids, for FOSS kids. &lt;a href=&#34;https://www.pine64.org/&#34;&gt;Check them out here.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>The following are links to websites of folks I think are cool. I don&amp;rsquo;t want to use this page to promote social media networks, and the vast majority of folks (specifically, other cartoonists/DJs) I know have social media accounts in place of a website, so this list shouldn&amp;rsquo;t be considered an exhaustive compendium of folks I think are neat. If you&amp;rsquo;re not on this list but think you should be, I probably can&amp;rsquo;t find your website or I haven&amp;rsquo;t gotten around to adding you yet because I&amp;rsquo;ve been busy with other obligations.</description>
     </item>
     
   </channel>
 </rss>
-
