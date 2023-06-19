@@ -71,7 +71,7 @@ Hence, truckstop.coffee.
 
 My work's as serious in its tone as it is because I've had a pretty rough life. The vast majority of my personal/solo work is my way of working through the types of difficult emotions and portraying the beauty and pain I've seen during a life's worth of loss and traumatic experiences.
 
-With that stated...wearin' nothin' but a [hair shirt](https://www.collinsdictionary.com/us/dictionary/english/hair-shirt) is no way to dress, man. And this blog is (mostly) about how I approach my life through my art.
+With that stated...wearin' nothin' but a [hair shirt](https://www.collinsdictionary.com/us/dictionary/english/hair-shirt) is no way to dress, man. And this blog is (mostly) about the relatively unserious approach I take to life despite the rough road I've had, rather than a depiction of the more fuarrked portions of my life as portrayed through the more serious lense of my art.
 
 Hell, if you've missed my foolishness in my work entirely, you're not looking hard enough. You're talking to someone that back-ended a relatively serious neo-classical live recording [with a sample from the sound check where I tell the sound booth guy I'm planning on playing nothing but Rhianna and then scatted my way through a Bee Gees track.](https://shibito.bandcamp.com/track/sound-check-bonus-track). I regularly open my [weekly block on datafruits.fm](https://datafruits.fm/djs/sarahallenreed) with samples from old TV shows, Youtube meme mashups [\(my favorite being this one\)](https://www.youtube.com/watch?v=dmHHjN5FJEo) and random other nonsense back to back with whatever random tracks I've been listening to that week. 
 
@@ -149,25 +149,27 @@ There's a bunch of links, lists, and illustration samples [over here on my main 
 
 ### I tuned into your radio show. Love your voice, but what's up with your accent?
 
-I've often joked that my accent is half Saint Louis hood and half Ozark backwoods. This is mostly correct--I hail from a mix of the rougher parts of both of those places, and there's also a bit of Mainer thrown in from my time on the East coast, as well as some other bastardizations--but the reason it's so thick comes down to one factor; isolation. 
+I've often joked that my accent is half Saint Louis hood and half Ozark backwoods. This is mostly correct--I hail from a mix of the rougher parts of both of those places, and there's also a bit of Mainer thrown in from my time on the East coast, as well as some other bastardizations--but the reason it's so thick comes down to one factor: isolation. 
 
 The thing about accents is that they're mostly shorthand for whatever language you happen to be speaking. I've spent a lot of time travelling alone, and when you talk to yourself like a crazy person as much as I do, you tend to talk to yourself exclusively in that shorthand, and if you already *had* an accent it tends to make it worse. Hence why it's a bit thicker and a bit more wonky than a lot of other Missourians. I've spent a lot of time practicing my [steno](https://www.merriam-webster.com/dictionary/stenography), so to speak.
 
 ### What are you supposed to be, exactly/Are you a boy or a girl/What's going on with the whole gender thing you got goin' on there?
-
-*sigh* Here's the easiest answer, in the immortal words of the Muppets.
 
 <div class="caption floatcenter">
   <p><a href= "/faq/02.jpg"><img src="/faq/4.png" alt="I'm an ARTIST"></a></p>
   <p> my gender is &quot;gay muppet&quot; </p>
 </div>
 
-I use she/her (and no other set of) pronouns, feminine nouns in languages with gendered nouns, and I identify wih neither womanhood nor as a man. I also do not consider being "nonbinary" to apply to me.
+I often refer to myself as a "trans femme" or "femboi", and that's the best descriptor you're going to get. I use she/her *(and no other set of)* pronouns, feminine nouns in languages with gendered nouns, and I identify wih neither womanhood nor as a man. I also do not consider being "nonbinary" to apply to me.
 
-If you'd like a more thorough explanation, expand the following section. Fair warning: the following is about as blunt and hostile to this question as my answer to it would be in real life should it come up.
+If that sounds like an unsatisfactory explanation, I can't help you. While a lot of my work is explicitly queer in content and nature, the specifics of said queerness isn't something I care to go into detail unless I have to in order to tell the specific story I'm telling. Thing is, 99% of the time neither my gender presentation nor my sexual preferences are particularly relevant for those stories, and I don't view it useful for the audience to know--or care--*what* I am as long as I have successfully communicated *who* I am and what I stand for. 
+
+That 99% of the time includes the stories involving the difficulties of being trans in America, for the record. The types of ingrates who don't care for queer folk often don't give a shit *what* you are, specifically. They're usually just more than happy to disregard you at best or shoot you at worst just for being some flavor of queer, especially if the flavor you are doesn't fit into whatever box they think they can use for their purposes.
+
+And because of (or in spite of) those folk--as well as my usual general insistence on my way of being in the world being purposefully hard to categorize--I'm not exactly interested in making who and what i am easily quantifiable. If you're willing to read my work and gender me correctly regardless of whether you "get whatever it is I am", then you're probably chill in my book.
 
 <details>
-  <summary style="color:#b288dd;">If you're the type to ask trans folks invasive questions and absolutely insist upon needing a more thorough explanation, click here.</summary>
+  <summary style="color:#b288dd;">If you'd like a more thorough explanation, click here to expand the following section. Fair warning: the following is about as blunt and hostile to this question as my answer to it would be in real life should it come up.</summary>
 
 ---
 
@@ -176,16 +178,20 @@ To be completely blunt, I view demanding any further explanation/justification o
 With that stated, I have had further answers demanded of me a lot more than I'd like, and I've also had far more folks--including editors, promoters, and other people in the industry who should know better--simply assume I'm something I'm not without bothering to ask me how I wish to be referred to. I also know a non-zero amount of folks clicked this FAQ for no other reason than to find a more "accurate" answer to this question for whatever reason. So, in the interest of dodging these questions at parties and at panels for the rest of my life, here's the [cliff notes](https://en.wiktionary.org/wiki/Cliff_notes). 
 
 * To underscore, **I use she/her pronouns and use feminine nouns in languages which have gendered nouns.** I do not go by they/them, he/him, or whatever other pronouns you think I should be using. If you use anything other than she/her and you have reason to know better than to do so, I'm going to assume you're intentionally misgendering me and I have no interest in interacting with people who would rather prescribe me an identity than listen to what I have to say.
-* Insofar as descriptive adjectives go, your best bet is some variation of "femme" if you feel the need to refer to me/describe me using that part of speech for whatever reason. With that stated, *I'm not a "woman" or "female"*, nor do I have any connection to whatever those words mean. ***This statement does not make me a "man"***--in fact, if you call me a "man" or a "male" in [meatspace](https://en.wiktionary.org/wiki/meatspace) there's pretty solid odds that you're going to get slapped. I just have no connection to society's definition of "womanhood", and I find the insistence upon a binary choice utterly useless. I often refer to myself as a "femme" or "femboy", and those two phrases and their close variations are the closest to a descriptor of my presentation that you're going to get.
+* Insofar as descriptive adjectives go, your best bet is some variation of "femme" if you feel the need to refer to me/describe me using that part of speech for whatever reason. With that stated, *I'm not a "woman" or "female"*, nor do I have any connection to whatever those words mean. ***This statement does not make me a "man"***--in fact, if you call me a "man" or a "male" in [meatspace](https://en.wiktionary.org/wiki/meatspace) there's pretty solid odds that you're going to get slapped. I just have no connection to society's definition of "womanhood", and I find the insistence upon a binary choice utterly useless. As I already mentioned, I often refer to myself as a "femme" or "femboy", and those two phrases and their close variations are the closest to a descriptor of my presentation that you're going to get.
 * Despite what some might call evidence to the contrary, *I am not non-binary.* I don't find any definition of the term in current common parlance useful, and I have never heard anyone use it to describe me that wasn't simply going out of their way to ignore how I have requested to be addressed for the sake of their own convenience. Don't use it to describe me.
 
-Past those three bullet points and the set of pronouns given, my gender presentation or identity is neither a conversation I enjoy having nor something I think should be a topic of conversation with random strangers, be them online or in real life. Yes, this includes you.
+I know you clicked on this for a "more thorough explanation" and congrats! you aren't getting one. Past those three bullet points and the set of pronouns given--all of which are just rehashes of the information above, with a few more swear words, because that's all I feel like giving you--my gender presentation or identity is neither a conversation I enjoy having nor something I think should be a topic of conversation with random strangers, be them online or in real life. Yes, this includes you.
+
+If the tone of this expanded section makes you angry, that's on you. Maybe don't bother asking queer folk to explain themeselves or justify their existence to you next time, bud.
 
 ---
 
 </details>~~~~
 
-While a lot of my work is explicitly queer in content and nature, the specifics of said queerness isn't something I care to go into detail unless I have to in order to tell the specific story I'm telling. Thing is, 99% of the time neither my gender presentation nor my sexual preferences are particularly relevant for those stories--including the stories I have to tell here--and I don't view it as useful for the audience to know--or care--what I am. "She/her" should give you all the information you need to know.
+### Are you on hormones? You know smoking is bad for hormone intake, right? When are you going to quit smoking that pipe of yours?
+
+When I'm dead. Next question.
 
 ### I think you're cute. What does that make me? I'm having a crisis here!
 
@@ -198,7 +204,7 @@ It makes you gay, bud. Congratulations. No, your gender presentation doesn't mat
 
 ### Are you single/available? I must know!
 
-As far as you're concerned, probably not, no. Sorry, tiger.
+As far as you--a random person who I've probably never interacted with save this blog or my work--are concerned, probably not, no. Sorry, tiger.
 
 ---
 
@@ -228,6 +234,16 @@ As good as I am at writing insults, I didn't delete my Twitter account just to g
 ### You're hot/I'm confused about why I think you're hot/I want to be a creep to a random trans person. I also don't know what boundaries are. Where can I put my thoughts about that?
 
 You can do that into your pillow too, buddy. Just keep it out of my inbox.
+
+### We knew each other/dated/were some form of "related" years ago and I haven't heard from you in a while. Can I email you to get back in touch?
+
+Look, I hate having to put this section here, but I've had this happen enough that I want to draw a boundary. 
+
+As much as I'd love to put a blanket statement here that states "sure!", the fact is that I've had enough uncomfortable interactions with folks trying to reconnect using my professional contact info that I can't tell you that. In fact, you should probably assume that all "seeking to reconnect" emails will be blatantly ignored. This is my professional email, after all. I'm sure if you told your therapist or whoever that you decided to pop into someone's work because you missed them and wanted to regain contact they'd give you a talkin' to. 
+
+If you actually want to get in touch with me and wish to do so in a relatively healthy manner for both of us, comment on one of my social media posts. Odds are, if I want to talk to you or miss you, I'll respond with something to the effect of "OH SHIT IT'S $NAME" and if we talk back and forth a bit and the vibe's chill I'll probably give you one of my many handles I use on various messaging services and we can chat a bit that way. If I don't, I'll block you, and you're free to go about your day. Low stress for everyone involved. 
+
+And--at the risk of getting very personal here--if you happen to be a member of the foster family that raised me or my birth family...don't contact me, for any reason, ever. I don't know how you'd read my work and think I want to interact with you all these years down the line.
 
 ### You seem cool, you're visibly trans which is neat, and I'm having questions about gender stuff. Can I message you about your experiences/ask you for advice?
 
