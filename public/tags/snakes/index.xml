@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>snakes on Truck Stop Coffee</title>
+    <link>/tags/snakes/</link>
+    <description>Recent content in snakes on Truck Stop Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All work written by Sarah Allen Reed.</copyright>
+    <lastBuildDate>Sun, 20 Apr 1969 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/snakes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ongoing Project Update Threads</title>
+      <link>/post/updates/</link>
+      <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
+      
+      <guid>/post/updates/</guid>
+      <description>The following is a series of progress threads for pieces that are announced, that I have permission to share the creation process of, and that I want to share with you. These all used to be up solely on social media, but in the interest of both wanting to have everything in one place and insisting upon utilizing Indieweb principles to make sure my work isn&amp;rsquo;t lost to the ages for the umpteenth time thanks to the whim of some techno-jackanape, I&amp;rsquo;ll be posting them here.</description>
+    </item>
+    
+  </channel>
+</rss>

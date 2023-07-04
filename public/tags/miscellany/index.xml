@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>miscellany on Truck Stop Coffee</title>
+    <link>/tags/miscellany/</link>
+    <description>Recent content in miscellany on Truck Stop Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All work written by Sarah Allen Reed.</copyright>
+    <lastBuildDate>Sun, 20 Apr 1969 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/miscellany/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sarahallenreed.com Site Update History</title>
+      <link>/post/misc_mainsiteupdate/</link>
+      <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
+      
+      <guid>/post/misc_mainsiteupdate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Listening List</title>
+      <link>/post/misc_listen/</link>
+      <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
+      
+      <guid>/post/misc_listen/</guid>
+      <description>The Listening List Bold selections are studio picks, italics are gym session picks.
+2023 June 2023 Moe - Tin Cans and Car Tires
+Drive Like Jehu - Yank Crime
+Gorguts - Pleiades&amp;rsquo; Dust
+De-Phazz - Black White Mono
+Beck - The Information
+Bugge Wesseltoft&amp;rsquo;s New Conception Of Jazz - Sharing
+Elbow - The Taking Off And Landing Of Everything
+Amorphis - The Beginning Of Times
+Tokyo Ska Paradise Orchestra - スカパラ登場 Johnny Paycheck - 11 Months And 29 Days</description>
+    </item>
+    
+    <item>
+      <title>Truckstop.Coffee Site Patch Notes</title>
+      <link>/post/misc_truckstopupdate/</link>
+      <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
+      
+      <guid>/post/misc_truckstopupdate/</guid>
+      <description> July 3, 2023  Added this update log! Formally added a bunch of features, including the Miscellany section, the Project Update Threads, and more. Added Listening List entries from when I started keeping track in mid-June, up through July 1st. Finished the first entry in How To Cook Shit Started in on two additional entries Minor CSS updates, including different colors when hovering over the menu  </description>
+    </item>
+    
+  </channel>
+</rss>

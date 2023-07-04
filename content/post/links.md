@@ -51,6 +51,10 @@ Trash Panda is another fellow Datafruit DJ and all-around good dude. [Check out 
 
 Another fellow Datafruit, a stellar human being and good friend, and the entire reason I own a Pinephone. [Check out their website here.](http://www.bleakbeat.com)
 
+### einariii / pipesines
+
+A fantastic dude, very good friend, and brilliant hacker. [Check his website out here,](https://einariii.xyz/) and check out his program that turns raw code into an instrument (no I'm not kidding, it's fuckin' brilliant) [here.](https://pipesines.fly.dev/)
+
 ## Other Hackers/Tinkerers/Smart Folk
 
 ### Emily Crose

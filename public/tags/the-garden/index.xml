@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>the garden on Truck Stop Coffee</title>
+    <link>/tags/the-garden/</link>
+    <description>Recent content in the garden on Truck Stop Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All work written by Sarah Allen Reed.</copyright>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/the-garden/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photo Roll 03 - Scenes From The Studio - The Garden Concept Art, part 1</title>
+      <link>/post/photoroll03/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/photoroll03/</guid>
+      <description>Part one of two sets of progress photos of me working my way through the concept art for The Garden.
+ 
+ The initial pencils for the concept art image. I hid [Gnome Chompski](https://combineoverwiki.net/wiki/Garden_Gnome) in there somewhere--see if you can find &#39;im!  
+ Starting in on inks, going section by section.  
+ Layer layer layer  
+ Most of the sections are filled in now; only a few more adjustments then it&#39;s digitization time.</description>
+    </item>
+    
+    <item>
+      <title>Ongoing Project Update Threads</title>
+      <link>/post/updates/</link>
+      <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
+      
+      <guid>/post/updates/</guid>
+      <description>The following is a series of progress threads for pieces that are announced, that I have permission to share the creation process of, and that I want to share with you. These all used to be up solely on social media, but in the interest of both wanting to have everything in one place and insisting upon utilizing Indieweb principles to make sure my work isn&amp;rsquo;t lost to the ages for the umpteenth time thanks to the whim of some techno-jackanape, I&amp;rsquo;ll be posting them here.</description>
+    </item>
+    
+  </channel>
+</rss>

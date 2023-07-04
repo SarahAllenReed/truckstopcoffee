@@ -1,0 +1,8 @@
+{{ $file := .Get 0 }}
+{{ with .Site.GetPage $file }}
+<hr/>
+<h2>{{.Title}}</h2>
+<strong>{{.PublishDate.Format "January 2, 2006"}}</strong><br/>
+Original post <a href="https://truckstop.coffee/{{ print $file }}">here.</a>
+<hr/>
+{{.Content}}{{end}}

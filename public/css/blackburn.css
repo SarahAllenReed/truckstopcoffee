@@ -6,7 +6,7 @@
 }
 
 body{
-  color: #b5c5f1;
+  color: #87a7ff;
   background: url("/bg.png");
   background-repeat: repeat;
   background-position: top;
@@ -18,16 +18,16 @@ div.content {
 }
 
 a {
-  color: #579dc5;
+  color: #bae5fd;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #7af5f5;
+  color: #69f5f5;
   text-decoration: underline;
 }
 a:visited {
-  color: #8a688f;
+  color: #f9d1ff;
 }
 
 .small-print {

@@ -31,31 +31,43 @@ paginate = 10
   # Shown in the side menu.
   [[menu.main]]
     name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
+    pre = "<i class='fa fa-coffee fa-fw fa-flip-horizontal' aria-hidden='true'></i>"
     weight = 1
     identifier = "home"
     url = "/"
   [[menu.main]]
-    name = "Posts"
-    pre = "<i class='fa fa-list fa-fw'></i>"
+    name = "Post Archive"
+    pre = "<i class='fa fa-book fa-fw' aria-hidden='true'></i>"
     weight = 2
     identifier = "post"
     url = "/post/"
   [[menu.main]]
-    name = "Topics"
-    pre = "<i class='fa fa-book fa-fw'></i>"
+    name = "Topics and Tags"
+    pre = "<i class='fa fa-tag fa-fw' aria-hidden='true'></i>"
     weight = 3
     identifier = "topics"
     url = "/tags/"
   [[menu.main]]
-    name = "Photo Roll"
-    pre = "<i class='fa fa-camera fa-fw'></i>"
+    name = "Photo Rolls"
+    pre = "<i class='fa fa-camera fa-fw' aria-hidden='true'></i>"
     weight = 4
     identifier = "photos"
     url = "/tags/photo-roll"
   [[menu.main]]
+    name = "Project Updates"
+    pre = "<i class='fa fa-newspaper fa-fw' aria-hidden='true'></i>"
+    weight = 4
+    identifier = "updates"
+    url = "/post/updates"
+  [[menu.main]]
+    name = "Miscellany"
+    pre = "<i class='fa fa-umbrella fa-fw'></i>"
+    weight = 5
+    identifier = "misc"
+    url = "/post/misc"
+  [[menu.main]]
     name = "About Me"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    pre = "<i class='fa fa-user fa-fw' aria-hidden='true'></i>"
     weight = 6
     identifier = "about"
     url = "/post/about"
