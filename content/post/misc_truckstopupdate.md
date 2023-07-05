@@ -13,3 +13,9 @@ date: 1969-04-20
 * Finished the first entry in How To Cook Shit
 * Started in on two additional entries
 * Minor CSS updates, including different colors when hovering over the menu
+
+## July 4, 2023
+
+* Added post 14, the Jazz Program schedule for July.
+* Mucked with the CSS again, specifically to (hopefully) make links easier to sus out.
+* Added a couple minor edits to Post 13.
