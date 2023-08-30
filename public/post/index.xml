@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Truck Stop Coffee</title>
+    <title>Truck Stop Coffee</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Truck Stop Coffee</description>
+    <description>Recent content on Truck Stop Coffee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All work written by Sarah Allen Reed.</copyright>
-    <lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#015: Leave A Message After The Jazz: (A Posthumous) August 2023 Radio Programming Calendar</title>
+      <link>/post/0015/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/0015/</guid>
+      <description>Hey y&amp;rsquo;all! As the vast majority of you know, I&amp;rsquo;ve been the host of The Jazz Program on datafruits.fm for a good couple years now, and the host of a small show called Talkie Time on the timeslot before it. I&amp;rsquo;ve decided to make a monthly post here to let you fine folks know which records we&amp;rsquo;re going to be playing each episode, as well as take a bit to talk about some of my favorite jazz and jazz-related artists and records.</description>
+    </item>
     
     <item>
       <title>#014: We Couldn&#39;t Jazz Up A Title: July 2023 Radio Programming Calendar</title>
@@ -55,7 +64,7 @@ I spent way too much time in professional kitchens in my twenties when I couldn&
     </item>
     
     <item>
-      <title>#011: The Finer Things, April And May 2023</title>
+      <title>#018: The Finer Things, April &amp; May 2023</title>
       <link>/post/0011/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
@@ -302,8 +311,8 @@ De-Phazz - Black White Mono
 Beck - The Information
 Bugge Wesseltoft&amp;rsquo;s New Conception Of Jazz - Sharing
 Elbow - The Taking Off And Landing Of Everything
-Amorphis - The Beginning Of Times
-Tokyo Ska Paradise Orchestra - スカパラ登場 Johnny Paycheck - 11 Months And 29 Days</description>
+Johnny Paycheck - 11 Months And 29 Days
+Johnny Paycheck - Slide Off Your Satin Sheets</description>
     </item>
     
     <item>
