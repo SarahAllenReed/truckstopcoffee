@@ -10,37 +10,37 @@ The following is a series of progress threads for pieces that are announced, tha
 
 If you want to see my completed works, as well as the rest of my portfolio, [check out my main site at sarahallenreed.com!](https://sarahallenreed.com)
 
----
 <img class="floatleft" src="/constructionsm.png"/> 
 
-*Note: This list is VERY incomplete at the moment--I'm in the middle of a bunch of things and need time to collect all the work I've done (and am doing) on these projects and put it all in one place. I'm tossing it up as-is at this moment, though, and I'll be adding to it fairly constantly. *
+*Note: This list is VERY incomplete at the moment--I'm in the middle of a bunch of things and need time to collect all the work I've done (and am doing) on these projects and put it all in one place. I'm tossing it up as-is at this moment, though, and I'll be adding to it fairly constantly.*
 
-*Note that there's a lot of process threads that I have up on social media but haven't migrated to here yet; those will be added in time. There's also a lot of projects of a more solo variety that I've announced but haven't either made enough headway on to make their own thread or haven't had the time to compile yet. Either way, dead links to things I have planned but haven't formally announced anything on yet will be accompanied by a &quot;COMING SOON&quot; tag. Check back soon; maybe they'll be up when you come visit next!*
+*It's also worth mentioning that there's a lot of process threads that I have up on social media but haven't migrated to here yet; those will be added in time. There's also a lot of projects of a more solo variety that I've announced but haven't either made enough headway on to make their own thread or haven't had the time to compile yet. Either way, dead links to things I have planned but haven't formally announced anything on yet will be accompanied by a &quot;COMING SOON&quot; tag. Check back soon; maybe they'll be up when you come visit next!*
 
 ---
 ## Comics (with friends)
 
+---
+
 ### Our Lady Maven
 
-"Our Lady Maven is the first in a series of books threading thematic elements through the early, mid, and late WWII time period with a high attention to historic detail both in terms of story and art elements (as well as genuine queer representation) Our Lady Maven spins an exciting fictional narrative without completely rewriting history. 
+<span style="font-size: 1.5em"> ***[Click here for the Our Lady Maven update thread](/post/update_olm)*** </span>
 
-Many of the dates have even been kept intact in order to keep the plot grounded in truth, even when the story deviates from a factual historical account of the war.
-
-Drawing on the true life story of legendary allied spies & saboteurs, Our Lady Maven examines the events leading up to the foundation of modern geopolitics. Just like in the real world, not all is as it seems at first glance in the world of Our Lady Maven."
+"Our Lady Maven is the first in a series of books threading thematic elements through the early, mid, and late WWII time period with a high attention to historic detail both in terms of story and art elements (as well as genuine queer representation) Our Lady Maven spins an exciting fictional narrative without completely rewriting history. Drawing on the true life story of legendary allied spies & saboteurs, Our Lady Maven examines the events leading up to the foundation of modern geopolitics. Just like in the real world, not all is as it seems at first glance in the world of Our Lady Maven."
 
 Written by [Em Crose](https://hexadecim8.com), illustrated by yours truly.
 
 You can check out the series [here](https://ourladymaven.com) and check out a compilation of all the updates I've made about the series, as well as some photo rolls of the series in progress, in the update thread here:
 
-***[Click here for the Our Lady Maven update thread](/post/update_olm)***
+---
 
 ### The Garden
+
+<span style="font-size: 1.5em"> ***[Click here for The Garden's update thread](/post/update_garden)*** </span>
 
 The Garden is an upcoming cottagecore horror series written by [Cabbage](https://kc-comics.com/) and illustrated by yours truly.
 
 We don't have anything to show as far as finished pages just yet, but you can check out the update thread here:
 
-***[Click here for The Garden's update thread](/post/update_garden)***
 
 ---
 

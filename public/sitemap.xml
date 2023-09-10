@@ -4,12 +4,102 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/0017/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/art/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/barren/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/comics/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/illustration/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/misc/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/music/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/our-lady-maven/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/personal/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/photo-roll/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/photoroll05/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/process/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/studio-notes/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tabula-rosetta/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/the-garden/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/photoroll04/</loc>
+    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/0016/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,17 +129,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/the-jazz-program/</loc>
-    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,16 +149,6 @@
   </url>
   
   <url>
-    <loc>/tags/art/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/comics/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/cooking/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -89,37 +159,12 @@
   </url>
   
   <url>
-    <loc>/tags/illustration/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/misc/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/photo-roll/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/photoroll03/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/process/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/recipe/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/the-garden/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -145,26 +190,6 @@
   
   <url>
     <loc>/tags/luckless-games/</loc>
-    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/music/</loc>
-    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/our-lady-maven/</loc>
-    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/personal/</loc>
-    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/studio-notes/</loc>
     <lastmod>2023-05-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -305,11 +330,6 @@
   
   <url>
     <loc>/post/about/</loc>
-    <lastmod>1969-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/barren/</loc>
     <lastmod>1969-04-20T00:00:00+00:00</lastmod>
   </url>
   

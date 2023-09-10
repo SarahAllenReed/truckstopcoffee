@@ -2,8 +2,13 @@
 
   <br/>
   <div>
-    <i class="fa fa-calendar fa-fw"></i>
+    <i class="fa fa-calendar fa-fw"></i> Written and published on
     <time>{{ with .Site.Params.dateFormat }}{{ $.Date.Format . }}{{ else }}{{ .Date.Format "02 Jan 2006, 15:04" }}{{ end }}</time>
+  </div>
+
+  <div>
+    <i class="fa fa-book fa-fw"></i>
+    {{ .WordCount }} words, roughly {{ .ReadingTime }} minutes worth of readin'
   </div>
 
   {{ $baseUrl := .Site.BaseURL }}

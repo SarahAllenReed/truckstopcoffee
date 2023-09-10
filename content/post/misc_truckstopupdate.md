@@ -19,3 +19,11 @@ date: 1969-04-20
 * Added post 14, the Jazz Program schedule for July.
 * Mucked with the CSS again, specifically to (hopefully) make links easier to sus out.
 * Added a couple minor edits to Post 13.
+
+## September 9, 2023
+
+* Added posts 15, 16, and 17 over the past week, and photo rolls 4, 5, and 6 this evening.
+* Added a "word count/reading time" section to the front matter of each article, so you know what you're getting into before you get into it.
+* Updated the Listening List to (mostly) be up-to-date.
+* Added a couple readability edits to Post 9, and a redaction/correction to Post 13.
+* Added a line explicitly stating disavowing all use of, and forbidding all training of, AI to the sidebar, as well as a modified robot.txt that should keep away the webcrawlers and scrapers they use. Fuck AI "art" and "writing" and the damage it has done to this industry. 

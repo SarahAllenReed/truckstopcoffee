@@ -14,10 +14,13 @@
 
   {{ partial "post_meta.html" . }}
   
-  {{ .TableOfContents }}
+  <hr/>
+   {{ .TableOfContents }}
+  <hr/>
 
   {{ .Content }}
   {{ partial "prev_next_post.html" . }}
 </div>
+
 
 {{ partial "footer.html" . }}

@@ -6,7 +6,6 @@ date: 1969-04-20
 layout: single
 ---
 
----
 
 <img class="floatright" src="/constructionsm.png"/> 
 
@@ -18,9 +17,9 @@ The following is a series of links to random [accoutrements](https://www.merriam
 
 ## The Listening List
 
-At some point in 2023, I decided to start keeping a comprehensive log of everything I listened to in the studio. There were various reasons for this--I tend to listen to a lot of jazz that ends up on The Jazz Program in the studio, I wanted an incentive to vary my listening a bit more, it would be helpful to remember which albums I actually liked and might want to write a bit about--but regardless, [you can view the list here](/post/misc_listen) in Markdown format.
+At some point in 2023, I decided to start keeping a comprehensive log of everything I listened to in the studio. There were various reasons for this--I tend to listen to a lot of jazz that ends up on The Jazz Program in the studio, I wanted an incentive to vary my listening a bit more, it would be helpful to remember which albums I actually liked and might want to write a bit about, etc. Most likely updated at the end of each month.
 
-Most likely updated at the end of each month.
+<span style="font-size: 1.3em"> [Click here for The Listening List](/post/misc_listen) </span>
 
 ---
 
@@ -34,15 +33,17 @@ I keep a small text file on my [Pinephone](/post/photoroll03.md) with a series o
 
 Starting with this update, I plan on making little "feature update" lists whenever I add anything of interest. Until then, you can always check out [my Github](https://github.com/SarahAllenReed) and check out the commit histories there for a much more abbreviated summary of what I've been tinkering with.
 
----
-
-### sarahallenreed.com
+### sarahallenreed.com (COMING SOON)
 
 As of right now, [all that I have up is the Github commit list.](https://github.com/SarahAllenReed/sarahallenreed/commits/master)
 
 ### truckstop.coffee
 
-The current Site Update list is [here](/post/misc_truckstopupdate), and you can also check out the Github commit list [here.](https://github.com/SarahAllenReed/truckstopcoffee/commits/main)
+<span style="font-size: 1.3em"> [Click here for Truckstop Coffee's Patch Notes](/post/misc_truckstopupdate) </span>
+
+You can also check out the Github commit list [here.](https://github.com/SarahAllenReed/truckstopcoffee/commits/main)
+
+---
 
 ## My Zettlekasten (COMING SOON)
 

@@ -7,10 +7,127 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All work written by Sarah Allen Reed.</copyright>
-    <lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Sep 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>art</title>
+      <link>/tags/art/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>barren</title>
+      <link>/tags/barren/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/barren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comics</title>
+      <link>/tags/comics/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/comics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>illustration</title>
+      <link>/tags/illustration/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/illustration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>/tags/misc/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>/tags/music/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>our lady maven</title>
+      <link>/tags/our-lady-maven/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/our-lady-maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>/tags/personal/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photo roll</title>
+      <link>/tags/photo-roll/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/photo-roll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>process</title>
+      <link>/tags/process/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>studio notes</title>
+      <link>/tags/studio-notes/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/studio-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tabula rosetta</title>
+      <link>/tags/tabula-rosetta/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tabula-rosetta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the garden</title>
+      <link>/tags/the-garden/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/the-garden/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>essay</title>
@@ -67,24 +184,6 @@
     </item>
     
     <item>
-      <title>art</title>
-      <link>/tags/art/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>comics</title>
-      <link>/tags/comics/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/comics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cooking</title>
       <link>/tags/cooking/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
@@ -103,56 +202,11 @@
     </item>
     
     <item>
-      <title>illustration</title>
-      <link>/tags/illustration/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/illustration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>misc</title>
-      <link>/tags/misc/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/misc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>photo roll</title>
-      <link>/tags/photo-roll/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/photo-roll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>process</title>
-      <link>/tags/process/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>recipe</title>
       <link>/tags/recipe/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/recipe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>the garden</title>
-      <link>/tags/the-garden/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/the-garden/</guid>
       <description></description>
     </item>
     
@@ -180,42 +234,6 @@
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/luckless-games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>/tags/music/</link>
-      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>our lady maven</title>
-      <link>/tags/our-lady-maven/</link>
-      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/our-lady-maven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personal</title>
-      <link>/tags/personal/</link>
-      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>studio notes</title>
-      <link>/tags/studio-notes/</link>
-      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/studio-notes/</guid>
       <description></description>
     </item>
     
@@ -351,15 +369,6 @@
       <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
       
       <guid>/tags/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>barren</title>
-      <link>/tags/barren/</link>
-      <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/barren/</guid>
       <description></description>
     </item>
     

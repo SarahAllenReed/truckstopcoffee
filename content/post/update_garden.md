@@ -9,4 +9,6 @@ Here, you can find a chronological "thread" of sorts of posts about Our Lady Mav
 
 This page gets updated all the time, so check back frequently!
 
+{{< include "post/photoroll04" >}}
+
 {{< include "post/photoroll03" >}}

@@ -55,7 +55,7 @@ To put it a tad bit more poetically than is probably needed here, I can't think 
 I drink a LOT of coffee. As in, an unreasonable amount. Being American and self-employed by most definitions of the word, I don't have health insurance. And, like most professional artists, I have fairly severe ADHD (among other things that put me squarely in the realm of "neurodiverse".) Coffee and pipe tobacco are more or less how I self-medicate, and they're both habits that kind of define me--you very rarely see me without a cup of coffee and either a briar or corncob pipe or my [weird pipe/e-cigarette hybrid](https://www.vapeyaya.com/Premium-E-cig-E-Pipe) that I use to get around no-smoking regs. 
 
 <div class="center caption">
-  <p><a href= "/faq/03.jpg"><img src="/faq/3.jpg" alt="Eiffel tower"></a></p>
+  <p><a href= "/faq/03.jpg"><img src="/faq/3.jpg" alt="Add alt text"></a></p>
   <p>dale cooper just <i>gets</i> me, maaaaaan</p>
 </div>
 
@@ -131,7 +131,7 @@ Mostly, I'm just a storyteller with a penchant for exaggeration and [fish-storie
 Man, didn't your mother tell you not to ask a lady questions like that? I know I'm not much of a lady, but still. 
 
 <div class="floatcenter caption"">
-  <p><a href= "/faq/02.jpg"><img src="/faq/2.jpg" alt="Eiffel tower"></a></p>
+  <p><a href= "/faq/02.jpg"><img src="/faq/2.jpg" alt="Add alt text"></a></p>
   <p> why y'all damn kids askin me this foolishness</p>
 </div>
 
@@ -221,7 +221,7 @@ Sure. [Check out my main website for my rates, policies, professional work sampl
 If you wanna send me some snail mail, you can do that as well. [My current mailing addy is on my website.](https://sarahallenreed.com/resume/bio) No pipe bombs or arsenic, please.
 
 <div class="center caption">
-  <p><a href= "/faq/05.png"><img src="/faq/5.png" alt="Eiffel tower"></a></p>
+  <p><a href= "/faq/05.png"><img src="/faq/5.png" alt="Add alt text"></a></p>
   <p> plz don't</p>
 </div>
 
@@ -260,7 +260,7 @@ Best I can tell you is that however you feel is more than likely worth exploring
 That about sums it up. If you have any more questions, or just want to say hi, [email me](mailto:sarah@sarahallenreed.com). I might just add them to the list here, or I'll answer 'em in a mailbag post at some point. 
 
 <div class="floatcenter caption">
-  <p><a href= "/faq/06.jpg"><img src="/faq/6.jpg" alt="Eiffel tower"></a></p>
+  <p><a href= "/faq/06.jpg"><img src="/faq/6.jpg" alt="Add alt text"></a></p>
   <p> me answering mailbag questions</p>
 </div>
 
