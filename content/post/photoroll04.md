@@ -5,7 +5,7 @@ tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'the ga
 date: 2023-09-08
 ---
 
-Part one of two sets of progress photos of me working my way through the concept art for The Garden.
+Part two of two sets of progress photos of me working my way through the concept art for The Garden.
 
 <hr/>
 
