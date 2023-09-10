@@ -22,7 +22,7 @@ date: 1969-04-20
 
 ## September 9, 2023
 
-* Added posts 15, 16, and 17 over the past week, and photo rolls 4, 5, and 6 this evening.
+* Added posts 15, 16, and 17 over the past week, and photo rolls 4 and 5 this evening.
 * Added a "word count/reading time" section to the front matter of each article, so you know what you're getting into before you get into it.
 * Updated the Listening List to (mostly) be up-to-date.
 * Added a couple readability edits to Post 9, and a redaction/correction to Post 13.
