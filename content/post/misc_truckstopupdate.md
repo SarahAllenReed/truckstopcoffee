@@ -26,4 +26,8 @@ date: 1969-04-20
 * Added a "word count/reading time" section to the front matter of each article, so you know what you're getting into before you get into it.
 * Updated the Listening List to (mostly) be up-to-date.
 * Added a couple readability edits to Post 9, and a redaction/correction to Post 13.
-* Added a line explicitly stating disavowing all use of, and forbidding all training of, AI to the sidebar, as well as a modified robot.txt that should keep away the webcrawlers and scrapers they use. Fuck AI "art" and "writing" and the damage it has done to this industry. 
+* Added a line explicitly stating disavowing all use of--and forbidding all training of--AI on this website to the sidebar, as well as a modified robot.txt that should keep away the webcrawlers and scrapers they use. Fuck AI "art" and "writing" and the damage it has done to this industry. 
+
+## October 3, 2023
+
+* Added in post 18.
