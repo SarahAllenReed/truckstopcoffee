@@ -7,7 +7,7 @@ layout: single
 ---
 
 <div class="floatcenter caption">
-  <p><a href= "/photo/000/06.png"><img src="/photo/000/06.png" alt="Datafruits"></a></p>
+  <img src="/me.png" alt="Datafruits">
 </div>
 
 I'm Sarah. I'm an underground cartoonist, professional illustrator, and wandering ne'er-do-well. I've been telling stories and creating work for what is basically my entire adult life, and this is where I've decided to place my thoughts on doing so, as well as ramblings about [life in general](https://www.youtube.com/watch?v=IAu2X4BExfk).

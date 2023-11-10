@@ -229,3 +229,67 @@ date: 1969-04-20
 **The Slackers** - Self Medication  
 
 (TODO : Add gym/physical media listens)
+
+### September 2023
+
+**Junko Onishi** - Tea Times
+Topdown Dialectic** - Vol. 3
+Ben Webster** - Blue Light
+Departure Chandelier** - Antichrist Rise To Power
+Circle Of Ouroborus** - Kuuhun Kahlittu
+Austere** - Withering Illusions and Desolation
+Ingfried Hoffmann - Hammond Bond
+Logic - Young Sinatra
+Aceyalone and Rjd2 - Magnificent City
+Rob Crow - He thinks he's people
+Circa Survive - On Letting Go
+Chevelle - Antisaint Vena Sera
+Porcupine Tree - In Absentia
+Slough Feg - Traveller
+alt-J - An Awesome Wave
+OM - Advaitic Songs
+Nocturnal Depression - Spleen Black Metal
+Sonny James - You're The Only World I Know
+Bailey - Intelligent Drum & Bass
+Ben Webster - Live at the Haarlemse Jazz Club
+They Might Be Giants - Flood
+Modest Mouse - The Lonesome Crowded West
+King Harvest - Dancing in the Moonlight
+Kori Linae Carothers - Trillium
+Abdullah Ibrahim - Water From An Ancient Well
+Bush - Sixteen Stone
+Botch - We Are The Romans
+The Mars Volta - Octahedron
+The Mars Volta - The Bedlam In Goliath
+
+### October 2023
+
+Ben Webster - Autumn Leaves (Blue Light)
+The Rippingtons - Moonlighting (Moonlighting)
+Pierce Murphy - Through The Olive Branches/01 Pierce Murphy - The Shadow Of The Bluff.mp3
+Arovane - Ten Hours (Lilies)
+M83 - Birds (Dead Cities, Red Seas & Lost Ghosts)
+Skinny Puppy/2004-The Greater Wrong Of The Right/greater.flac
+Saluki Regicide - Rain 1 (Rain I [Webbed Hand wh002])
+Liturgy - Total War (The Ark Work)
+SNFU - The Devil's Voice (If You Swear, You'll Catch No Fish)
+Pouya - Suicidal Thoughts In The Back Of The Cadillac (South Side Slugs)
+Maserati - Ambassador of Cinema (The Language of Cities)
+The Mercury Program - Tequesta (A Data Learn the Language)
+mrkgnao - Thrive (The Lotus-Eaters)
+C418 - Atempause (Seven Years of Server Data)
+Com Truise - Open (In Decay)
+Clark - New Year Storm (Turning Dragon)
+Akashic Crow's Nest - Rain 1 (Rain 1 [Webbed Hand wh011])
+Tangerine Dream - Birth Of Liquid Pleyades (Zeit)
+Saor - Children of the Mist (Remastered) (Aura (Remastered))
+Lifeseeker - On Earth (Lifeseeker)
+BADBADNOTGOOD - And That, Too. (IV)
+Roxy Music - In the Midnight Hour (Flesh + Blood)
+milo - rabblerouse (so the flies don't come)
+Gevurah - The Fire Dwelling Within (Hallelujah!)
+The Cal Tjader Quintet - Yesterdays (Tjader Plays Mambo)
+Ray Lynch - Her Knees Deep in Your Mind (Conversations with God: a Windham Hill collection: disc 1)
+Lifeseeker - How to Build a Plane [Explicit] (Nugz)
+Larry Coryell - Gypsy Queen (Barefoot Boy)
+Jenova 7 - Dreaming Again (One Step Beyond) (Dusted Jazz Volume Three)
