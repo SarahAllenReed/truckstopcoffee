@@ -11,58 +11,58 @@ Part one of a series of progress photo galleries of me working through Our Lady 
 
 
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/01.jpeg"><img src="/photo/006/01.jpeg" alt="Add alt text"></a></p>
-  <p> Hand-lettering, as usual. It's how we do it here. </p>
+  <p><img tabindex=1 src="/photo/006/01.jpeg" /><span class="f"><img src="/photo/006/01.jpeg" alt="Add alt text"/></span></p>
+  <p> Falling down a rabbit hole.. </p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/02.jpeg"><img src="/photo/006/02.jpeg" alt="Add alt text"></a></p>
-  <p> Pencilling in a facsimile of the Chicago skyline. </a> </p>
+  <p><img tabindex=1 src="/photo/006/02.jpeg" /><span class="f"><img src="/photo/006/02.jpeg" alt="Add alt text"/></span></p>
+  <p> Mama (me) and the baby! Imogen is named after <a href="https://en.wikipedia.org/wiki/Imogen_Cunningham">Imogen Cunningham, if anyone was wondering.</a> </p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/03.jpeg"><img src="/photo/006/03.jpeg" alt="Add alt text"></a></p>
-  <p> Roughing in the other two panels. </p>
+  <p><img tabindex=1 src="/photo/006/03.jpeg" /><span class="f"><img src="/photo/006/03.jpeg" alt="Add alt text"/></span></p>
+  <p> A glamour shot, taken with my old Oneplus 7 Pro that I've used for the past few years. </p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/04.jpeg"><img src="/photo/006/04.jpeg" alt="Add alt text"></a></p>
+  <p><img tabindex=1 src="/photo/006/04.jpeg" /><span class="f"><img src="/photo/006/04.jpeg" alt="Add alt text"/></span></p>
   <p> Blocking in the kids with some more rough pencils. I'm using a General's carpenter's pencil here to scratch in some shading to mark where I'm going to put some thick swatches of black ink... </a></p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/05.jpeg"><img src="/photo/006/05.jpeg" alt="Add alt text"></a></p>
-  <p> ...or I was, anyways, until I realized it wouldn't mesh with the lighting of the scene and the positioning of the characters... </a> </p>
+  <p><img tabindex=1 src="/photo/006/05.jpeg" /><span class="f"><img src="/photo/006/05.jpeg" alt="Add alt text"/></span></p>
+  <p> A couple of the first photos I ever took with Imogen here. Of course they're of me making breakfast for Autumn... </a> </p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/06.jpeg"><img src="/photo/006/06.jpeg" alt="Add alt text"></a></p>
-  <p> ...a lighting and positioning that's a bit more visible here on Page 1. </p>
+  <p><img tabindex=1 src="/photo/006/06.jpeg" /><span class="f"><img src="/photo/006/06.jpeg" alt="Add alt text"/></span></p>
+  <p> ...corned beef hash, toast, and Vietnamese-style drip coffee. </p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/07.jpeg"><img src="/photo/006/07.jpeg" alt="Add alt text"></a></p>
+  <p><img tabindex=1 src="/photo/006/07.jpeg" /><span class="f"><img src="/photo/006/07.jpeg" alt="Add alt text"/></span></p>
   <p> Here's page 1 and 2, side by side. </p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/08.jpeg"><img src="/photo/006/08.jpeg" alt="Add alt text"></a></p>
+  <p><img tabindex=1 src="/photo/006/08.jpeg" /><span class="f"><img src="/photo/006/08.jpeg" alt="Add alt text"/></span></p>
   <p> s m o n k </p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/09.jpeg"><img src="/photo/006/09.jpeg" alt="Add alt text"></a></p>
+  <p><img tabindex=1 src="/photo/006/09.jpeg" /><span class="f"><img src="/photo/006/09.jpeg" alt="Add alt text"/></span></p>
   <p> Almost done with Page 1 here....  </p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/10.jpeg"><img src="/photo/006/10.jpeg" alt="Add alt text"></a></p>
+  <p><img tabindex=1 src="/photo/006/10.jpeg" /><span class="f"><img src="/photo/006/10.jpeg" alt="Add alt text"/></span></p>
   <p> ...and almost done with Page 2 as well. </p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/11.jpeg"><img src="/photo/006/11.jpeg" alt="Add alt text"></a></p>
+  <p><img tabindex=1 src="/photo/006/11.jpeg" /><span class="f"><img src="/photo/006/11.jpeg" alt="Add alt text"/></span></p>
   <p> Mostly completed now. </p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/12.jpeg"><img src="/photo/006/12.jpeg" alt="Add alt text"></a></p>
+  <p><img tabindex=1 src="/photo/006/12.jpeg" /><span class="f"><img src="/photo/006/12.jpeg" alt="Add alt text"/></span></p>
   <p> Some inkings on Page 3. For some reason, I didn't take too many photos while I was working on the pencils and layout on this page. </p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/13.jpeg"><img src="/photo/006/13.jpeg" alt="Add alt text"></a></p>
+  <p><img tabindex=1 src="/photo/006/13.jpeg" /><span class="f"><img src="/photo/006/13.jpeg" alt="Add alt text"/></span></p>
   <p> And nearly completed inks. </p>
 </div>
 <div class="floatcenter caption">
-  <p><a href= "/photo/006/14.jpeg"><img src="/photo/006/14.jpeg" alt="Add alt text"></a></p>
+  <p><img tabindex=1 src="/photo/006/14.jpeg" /><span class="f"><img src="/photo/006/14.jpeg" alt="Add alt text"/></span></p>
   <p> Pages 1, 2, and 3, fully inked on the board. </p>
 </div>
