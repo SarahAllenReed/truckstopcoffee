@@ -1,8 +1,8 @@
 ---
 title: "Photo Roll 10 - Meet Navi!"
-description: "A collection of in-progress photos from the development and illustration process for the first three pages of Our Lady Maven." 
-tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'the garden']
-date: 2023-11-01
+description: "Navi is my beloved Pinephone. This page is where you can find some glamour shots and screenshots of her." 
+tags: ['photo roll', 'misc', 'linux', 'pinephone']
+date: 2023-11-04
 ---
 
 Part one of a series of progress photo galleries of me working through Our Lady Maven, Issue 2.

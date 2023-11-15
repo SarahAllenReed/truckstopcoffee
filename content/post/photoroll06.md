@@ -1,7 +1,7 @@
 ---
 title: "Photo Roll 06 - Scenes From The Studio - October 2023"
-description: "A collection of in-progress photos from the development and illustration process for the first three pages of Our Lady Maven." 
-tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'the garden']
+description: "I've been documenting what's going on in little semi-weekly photo posts as of late. Here are those posts from October." 
+tags: ['photo roll', 'scenes from the studio', 'process']
 date: 2023-10-31
 ---
 

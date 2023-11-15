@@ -1,7 +1,7 @@
 ---
 title: "Photo Roll 07 - Meet Imogen!"
-description: "A collection of in-progress photos from the development and illustration process for the first three pages of Our Lady Maven." 
-tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'the garden']
+description: "Imogen is my Nikon DSLR. Here's the first few instances of me trying to take her out for a spin." 
+tags: ['photo roll', 'misc', 'life', 'camera',]
 date: 2023-11-01
 ---
 

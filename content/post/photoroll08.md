@@ -1,8 +1,8 @@
 ---
 title: "Photo Roll 08 - Polyhymnia Bein' Cute, Part 2"
-description: "A collection of in-progress photos from the development and illustration process for the first three pages of Our Lady Maven." 
-tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'the garden']
-date: 2023-11-01
+description: "Even more photos of my fuzzy animal companion."  
+tags: ['photo roll', 'misc', 'dog', 'polyhymnia']
+date: 2023-11-02
 ---
 
 Part one of a series of progress photo galleries of me working through Our Lady Maven, Issue 2.
