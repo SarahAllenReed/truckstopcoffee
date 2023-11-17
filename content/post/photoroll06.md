@@ -12,19 +12,19 @@ date: 2023-10-31
 ## September 30, 2023
 
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/006/9_30_01.jpg" /><span class="f"><img src="/photo/006/9_30_01.jpg" alt="Add alt text"/></span></p>
-  <p> Whole bunch of lettering bubbles and a lit, bubbling hookah. </p>
+  <p><img tabindex=1 src="/photo/006/9_30_01.jpg" /><span class="f"><img src="/photo/006/9_30_01.jpg" alt="A hookah pipe with a lit coal on a mat covered in cut-out speech bubbles and a gluestick, including one that says &quot;SHUT YOUR MOUTH, GUTTER SNIPE!&quot; in large dramatic letters. A bundle of sage, a large pour bottle of black ink, and two lead refills are visible in the foreground."/></span></p>
+  <p> Whole bunch of lettering bubbles and a lit, bubbling hookah. Not the worst way to start a work session.</p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/006/9_30_02.jpg" /><span class="f"><img src="/photo/006/9_30_02.jpg" alt="Add alt text"/></span></p>
-  <p> Fill in </a> </p>
+  <p><img tabindex=1 src="/photo/006/9_30_02.jpg" /><span class="f"><img src="/photo/006/9_30_02.jpg" alt="A 3:4 monitor running i3wm, with a Let's Play from youtuber Kikoskia on the top frame and the script from Our Lady Maven on the bottom. Two pages of scripts for The Garden and the hand-lettered &quot;reader discretion&quot; page from Barren are visible beneath the monitor."/></span></p>
+  <p> Watching [Kiko](https://kikoskia.com/) roll through Stonekeep and reading through the Our Lady Maven script. </a> </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/006/9_30_03.jpg" /><span class="f"><img src="/photo/006/9_30_03.jpg" alt="Add alt text"/></span></p>
+  <p><img tabindex=1 src="/photo/006/9_30_03.jpg" /><span class="f"><img src="/photo/006/9_30_03.jpg" alt="A panel from Our Lady Maven Issue 2 being pencilled. A speech bubble with the words &quot;SHUT YOUR MOUTH, GUTTER SNIPE!&quot; in very dramatic text is glued onto the page."/></span></p>
   <p> Fill in </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/006/9_30_04.jpg" /><span class="f"><img src="/photo/006/9_30_04.jpg" alt="Add alt text"/></span></p>
+  <p><img tabindex=1 src="/photo/006/9_30_04.jpg" /><span class="f"><img src="/photo/006/9_30_04.jpg" alt="A plotting sketch for a painting, drawn on graph paper. A large eye with two pupils covered in hair and leaves is visible in the foreground. A lettering page with the words &quot;MATURE READERS ONLY&quot; is visible just behind the plotting sketch."/></span></p>
   <p> Fill in </a></p>
 </div>
 

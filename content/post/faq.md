@@ -22,11 +22,95 @@ layout: single
 
 ---
 
+
+## What Is A Sarah, And What Does She Do? (About Me)
+
+It's worth noting that [you can view my &quot;About Me&quot; page here](/post/about) for most of the answers one would have to the question &quot;Who is Sarah?&quot;. For the rest, here's this.
+
+### Who are you, exactly?
+
+I'm Sarah, and I'm a cartoonist. 
+
+I've worked in illustration for most of my adult life and been making scribbles of some variety for the vast majority of my life before that. I've also been a trucker, a chef, a programmer, a janitor, a radio DJ, a touring musician, and a bunch of other things at some point or another. 
+
+Mostly, I'm just a storyteller with a penchant for exaggeration and [fish-stories](https://www.merriam-webster.com/dictionary/fish%20story). Hence why I call myself a cartoonist as opposed to anything else--even when I'm not drawing, I'm telling big stories and painting pictures with words and sound. Hell, given my mannerisms, I'm basically a cartoon character myself.
+
+### How old are you?
+
+Man, didn't your mother tell you not to ask a lady questions like that? I know I'm not much of a lady, but still. 
+
+<div class="floatcenter caption"">
+  <p><a href= "/faq/02.jpg"><img src="/faq/2.jpg" alt="Add alt text"></a></p>
+  <p> why y'all damn kids askin me this foolishness</p>
+</div>
+
+### What do you look like?
+
+An idiot, mostly.
+
+As for a serious answer to that one...I go out of my way these days to try and make sure there aren't too many photos of me online--half because I'm visibly trans and work in media, and half because I just usually don't like how I look and don't think it's relevant to my work. There's a reason why blind auditions have become the standard in symphonic music--there's often very little correlation between an artist's output and their physical form, and you can know me and my way of being better through my work than you ever can through the pound of flesh I inhabit in meatspace.
+
+With that stated, I know a lot of people seem to want to see the face behind the pen, so [here's a little gallery of self-portraits and press photos if you absolutely need an answer to that particular burning question.](/post/photoroll00) The little self-portrait doodle on the banner is fairly accurate, as well. I'm rarely seen without coffee, my pipe, and my headphones.
+
+### Where can I see your art/check out your music/listen to you on the radio?
+
+There's a bunch of links, lists, and illustration samples [over here on my main website.](https://sarahallenreed.com)
+
+### I tuned into your radio show. Love your voice, but what's up with your accent?
+
+I've often joked that my accent is half Saint Louis hood and half Ozark backwoods. This is mostly correct--I hail from a mix of the rougher parts of both of those places, and there's also a bit of Mainer thrown in from my time on the East coast, as well as some other bastardizations. The reason it's so thick, though, comes down to one factor: isolation. 
+
+The thing about accents is that they're mostly shorthand for whatever language you happen to be speaking. I've spent a lot of time traveling alone, and when you talk to yourself like a crazy person as much as I do, you tend to talk to yourself exclusively in that shorthand. And if you already *had* an accent to *begin* with...well, isolation tends to make it worse. Hence why it's a bit thicker and a bit more wonky than a lot of other Missourians. 
+
+### What are you supposed to be, exactly/Are you a boy or a girl/What's going on with the whole gender thing you got goin' on there?
+
+<div class="caption floatcenter">
+  <p><a href= "/faq/02.jpg"><img src="/faq/4.png" alt="I'm an ARTIST"></a></p>
+  <p> my gender is &quot;gay muppet&quot; </p>
+</div>
+
+This is subject to change, but at this moment here's where we're at. 
+
+* I use she/her pronouns and use feminine nouns in languages which have gendered nouns. I do not go by they/them, he/him, or any other set of pronouns. If you use anything other than she/her and you have reason to know better than to do so, I'm going to assume you're intentionally misgendering me and I have no interest in interacting with people who would rather prescribe me an identity than listen to what I have to say.
+
+* I often refer to myself as a "femme" or "femboi" (spelled with an I), and that's the best descriptor you're going to get. If you aren't a fan of the word "femboy", your best bet is some variation of "transgender" or "trans femme". With that stated, *I'm not a "woman" or "female"*, nor do I have any connection to whatever those words mean. ***This statement does not make me a "man"***--in fact, if you call me a "man", a "he", or a "male" in [meatspace](https://en.wiktionary.org/wiki/meatspace) there's pretty solid odds that you're going to get slapped. I just have no connection to society's definition of "womanhood", and I find the insistence upon a binary choice utterly useless. "Femboi" is the closest to a descriptor of what I'm about that you're going to get.
+
+* Despite what some might call evidence to the contrary, *I am not non-binary.* I don't find any definition of the term in current common parlance useful, and I have never heard anyone use it to describe me that wasn't simply going out of their way to ignore how I have requested to be addressed for the sake of their own convenience. Don't use it to describe me.
+
+### . . . Yeah, but that doesn't make any sense.
+
+Good.
+
+If that sounds like an unsatisfactory or confusing explanation, I can't help you. If anything, you can probably assume I think it's funny.
+
+Thing is, to most bigots and a disturbing amount of the "well-meaning" population in general, I'm just a faggot in a skirt and nothing more. The types of ingrates who don't care for queer folk often don't give a shit *how* you got to be who you are, specifically, because *they don't care about queer folk* and those details don't matter. They're usually just more than happy to disregard you at best or shoot you at worst just for being some flavor of queer, especially if the flavor you are doesn't fit into whatever box they think they can use for their purposes.
+
+And because I think those folk and their boxes are rot garbage (along with the fact that my anarchist self isn't keen on fitting in too many boxes to begin with), I'm not exactly interested in making who and what i am easily quantifiable, either. If half the world is going to call me a faggot regardless of what I do, I'm going to be the most confusing yet genuine faggot you've ever met in your life, whether anybody gets it or not. I'm gonna be me and change how I describe me to fit who I am at an interval that I see fit. And I'm not gonna care one iota whether you get it or not.
+
+So yeah. My gender expression is some confusing bullshit, that is intentional, and it doesn't matter that much. Thing is, if you're willing to listen to and value what I have to say, and if you're willing to describe me as I wish to be described regardless of whether you "get" whatever it is I am, then that's all I ask and you're probably chill in my book.
+
+As of right now, that description is : she/her pronouns, femboi or trans femme, and not a woman, a man, or nonbinary. Stick that in your brain and you'll be alright with me.
+
+### Okay, but I think you're cute. What does that make me? I'm having a crisis here!
+
+It makes you gay, bud. Congratulations. No, your gender presentation doesn't matter. You're just gay now and you're gonna have to live with that. Mazel tov. Your card is in the mail.
+
+<div class="center floatcenter caption">
+  <p><a href= "/faq/02.jpg"><img src="/faq/1.png" alt="me irl"></a></p>
+  <p> me irl</p>
+</div>
+
+### Are you single/available? I must know!
+
+As far as you--a random person who I've probably never interacted with save this blog or my work--are concerned, probably not, no. Sorry, tiger.
+
+---
+
 ## A Damn Fine Cup Of Truck Stop Coffee (A Bit About This Blog)
 
 ### Why make a blog?
 
-To paraphrase the Allman Brothers Band, [I was born a'ramblin'](https://www.youtube.com/watch?v=68X8o0S7vJc). I have a lot to say that doesn't neatly fit into the thematic bonds of my books, paintings, or records. I also know full well through experience that I'm at perpetual risk of watching things I say disappear off the Internet if I don't self-host it. 
+To paraphrase the Allman Brothers Band, [I was born a'ramblin', man.](https://www.youtube.com/watch?v=68X8o0S7vJc). I have a lot to say that doesn't neatly fit into the thematic bonds of my books, paintings, or records. I also know full well through experience that I'm at perpetual risk of watching things I say disappear off the Internet if I don't self-host it. 
 
 There's a lot of reasons for that, and a good portion of those reasons have to do with the walled garden nature of the Internet these days. To put it bluntly, I check a lot of boxes that the Silicon Valley kids make a habit of shadowbanning and de-platforming, the three biggest ones being "visibly trans", "vocally anarchist", and "says 'fuck' a lot". Besides, a lot of what I have to say isn't "advertiser friendly", doesn't fit neatly into 240 characters, or isn't something I want to leave to the mercy of the algorithm to begin with. Hell, the fact that I'm visibly queer is in and of itself an argument against having social media at all. Twitter specifically isn't exactly kind to girls like me.
 
@@ -102,7 +186,7 @@ I'm also not exactly what you'd call a typical professional in this field. I got
 
 I've also spent a good portion of my adult life trying to find new and interesting ways to solve whatever issues the pieces I'm working on are facing. Most of my career output doesn't fit neatly into any major category as a direct result, and I've spent a lot of my career in places you wouldn't expect to find someone with my profession. 
 
-There's a reason the bottom of this page displays the [glider](http://www.catb.org/hacker-emblem/); I have more in common with hacker culture than I do with most other folks in my field. If there's a way to break something, I'll find it just to see how it ticks. And if there's something interesting to be found in the dissection process, all the better.
+There's a reason the sidebar of this page displays the [glider](http://www.catb.org/hacker-emblem/); I have more in common with hacker culture than I do with most other folks in my field. If there's a way to break something, I'll find it just to see how it ticks. And if there's something interesting to be found in the dissection process, all the better.
 
 (It's also worth noting that I used to refer to myself as a "professional jackass"--a moniker which works ever so slightly better if the reader knows to use the "playful, chaotic prankster" definition of "jackass" [popularized by the television show of the same name](https://en.wikipedia.org/wiki/Jackass_(franchise)). Issue is, most folks don't, and you could argue that Johnny Knoxville and crew didn't either. So, cartoonist-errant it is.)
 
@@ -111,102 +195,6 @@ There's a reason the bottom of this page displays the [glider](http://www.catb.o
 My foster grandfather was a fairly big influence on who I grew up to be. He had a farm in rural Missouri on the topmost part of the Ozarks, and that came with it all of the colloquialisms one would expect it to. (Those colloquialisms and his particular accent is the reason I have roughly half of mine, as well, but that's another topic.) "Quit yer foolishness" was his way of angrily telling me to quit fuckin' around and being a goofball when I was a kid. 
 
 Surprising literally no one, I have never quit either my foolishness or my rambling. Hence, the tagline, as well as my [raison d'être](https://www.merriam-webster.com/dictionary/raison%20d%27%C3%AAtre) in general.
-
----
-
-## What Is A Sarah, And What Does She Do? (About Me)
-
-It's worth noting that [you can view my &quot;About Me&quot; page here](/post/about) for most of the answers one would have to the question &quot;Who is Sarah?&quot;. For the rest, here's this.
-
-### Who are you, exactly?
-
-I'm Sarah, and I'm a cartoonist. 
-
-I've worked in illustration for most of my adult life and been making scribbles of some variety for the vast majority of my life before that. I've also been a trucker, a chef, a programmer, a janitor, a radio DJ, a touring musician, and a bunch of other things at some point or another. 
-
-Mostly, I'm just a storyteller with a penchant for exaggeration and [fish-stories](https://www.merriam-webster.com/dictionary/fish%20story). Hence why I call myself a cartoonist as opposed to anything else--even when I'm not drawing, I'm telling big stories and painting pictures with words and sound. Hell, given my mannerisms, I'm basically a cartoon character myself.
-
-### How old are you?
-
-Man, didn't your mother tell you not to ask a lady questions like that? I know I'm not much of a lady, but still. 
-
-<div class="floatcenter caption"">
-  <p><a href= "/faq/02.jpg"><img src="/faq/2.jpg" alt="Add alt text"></a></p>
-  <p> why y'all damn kids askin me this foolishness</p>
-</div>
-
-### What do you look like?
-
-An idiot, mostly.
-
-As for a serious answer to that one...I go out of my way these days to try and make sure there aren't too many photos of me online--half because I'm visibly trans and work in media, and half because I just usually don't like how I look and don't think it's relevant to my work. There's a reason why blind auditions have become the standard in symphonic music--there's often very little correlation between an artist's output and their physical form, and you can know me and my way of being better through my work than you ever can through the pound of flesh I inhabit in meatspace.
-
-With that stated, I know a lot of people seem to want to see the face behind the pen, so [here's a little gallery of self-portraits and press photos if you absolutely need an answer to that particular burning question.](/post/photoroll00) The little self-portrait doodle on the banner is fairly accurate, as well. I'm rarely seen without coffee, my pipe, and my headphones.
-
-### Where can I see your art/check out your music/listen to you on the radio?
-
-There's a bunch of links, lists, and illustration samples [over here on my main website.](https://sarahallenreed.com)
-
-### I tuned into your radio show. Love your voice, but what's up with your accent?
-
-I've often joked that my accent is half Saint Louis hood and half Ozark backwoods. This is mostly correct--I hail from a mix of the rougher parts of both of those places, and there's also a bit of Mainer thrown in from my time on the East coast, as well as some other bastardizations. The reason it's so thick, though, comes down to one factor: isolation. 
-
-The thing about accents is that they're mostly shorthand for whatever language you happen to be speaking. I've spent a lot of time traveling alone, and when you talk to yourself like a crazy person as much as I do, you tend to talk to yourself exclusively in that shorthand. And if you already *had* an accent to *begin* with...well, isolation tends to make it worse. Hence why it's a bit thicker and a bit more wonky than a lot of other Missourians. 
-
-I've spent a lot of time practicing my [steno](https://www.merriam-webster.com/dictionary/stenography), so to speak.
-
-### What are you supposed to be, exactly/Are you a boy or a girl/What's going on with the whole gender thing you got goin' on there?
-
-<div class="caption floatcenter">
-  <p><a href= "/faq/02.jpg"><img src="/faq/4.png" alt="I'm an ARTIST"></a></p>
-  <p> my gender is &quot;gay muppet&quot; </p>
-</div>
-
-I often refer to myself as a "trans femme" or "femboi", and that's the best descriptor you're going to get. I use she/her *(and no other set of)* pronouns, feminine nouns in languages with gendered nouns, and I identify wih neither womanhood nor as a man. I also do not consider being "nonbinary" to apply to me.
-
-If that sounds like an unsatisfactory explanation, I can't help you. While a lot of my work is explicitly queer in content and nature, the specifics of said queerness isn't something I care to go into detail unless I have to in order to tell the specific story I'm telling. Thing is, 99% of the time neither my gender presentation nor my sexual preferences are particularly relevant for those stories, and I don't view it useful for the audience to know--or care--*what* I am as long as I have successfully communicated *who* I am and what I stand for. 
-
-That 99% of the time includes the stories involving the difficulties of being trans in America, for the record. The types of ingrates who don't care for queer folk often don't give a shit *what* you are, specifically. They're usually just more than happy to disregard you at best or shoot you at worst just for being some flavor of queer, especially if the flavor you are doesn't fit into whatever box they think they can use for their purposes.
-
-And because of (or in spite of) those folk--as well as my usual general insistence on my way of being in the world being purposefully hard to categorize--I'm not exactly interested in making who and what i am easily quantifiable. If you're willing to read my work and gender me correctly regardless of whether you "get whatever it is I am", then you're probably chill in my book.
-
-<details>
-  <summary style="color:#b288dd;">If you'd like a more thorough explanation, click here to expand the following section. Fair warning: the following is about as blunt and hostile to this question as my answer to it would be in real life should it come up.</summary>
-
----
-
-To be completely blunt, I view demanding any further explanation/justification of one's identity aside from "which pronouns should i refer to you by" as needlessly invasive and utterly irrelevant in 99% of usecases. If I don't know you and you need to refer to me in a written work, or if you wish to mention me in passing conversation, the common pronoun of "she/her/hers" should be all you need. Anything else is just [othering](https://en.wikipedia.org/wiki/Other_(philosophy)#LGBT_identities) under the guise of posturing curiosity. My tone here for answering this question further sounds annoyed because I *am* annoyed at having to answer further, almost as much as I would be if you asked me if I've had "the surgery". It's a personal question and you don't need to know the answer past what I've already given you. 
-
-With that stated, I have had further answers demanded of me a lot more than I'd like, and I've also had far more folks--including editors, promoters, and other people in the industry who should know better--simply assume I'm something I'm not without bothering to ask me how I wish to be referred to. I also know a non-zero amount of folks clicked this FAQ for no other reason than to find a more "accurate" answer to this question for whatever reason. So, in the interest of dodging these questions at parties and at panels for the rest of my life, here's the [cliff notes](https://en.wiktionary.org/wiki/Cliff_notes). 
-
-* To underscore, **I use she/her pronouns and use feminine nouns in languages which have gendered nouns.** I do not go by they/them, he/him, or whatever other pronouns you think I should be using. If you use anything other than she/her and you have reason to know better than to do so, I'm going to assume you're intentionally misgendering me and I have no interest in interacting with people who would rather prescribe me an identity than listen to what I have to say.
-* Insofar as descriptive adjectives go, your best bet is some variation of "femme" if you feel the need to refer to me/describe me using that part of speech for whatever reason. With that stated, *I'm not a "woman" or "female"*, nor do I have any connection to whatever those words mean. ***This statement does not make me a "man"***--in fact, if you call me a "man" or a "male" in [meatspace](https://en.wiktionary.org/wiki/meatspace) there's pretty solid odds that you're going to get slapped. I just have no connection to society's definition of "womanhood", and I find the insistence upon a binary choice utterly useless. As I already mentioned, I often refer to myself as a "femme" or "femboy", and those two phrases and their close variations are the closest to a descriptor of my presentation that you're going to get.
-* Despite what some might call evidence to the contrary, *I am not non-binary.* I don't find any definition of the term in current common parlance useful, and I have never heard anyone use it to describe me that wasn't simply going out of their way to ignore how I have requested to be addressed for the sake of their own convenience. Don't use it to describe me.
-
-I know you clicked on this for a "more thorough explanation" and congrats! you aren't getting one. Past those three bullet points and the set of pronouns given--all of which are just rehashes of the information above with a few more swear words, because that's all I feel like giving you--my gender presentation or identity is neither a conversation I enjoy having nor something I think should be a topic of conversation with random strangers, be them online or in real life. Yes, this includes you.
-
-If the tone of this expanded section makes you angry, that's on you. Maybe don't bother asking queer folk to explain themeselves or justify their existence to you next time, bud.
-
----
-
-</details>~~~~
-
-### Are you on hormones? You know smoking is bad for hormone intake, right? When are you going to quit smoking that pipe of yours?
-
-When I'm dead. Next question.
-
-### I think you're cute. What does that make me? I'm having a crisis here!
-
-It makes you gay, bud. Congratulations. No, your gender presentation doesn't matter. You're just gay now and you're gonna have to live with that. Mazel tov. Your card is in the mail.
-
-<div class="center floatcenter caption">
-  <p><a href= "/faq/02.jpg"><img src="/faq/1.png" alt="me irl"></a></p>
-  <p> me irl</p>
-</div>
-
-### Are you single/available? I must know!
-
-As far as you--a random person who I've probably never interacted with save this blog or my work--are concerned, probably not, no. Sorry, tiger.
 
 ---
 
