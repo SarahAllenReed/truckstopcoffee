@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="Feeds" text="Feeds" description="Feeds" type="folder">
+      <outline title="Tech" text="Tech" description="Tech" type="folder">
+        <outline title="The Verge" text="The Verge" description="The Verge" type="atom" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/"/>
+        <outline title="Techdirt" text="Techdirt" description="Techdirt" type="rss" xmlUrl="https://www.techdirt.com/feed/" htmlUrl="https://www.techdirt.com"/>
+        <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
+        <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
+        <outline title="Deeplinks" text="Deeplinks" description="Deeplinks" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml" htmlUrl="https://www.eff.org/rss/updates.xml"/>
+        <outline title="Freedom to Tinker" text="Freedom to Tinker" description="Freedom to Tinker" type="rss" xmlUrl="https://freedom-to-tinker.com/feed/" htmlUrl="https://freedom-to-tinker.com/"/>
+      </outline>
+      <outline title="News Sites" text="News Sites" description="News Sites" type="folder">
+        <outline title="Science News" text="Science News" description="Science News" type="rss" xmlUrl="https://www.sciencenews.org/feed" htmlUrl="https://www.sciencenews.org"/>
+        <outline title="ProPublica" text="ProPublica" description="ProPublica" type="rss" xmlUrl="https://www.propublica.org/feeds/propublica/main" htmlUrl="https://www.propublica.org/feeds/main"/>
+        <outline title="The Intercept" text="The Intercept" description="The Intercept" type="rss" xmlUrl="https://theintercept.com/feed/?lang=en" htmlUrl="https://theintercept.com/"/>
+        <outline title="Alternet.org" text="Alternet.org" description="Alternet.org" type="rss" xmlUrl="https://www.alternet.org/feeds/feed.rss" htmlUrl="https://www.alternet.org/"/>
+        <outline title="anarchistnews.org" text="anarchistnews.org" description="anarchistnews.org" type="rss" xmlUrl="https://anarchistnews.org/rss.xml" htmlUrl="https://anarchistnews.org"/>
+        <outline title="Mother Jones" text="Mother Jones" description="Mother Jones" type="rss" xmlUrl="https://www.motherjones.com/feed/" htmlUrl="https://www.motherjones.com"/>
+        <outline title="404 Media" text="404 Media" description="404 Media" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/"/>
+        <outline title="Nieman Lab" text="Nieman Lab" description="Nieman Lab" type="rss" xmlUrl="https://www.niemanlab.org/feed/" htmlUrl="https://www.niemanlab.org"/>
+      </outline>
+      <outline title="Journalists" text="Journalists" description="Journalists" type="folder">
+        <outline title="Pluralistic: Daily links from Cory Doctorow" text="Pluralistic: Daily links from Cory Doctorow" description="Pluralistic: Daily links from Cory Doctorow" type="rss" xmlUrl="https://pluralistic.net/feed/" htmlUrl="https://pluralistic.net"/>
+        <outline title="The Luddite" text="The Luddite" description="The Luddite" type="rss" xmlUrl="https://theluddite.org/feed.rss" htmlUrl="https://theluddite.org"/>
+        <outline title="Ploum.net" text="Ploum.net" description="Ploum.net" type="atom" xmlUrl="https://ploum.net/atom_en.xml" htmlUrl="https://ploum.net/atom_en.xml"/>
+      </outline>
+      <outline title="Open Source/Free Culture" text="Open Source/Free Culture" description="Open Source/Free Culture" type="folder">
+        <outline title="Planet Debian" text="Planet Debian" description="Planet Debian" type="rss" xmlUrl="https://planet.debian.org/rss20.xml" htmlUrl="https://planet.debian.org/"/>
+        <outline title="Anna&#x2019;s Blog" text="Anna&#x2019;s Blog" description="Anna&#x2019;s Blog" type="rss" xmlUrl="https://annas-blog.org/rss.xml" htmlUrl="https://annas-blog.org/"/>
+        <outline title="LOW&#x2190;TECH MAGAZINE English" text="LOW&#x2190;TECH MAGAZINE English" description="LOW&#x2190;TECH MAGAZINE English" type="rss" xmlUrl="https://solar.lowtechmagazine.com/posts/index.xml" htmlUrl="https://solar.lowtechmagazine.com/posts/"/>
+        <outline title="NO TECH MAGAZINE" text="NO TECH MAGAZINE" description="NO TECH MAGAZINE" type="rss" xmlUrl="http://feeds2.feedburner.com/NoTechMagazine" htmlUrl="https://www.notechmagazine.com"/>
+      </outline>
+      <outline title="Podcasts" text="Podcasts" description="Podcasts" type="folder">
+        <outline title="EscapePod" text="EscapePod" description="EscapePod" type="atom" xmlUrl="https://escapepod.org/feed/atom/" htmlUrl="https://escapepod.org/feed/atom/"/>
+      </outline>
+      <outline title="Comics" text="Comics" description="Comics" type="folder">
+        <outline title="xkcd" text="xkcd" description="xkcd" type="atom" xmlUrl="https://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/"/>
+      </outline>
+      <outline title="Games And Movies" text="Games And Movies" description="Games And Movies" type="folder">
+        <outline title="The Adventurers Guild" text="The Adventurers Guild" description="The Adventurers Guild" type="atom" xmlUrl="https://advgamer.blogspot.com/feeds/posts/default" htmlUrl="https://advgamer.blogspot.com/"/>
+        <outline title="The Wargaming Scribe" text="The Wargaming Scribe" description="The Wargaming Scribe" type="rss" xmlUrl="https://zeitgame.net/feed" htmlUrl="https://zeitgame.net"/>
+        <outline title="Kurisu's Chronogaming" text="Kurisu's Chronogaming" description="Kurisu's Chronogaming" type="rss" xmlUrl="https://www.rpgblog.net/feed/" htmlUrl="https://www.rpgblog.net"/>
+        <outline title="Almost a Famine" text="Almost a Famine" description="Almost a Famine" type="atom" xmlUrl="https://almostafamine.blogspot.com/feeds/posts/default" htmlUrl="https://almostafamine.blogspot.com/"/>
+        <outline title="Kurisu's Chronogaming" text="Kurisu's Chronogaming" description="Kurisu's Chronogaming" type="rss" xmlUrl="https://www.rpgblog.net/feed/" htmlUrl="https://www.rpgblog.net"/>
+        <outline title="Time Extension | Latest Updates" text="Time Extension | Latest Updates" description="Time Extension | Latest Updates" type="rss" xmlUrl="https://www.timeextension.com/feeds/latest" htmlUrl="https://www.timeextension.com/feeds/latest"/>
+        <outline title="Virtual Moose" text="Virtual Moose" description="Virtual Moose" type="rss" xmlUrl="https://virtualmoose.org/feed/" htmlUrl="https://virtualmoose.org"/>
+        <outline title="VHS Revival" text="VHS Revival" description="VHS Revival" type="rss" xmlUrl="https://vhsrevival.com/feed/" htmlUrl="https://vhsrevival.com"/>
+      </outline>
+      <outline title="My Blogs" text="My Blogs" description="My Blogs" type="folder">
+        <outline title="Truck Stop Coffee - Sarah Allen Reed's Blog on Truck Stop Coffee" text="Truck Stop Coffee - Sarah Allen Reed's Blog on Truck Stop Coffee" description="Truck Stop Coffee - Sarah Allen Reed's Blog on Truck Stop Coffee" type="rss" xmlUrl="https://truckstop.coffee/index.xml" htmlUrl="https://truckstop.coffee/"/>
+      </outline>
+      <outline title="Vintage" text="Vintage" description="Vintage" type="folder">
+        <outline title="Glamour Daze" text="Glamour Daze" description="Glamour Daze" type="rss" xmlUrl="https://glamourdaze.com/feed" htmlUrl="https://glamourdaze.com/"/>
+      </outline>
+      <outline title="Spirituality/Theology" text="Spirituality/Theology" description="Spirituality/Theology" type="folder">
+        <outline title="Life is a Sacred Text" text="Life is a Sacred Text" description="Life is a Sacred Text" type="rss" xmlUrl="https://lifeisasacredtext.substack.com/feed" htmlUrl="https://lifeisasacredtext.substack.com"/>
+        <outline title="more of this, please." text="more of this, please." description="more of this, please." type="rss" xmlUrl="https://simranjeetsingh.substack.com/feed" htmlUrl="https://simranjeetsingh.substack.com"/>
+        <outline title="Daily Stoic" text="Daily Stoic" description="Daily Stoic" type="rss" xmlUrl="https://dailystoic.com/feed/" htmlUrl="https://dailystoic.com"/>
+      </outline>
+      <outline title="Food" text="Food" description="Food" type="folder">
+        <outline title="Fresh Off The Grid" text="Fresh Off The Grid" description="Fresh Off The Grid" type="rss" xmlUrl="https://www.freshoffthegrid.com/feed/" htmlUrl="https://www.freshoffthegrid.com/"/>
+        <outline title="New Backpacking Food Articles from Backpacking Chef" text="New Backpacking Food Articles from Backpacking Chef" description="New Backpacking Food Articles from Backpacking Chef" type="rss" xmlUrl="https://www.backpackingchef.com/backpacking-food.xml" htmlUrl="https://www.backpackingchef.com/backpacking-food-blog.html"/>
+      </outline>
+    </outline>
+  </body>
+</opml>

@@ -4,52 +4,177 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/0018/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <loc>/post/0019/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/blogpost/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/essay/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/jazz/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/radio/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/schedule/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/show-lineup/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/the-jazz-program/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/art/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/datafruits/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/illustration/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jazzy-fuckin-holidays/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/photo-roll/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/photoroll11/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/poster/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/process/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/misc/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/photoroll10/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pinephone/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/comics/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/photoroll09/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dog/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/photoroll08/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/polyhymnia/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/camera/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/life/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/photoroll07/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cooking/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/photoroll06/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scenes-from-the-studio/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/0018/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,27 +184,7 @@
   </url>
   
   <url>
-    <loc>/tags/art/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/barren/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/comics/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/illustration/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/misc/</loc>
     <lastmod>2023-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -99,42 +204,7 @@
   </url>
   
   <url>
-    <loc>/tags/photo-roll/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/photoroll05/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/photoroll06/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/photoroll07/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/photoroll08/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/photoroll09/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/photoroll10/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/process/</loc>
     <lastmod>2023-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -175,11 +245,6 @@
   
   <url>
     <loc>/post/0013/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cooking/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -264,22 +329,12 @@
   </url>
   
   <url>
-    <loc>/tags/pinephone/</loc>
-    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/0007/</loc>
     <lastmod>2023-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/cartooning/</loc>
-    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dog/</loc>
     <lastmod>2023-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -300,11 +355,6 @@
   
   <url>
     <loc>/post/photoroll01/</loc>
-    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/polyhymnia/</loc>
     <lastmod>2023-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -340,11 +390,6 @@
   
   <url>
     <loc>/post/0001/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/linux/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url>
   

@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All work written by Sarah Allen Reed.</copyright>
-    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>blogpost</title>
+      <link>/tags/blogpost/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blogpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>essay</title>
       <link>/tags/essay/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/essay/</guid>
       <description></description>
@@ -24,7 +33,7 @@
     <item>
       <title>jazz</title>
       <link>/tags/jazz/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/jazz/</guid>
       <description></description>
@@ -33,7 +42,7 @@
     <item>
       <title>radio</title>
       <link>/tags/radio/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/radio/</guid>
       <description></description>
@@ -42,7 +51,7 @@
     <item>
       <title>schedule</title>
       <link>/tags/schedule/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/schedule/</guid>
       <description></description>
@@ -51,7 +60,7 @@
     <item>
       <title>show lineup</title>
       <link>/tags/show-lineup/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/show-lineup/</guid>
       <description></description>
@@ -60,7 +69,7 @@
     <item>
       <title>the jazz program</title>
       <link>/tags/the-jazz-program/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/the-jazz-program/</guid>
       <description></description>
@@ -69,9 +78,153 @@
     <item>
       <title>art</title>
       <link>/tags/art/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datafruits</title>
+      <link>/tags/datafruits/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/datafruits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>illustration</title>
+      <link>/tags/illustration/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/illustration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jazzy fuckin holidays</title>
+      <link>/tags/jazzy-fuckin-holidays/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jazzy-fuckin-holidays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photo roll</title>
+      <link>/tags/photo-roll/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/photo-roll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poster</title>
+      <link>/tags/poster/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>process</title>
+      <link>/tags/process/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>/tags/linux/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>/tags/misc/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pinephone</title>
+      <link>/tags/pinephone/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pinephone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comics</title>
+      <link>/tags/comics/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/comics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dog</title>
+      <link>/tags/dog/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polyhymnia</title>
+      <link>/tags/polyhymnia/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/polyhymnia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>camera</title>
+      <link>/tags/camera/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/camera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>/tags/life/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cooking</title>
+      <link>/tags/cooking/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scenes from the studio</title>
+      <link>/tags/scenes-from-the-studio/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/scenes-from-the-studio/</guid>
       <description></description>
     </item>
     
@@ -81,33 +234,6 @@
       <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/barren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>comics</title>
-      <link>/tags/comics/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/comics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>illustration</title>
-      <link>/tags/illustration/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/illustration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>misc</title>
-      <link>/tags/misc/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/misc/</guid>
       <description></description>
     </item>
     
@@ -139,24 +265,6 @@
     </item>
     
     <item>
-      <title>photo roll</title>
-      <link>/tags/photo-roll/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/photo-roll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>process</title>
-      <link>/tags/process/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>studio notes</title>
       <link>/tags/studio-notes/</link>
       <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
@@ -180,15 +288,6 @@
       <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/the-garden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cooking</title>
-      <link>/tags/cooking/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cooking/</guid>
       <description></description>
     </item>
     
@@ -274,29 +373,11 @@
     </item>
     
     <item>
-      <title>pinephone</title>
-      <link>/tags/pinephone/</link>
-      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pinephone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cartooning</title>
       <link>/tags/cartooning/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/cartooning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dog</title>
-      <link>/tags/dog/</link>
-      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/dog/</guid>
       <description></description>
     </item>
     
@@ -328,29 +409,11 @@
     </item>
     
     <item>
-      <title>polyhymnia</title>
-      <link>/tags/polyhymnia/</link>
-      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/polyhymnia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>open source</title>
       <link>/tags/open-source/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>/tags/linux/</link>
-      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/linux/</guid>
       <description></description>
     </item>
     

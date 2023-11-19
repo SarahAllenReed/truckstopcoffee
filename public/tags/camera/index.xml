@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>camera on Truck Stop Coffee</title>
+    <link>/tags/camera/</link>
+    <description>Recent content in camera on Truck Stop Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All work written by Sarah Allen Reed.</copyright>
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/camera/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photo Roll 07 - Meet Imogen!</title>
+      <link>/post/photoroll07/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/photoroll07/</guid>
+      <description>Part one of a series of progress photo galleries of me working through Our Lady Maven, Issue 2.
+ 
+ Falling down a rabbit hole. Most of these suggestions came from my good buddy Miranda Thomas, who thankfully and helpfully suggested KEH as a reputable used reseller. Which is good, because I sure don&#39;t have new-camera money.
+ 
+ Mama (me) and the baby! Imogen is named after Imogen Cunningham, if anyone was wondering.</description>
+    </item>
+    
+  </channel>
+</rss>
