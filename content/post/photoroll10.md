@@ -5,11 +5,6 @@ tags: ['photo roll', 'misc', 'linux', 'pinephone']
 date: 2023-11-04
 ---
 
-Part one of a series of progress photo galleries of me working through Our Lady Maven, Issue 2.
-
-<hr/>
-
-
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/01.jpg" /><span class="f"><img src="/photo/010/01.jpg" alt="Add alt text"/></span></p>
   <p> Here's the baby! Shown here with Vim and Nerdtree, with a tin of Bengal Slices and one of my many pipes. </p>
@@ -32,7 +27,7 @@ Part one of a series of progress photo galleries of me working through Our Lady 
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/06.jpg" /><span class="f"><img src="/photo/010/06.jpg" alt="Add alt text"/></span></p>
-  <p> A couple months back, Navy ended up on the fritz. I ended up taking her apart, thinking it may be a failing battery... </p>
+  <p> A couple months back, Navi ended up on the fritz. I ended up taking her apart, thinking it may be a failing battery... </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/06.png" /><span class="f"><img src="/photo/010/06.png" alt="Add alt text"/></span></p>

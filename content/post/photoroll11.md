@@ -5,10 +5,6 @@ tags: ['photo roll', 'illustration', 'art', 'process', 'poster', 'jazzy fuckin h
 date: 2023-11-05
 ---
 
-Part one of a series of progress photo galleries of me working through Our Lady Maven, Issue 2.
-
-<hr/>
-
 ## Drafting, Pencilling, and Inking
 
 <div class="floatcenter caption">
