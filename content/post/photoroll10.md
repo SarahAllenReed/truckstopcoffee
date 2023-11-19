@@ -12,53 +12,53 @@ Part one of a series of progress photo galleries of me working through Our Lady 
 
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/01.jpg" /><span class="f"><img src="/photo/010/01.jpg" alt="Add alt text"/></span></p>
-  <p> Hand-lettering, as usual. It's how we do it here. </p>
+  <p> Here's the baby! Shown here with Vim and Nerdtree, with a tin of Bengal Slices and one of my many pipes. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/02.png" /><span class="f"><img src="/photo/010/02.png" alt="Add alt text"/></span></p>
-  <p> Pencilling in a facsimile of the Chicago skyline. </a> </p>
+  <p> Here's some screenshots of my original setup, starting with Vim with <a href="https://github.com/mhinz/vim-startify">Startify.</a> </a> </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/03.png" /><span class="f"><img src="/photo/010/03.png" alt="Add alt text"/></span></p>
-  <p> Roughing in the other two panels. </p>
+  <p> <a href="dosbox.com">Dosbox</a> with <a href="https://advgamer.blogspot.com/2016/11/game-78-frederik-pohls-gateway.html">Frederick Pohl's Gateway. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/04.png" /><span class="f"><img src="/photo/010/04.png" alt="Add alt text"/></span></p>
-  <p> Blocking in the kids with some more rough pencils. I'm using a General's carpenter's pencil here to scratch in some shading to mark where I'm going to put some thick swatches of black ink... </a></p>
+  <p> <a href="https://lzone.de/liferea">Liferea.</a> Due to the Pinephone's smaller screen, this isn't the *best* solution for RSS feeds, but I've yet to find a CLI one I like.</p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/05.png" /><span class="f"><img src="/photo/010/05.png" alt="Add alt text"/></span></p>
-  <p> ...or I was, anyways, until I realized it wouldn't mesh with the lighting of the scene and the positioning of the characters... </a> </p>
+  <p> And, of course, everyone's favorite <a href="https://pysolfc.sourceforge.io/">PySol Fan Club Edition</a>, which of course runs flawlessly on the Pinephone...well as long as you're not trying to make that tiny screen render an entire game of <a href="https://en.wikipedia.org/wiki/Beleaguered_Castle">Belagured Castle</a> like an absolute psychopath. I'm playing <a href="https://en.wikipedia.org/wiki/Eagle_Wing">Eagle Wing</a> here. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/06.jpg" /><span class="f"><img src="/photo/010/06.jpg" alt="Add alt text"/></span></p>
-  <p> ...a lighting and positioning that's a bit more visible here on Page 1. </p>
+  <p> A couple months back, Navy ended up on the fritz. I ended up taking her apart, thinking it may be a failing battery... </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/06.png" /><span class="f"><img src="/photo/010/06.png" alt="Add alt text"/></span></p>
-  <p> ...a lighting and positioning that's a bit more visible here on Page 1. </p>
+  <p> ...and in the process, wiped and re-installed a boot disk on the SD card. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/07.jpg" /><span class="f"><img src="/photo/010/07.jpg" alt="Add alt text"/></span></p>
-  <p> Here's page 1 and 2, side by side. </p>
+  <p> Navi's shell, taking a nap while I work on the <a href="/post/misc_listen">Listening List.</a> </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/08.jpg" /><span class="f"><img src="/photo/010/08.jpg" alt="Add alt text"/></span></p>
-  <p> s m o n k </p>
+  <p> Turns out, no battery errors at all! It was a fairly common error where loading the OS from the SD card would end up in a boot loop. So I re-installed <a href="https://postmarketos.org/">Postmarket</a> directly onto the phone's memory itself, and we were good to go!</p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/09.png" /><span class="f"><img src="/photo/010/09.png" alt="Add alt text"/></span></p>
-  <p> Almost done with Page 1 here....  </p>
+  <p> Here's the end result. First, the obligatory <a href="https://github.com/dylanaraps/neofetch">Neofetch</a> shot. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/10.png" /><span class="f"><img src="/photo/010/10.png" alt="Add alt text"/></span></p>
-  <p> ...and almost done with Page 2 as well. </p>
+  <p> Vim and <a href="https://github.com/vimwiki/vimwiki">Vimwiki</a>, which my own personal incarnation of misspells as Zimwiki <a href="https://zim-wiki.org/">because that's what I used for years</a> before stumbling upon Vimwiki.</p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/11.png" /><span class="f"><img src="/photo/010/11.png" alt="Add alt text"/></span></p>
-  <p> Mostly completed now. </p>
+  <p> <a href="https://github.com/ranger/ranger">Ranger</a> and <a href="https://feh.finalrewind.org/">feh</a>. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/010/12.png" /><span class="f"><img src="/photo/010/12.png" alt="Add alt text"/></span></p>
-  <p> Some inkings on Page 3. For some reason, I didn't take too many photos while I was working on the pencils and layout on this page. </p>
+  <p> And the main desktop. </p>
 </div>

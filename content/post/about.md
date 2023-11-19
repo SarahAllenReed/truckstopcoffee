@@ -3,7 +3,7 @@ title: "About Me"
 description: 
 tags: ['FAQ', 'about', 'personal']
 date: 1969-04-20
-layout: single
+layout: single_noshare
 ---
 
 <div class="floatcenter caption">
@@ -20,7 +20,7 @@ I also curate a [photo roll](/tags/photo-roll/) with things in my world I find i
 
 Finally, I keep a [list of links](/post/links/) on here of sites by folks I respect, folks whose work I enjoy, or folks I consider friends. I adamantly refuse to link to social media if I can at all avoid it, so all of the links listed are websites away from the confines of the [silos](https://indieweb.org/silo) and shouldn't be consider a comprehensive list of "good folks" due to the fact that not everyone has their own website. If we're buds and you don't have one, consider making a website! 
 
-If that doesn't answer all your questions, feel free to check out the [&#40;in&#41;frequently asked questions](/post/faq), head over to [the slightly more professional-sounding bio on my portfolio website](https://sarahallenreed/resume/bio), or just [drop me an email](mailto:sarah@sarahallenreed.com) or [write me a letter](https://sarahallenreed.com/resume/bio/).
+If that doesn't answer all your questions, feel free to check out the [&#40;in&#41;frequently asked questions](/post/faq), head over to [the slightly more professional-sounding bio on my portfolio website](https://sarahallenreed.com/resume/bio), or just [drop me an email](mailto:sarah@sarahallenreed.com) or [write me a letter](https://sarahallenreed.com/resume/bio/).
 
 You're amazing and don't let anyone tell you that you're not. Stay safe out there.
 

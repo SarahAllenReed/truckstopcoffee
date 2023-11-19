@@ -3,7 +3,7 @@ title: "Infrequently Asked Questions"
 description: 
 tags: ['FAQ', 'personal']
 date: 1969-04-20
-layout: single
+layout: single_noshare
 ---
 
 ---
@@ -71,13 +71,19 @@ The thing about accents is that they're mostly shorthand for whatever language y
 
 This is subject to change, but at this moment here's where we're at. 
 
-* I use she/her pronouns and use feminine nouns in languages which have gendered nouns. I do not go by they/them, he/him, or any other set of pronouns. If you use anything other than she/her and you have reason to know better than to do so, I'm going to assume you're intentionally misgendering me and I have no interest in interacting with people who would rather prescribe me an identity than listen to what I have to say.
+* I use she/her pronouns and use feminine nouns in languages which have gendered nouns. I do not go by they/them, he/him, or any other set of pronouns. 
 
-* I often refer to myself as a "femme" or "femboi" (spelled with an I), and that's the best descriptor you're going to get. If you aren't a fan of the word "femboy", your best bet is some variation of "transgender" or "trans femme". With that stated, *I'm not a "woman" or "female"*, nor do I have any connection to whatever those words mean. ***This statement does not make me a "man"***--in fact, if you call me a "man", a "he", or a "male" in [meatspace](https://en.wiktionary.org/wiki/meatspace) there's pretty solid odds that you're going to get slapped. I just have no connection to society's definition of "womanhood", and I find the insistence upon a binary choice utterly useless. "Femboi" is the closest to a descriptor of what I'm about that you're going to get.
+  If you use anything other than she/her and you have reason to know better than to do so, I'm going to assume you're intentionally misgendering me and I have no interest in interacting with people who would rather prescribe me an identity than listen to what I have to say.
 
-* Despite what some might call evidence to the contrary, *I am not non-binary.* I don't find any definition of the term in current common parlance useful, and I have never heard anyone use it to describe me that wasn't simply going out of their way to ignore how I have requested to be addressed for the sake of their own convenience. Don't use it to describe me.
+* I often refer to myself as a "femme" or "femboi" (spelled with an I), and that's the best descriptor you're going to get. If you aren't a fan of the word "femboy", your best bet is some variation of "transgender" or "trans femme". 
 
-### . . . Yeah, but that doesn't make any sense.
+  With that stated, *I'm not a "woman" or "female"*, nor do I have any connection to whatever those words mean. ***This statement does not make me a "man"***--in fact, if you call me a "man", a "he", or a "male" in [meatspace](https://en.wiktionary.org/wiki/meatspace) there's pretty solid odds that you're going to get knocked one. I just have no connection to society's definition of "womanhood", and I find the insistence upon a binary choice utterly useless. "Femboi" is the closest to a descriptor of what I'm about that you're going to get.
+
+* Despite what some might call evidence to the contrary, *I am not non-binary.* 
+
+  I don't find any definition of the term in current common parlance useful, and I have never heard anyone use it to describe me that wasn't simply going out of their way to ignore how I have requested to be addressed for the sake of their own convenience. Don't use it to describe me.
+
+### . . . Yeah, but that explanation doesn't make any sense to me.
 
 Good.
 
@@ -85,7 +91,7 @@ If that sounds like an unsatisfactory or confusing explanation, I can't help you
 
 Thing is, to most bigots and a disturbing amount of the "well-meaning" population in general, I'm just a faggot in a skirt and nothing more. The types of ingrates who don't care for queer folk often don't give a shit *how* you got to be who you are, specifically, because *they don't care about queer folk* and those details don't matter. They're usually just more than happy to disregard you at best or shoot you at worst just for being some flavor of queer, especially if the flavor you are doesn't fit into whatever box they think they can use for their purposes.
 
-And because I think those folk and their boxes are rot garbage (along with the fact that my anarchist self isn't keen on fitting in too many boxes to begin with), I'm not exactly interested in making who and what i am easily quantifiable, either. If half the world is going to call me a faggot regardless of what I do, I'm going to be the most confusing yet genuine faggot you've ever met in your life, whether anybody gets it or not. I'm gonna be me and change how I describe me to fit who I am at an interval that I see fit. And I'm not gonna care one iota whether you get it or not.
+And because I think those folk and their boxes are rot garbage (along with the fact that my anarchist self isn't keen on fitting in too many boxes to begin with), I'm not exactly interested in making who and what i am easily quantifiable, either. If half the world is going to call me a faggot regardless of what I do, I'm going to be the most confusing yet genuine faggot you've ever met in your life. I'm gonna be me and I'm gonna change how I describe me to fit who I am at an interval that I see fit. And I'm not gonna care one iota whether you get it or not.
 
 So yeah. My gender expression is some confusing bullshit, that is intentional, and it doesn't matter that much. Thing is, if you're willing to listen to and value what I have to say, and if you're willing to describe me as I wish to be described regardless of whether you "get" whatever it is I am, then that's all I ask and you're probably chill in my book.
 

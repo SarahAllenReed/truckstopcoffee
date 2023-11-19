@@ -58,6 +58,12 @@ Another fellow Datafruit, a stellar human being and good friend, and the entire 
 
 A fantastic dude, very good friend, and brilliant hacker. [Check his website out here,](https://einariii.xyz/) and check out his program that turns raw code into an instrument (no I'm not kidding, it's fuckin' brilliant) [here.](https://pipesines.fly.dev/)
 
+#### Zaxy
+
+Zaxy's a good cat and a giant sweetheart, and they also designed Beamsprout, the Datafruits World Expo mascot <a href="/post/photoroll09">that I drew in the poster for the event.</a> Go check them and their work out <a href="https://luckyzaxy.com/">here.</a>
+
+
+
 ### Writers I've Worked With
 
 #### Emily Crose

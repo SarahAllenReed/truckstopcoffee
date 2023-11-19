@@ -12,49 +12,49 @@ Part one of a series of progress photo galleries of me working through Our Lady 
 
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/01.jpg" /><span class="f"><img src="/photo/009/01.jpg" alt="Add alt text"/></span></p>
-  <p> Hand-lettering, as usual. It's how we do it here. </p>
+  <p> Initial pencils and lettering. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/02.jpg" /><span class="f"><img src="/photo/009/02.jpg" alt="Add alt text"/></span></p>
-  <p> Pencilling in a facsimile of the Chicago skyline. </a> </p>
+  <p> Starting in on inking. </a> </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/03.jpg" /><span class="f"><img src="/photo/009/03.jpg" alt="Add alt text"/></span></p>
-  <p> Roughing in the other two panels. </p>
+  <p> First and second pass of inks down. I wanna point out here that the lil' guy there in the witch's hand was designed by Datafruits' own <a href="https://luckyzaxy.com/">Zaxy.</a> His name is Beamsprout, if you were curious. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/04.jpg" /><span class="f"><img src="/photo/009/04.jpg" alt="Add alt text"/></span></p>
-  <p> Blocking in the kids with some more rough pencils. I'm using a General's carpenter's pencil here to scratch in some shading to mark where I'm going to put some thick swatches of black ink... </a></p>
+  <p> As with nearly everything else, I'm doing the lettering by hand.</a></p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/05.jpg" /><span class="f"><img src="/photo/009/05.jpg" alt="Add alt text"/></span></p>
-  <p> ...or I was, anyways, until I realized it wouldn't mesh with the lighting of the scene and the positioning of the characters... </a> </p>
+  <p> Inking the lettering... </a> </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/06.jpg" /><span class="f"><img src="/photo/009/06.jpg" alt="Add alt text"/></span></p>
-  <p> ...a lighting and positioning that's a bit more visible here on Page 1. </p>
+  <p> ...gluing it into place... </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/07.jpg" /><span class="f"><img src="/photo/009/07.jpg" alt="Add alt text"/></span></p>
-  <p> Here's page 1 and 2, side by side. </p>
+  <p> ...and affixing it to the drawing. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/08.jpg" /><span class="f"><img src="/photo/009/08.jpg" alt="Add alt text"/></span></p>
-  <p> s m o n k </p>
+  <p> Yet another pass of inks. Note the Lemoner-shaped halo on the witch there. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/09.jpg" /><span class="f"><img src="/photo/009/09.jpg" alt="Add alt text"/></span></p>
-  <p> Almost done with Page 1 here....  </p>
+  <p> A few passes of inks later, and boom!  </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/10.jpg" /><span class="f"><img src="/photo/009/10.jpg" alt="Add alt text"/></span></p>
-  <p> ...and almost done with Page 2 as well. </p>
+  <p> The final, scanned poster. </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/009/11.jpg" /><span class="f"><img src="/photo/009/11.jpg" alt="Add alt text"/></span></p>
-  <p> Mostly completed now. </p>
+  <p><img tabindex=1 src="/photo/009/12.jpg" /><span class="f"><img src="/photo/009/11.jpg" alt="Add alt text"/></span></p>
+  <p> <a href="https://www.bluelighttapes.com/">Jonnn from Bluelight Tapes</a> printing up the posters.... </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/009/12.jpg" /><span class="f"><img src="/photo/009/12.jpg" alt="Add alt text"/></span></p>
-  <p> Some inkings on Page 3. For some reason, I didn't take too many photos while I was working on the pencils and layout on this page. </p>
+  <p><img tabindex=1 src="/photo/009/11.jpg" /><span class="f"><img src="/photo/009/12.jpg" alt="Add alt text"/></span></p>
+  <p> ...aaand cutting them into shape. </p>
 </div>

@@ -36,17 +36,17 @@ paginate = 10
     identifier = "home"
     url = "/"
   [[menu.main]]
-    name = "Post Archive"
-    pre = "<i class='fa fa-book fa-fw' aria-hidden='true'></i>"
-    weight = 2
-    identifier = "post"
-    url = "/post/"
-  [[menu.main]]
     name = "Topics and Tags"
     pre = "<i class='fa fa-tag fa-fw' aria-hidden='true'></i>"
-    weight = 3
+    weight = 2
     identifier = "topics"
     url = "/tags/"
+  [[menu.main]]
+    name = "Blog Posts"
+    pre = "<i class='fa fa-book fa-fw' aria-hidden='true'></i>"
+    weight = 3
+    identifier = "post"
+    url = "/tags/blogpost"
   [[menu.main]]
     name = "Photo Rolls"
     pre = "<i class='fa fa-camera fa-fw' aria-hidden='true'></i>"

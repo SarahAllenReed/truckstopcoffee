@@ -37,16 +37,21 @@ date: 1969-04-20
 
 ### November 17, 2023
 
-* Implimented [1337box](https://vimuser.org/1337box.html).
+* Modified the sidebar to put "blog posts" and "photo rolls" in separate lists. I'm going to be doing a lot more photo roll posts so this was kind of necessary to keep things clean.
+* Implimented [1337box](https://vimuser.org/1337box.html) on the Photo Roll pages. 
 * Uploaded Photo Rolls 6-11, and post 19. Lots of photos!
 * Added as many friends as possible to the Links page, as well as my RSS feed list and Freetube subscription list. 
 * Added the Main Site update log.
 * Added and edited the FAQ again. 
 * Uploaded an actual photo of myself to the About page.
+* Added in "Share To Mastodon" and "Share By Email" buttons.
 
 ## Todo List
 
+* Finish implementing 1337box on all remaining pages where applicable.
+* Make intro pages to the "Blog Posts" and "Photo Rolls" pages to explain what makes them special.
 * Add alt text to everywhere it's not already implemented. I want to make this site as screen-reader friendly as possible.
 * Add my Zettlekasten via [Tiddlywiki](https://tiddlywiki.com)
 * Add my commonplace book.
 * Actually finish adding all the links I want to add to the links page.
+* Finish updated the Listening List to be as current as possible. *(Ongoing)*
