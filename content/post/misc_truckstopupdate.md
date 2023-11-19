@@ -35,12 +35,12 @@ date: 1969-04-20
 
 * Added in post 18.
 
-### November 17, 2023
+### November 19, 2023
 
 * Modified the sidebar to put "blog posts" and "photo rolls" in separate lists. I'm going to be doing a lot more photo roll posts so this was kind of necessary to keep things clean.
 * Implimented [1337box](https://vimuser.org/1337box.html) on the Photo Roll pages. 
 * Uploaded Photo Rolls 6-11, and post 19. Lots of photos!
-* Added as many friends as possible to the Links page, as well as my RSS feed list and Freetube subscription list. 
+* Added as many friends as I could think of to the Links page, as well as my RSS feed list and Freetube subscription list. 
 * Added the Main Site update log.
 * Added and edited the FAQ again. 
 * Uploaded an actual photo of myself to the About page.
@@ -49,6 +49,7 @@ date: 1969-04-20
 ## Todo List
 
 * Finish implementing 1337box on all remaining pages where applicable.
+* Add an Old Time Radio list to the Links page, with all the sources I usually list on my radio writeups.
 * Make intro pages to the "Blog Posts" and "Photo Rolls" pages to explain what makes them special.
 * Add alt text to everywhere it's not already implemented. I want to make this site as screen-reader friendly as possible.
 * Add my Zettlekasten via [Tiddlywiki](https://tiddlywiki.com)
