@@ -5,11 +5,6 @@ tags: ['photo roll', 'misc', 'life', 'camera',]
 date: 2023-11-01
 ---
 
-Part one of a series of progress photo galleries of me working through Our Lady Maven, Issue 2.
-
-<hr/>
-
-
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/007/01.png" /><span class="f"><img src="/photo/007/01.png" alt="Add alt text"/></span></p>
   <p> Falling down a rabbit hole. Most of these suggestions came from <a href="https://masto.ai/@AnhedonicHedonist">my good buddy Miranda Thomas</a>, who thankfully and helpfully suggested <a href="https://www.keh.com/">KEH</a> as a reputable used reseller. Which is good, because I sure don't have new-camera money.</p>

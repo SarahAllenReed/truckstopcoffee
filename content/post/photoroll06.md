@@ -6,9 +6,6 @@ date: 2023-10-31
 ---
 
 
-
-<hr/>
-
 ## September 30, 2023
 
 <div class="floatcenter caption">

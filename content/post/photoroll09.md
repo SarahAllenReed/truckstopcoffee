@@ -5,11 +5,6 @@ tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'poster
 date: 2023-11-03
 ---
 
-Part one of a series of progress photo galleries of me working through Our Lady Maven, Issue 2.
-
-<hr/>
-
-
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/01.jpg" /><span class="f"><img src="/photo/009/01.jpg" alt="Add alt text"/></span></p>
   <p> Initial pencils and lettering. </p>
@@ -40,7 +35,7 @@ Part one of a series of progress photo galleries of me working through Our Lady 
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/08.jpg" /><span class="f"><img src="/photo/009/08.jpg" alt="Add alt text"/></span></p>
-  <p> Yet another pass of inks. Note the Lemoner-shaped halo on the witch there. </p>
+  <p> Yet another pass of inks. Note the <a href="https://www.youtube.com/watch?v=0X9C4yt7GKg">Lemoner</a>-shaped halo on the witch there. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/009/09.jpg" /><span class="f"><img src="/photo/009/09.jpg" alt="Add alt text"/></span></p>
