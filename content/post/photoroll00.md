@@ -39,5 +39,5 @@ For whatever reason, a lot of folks seem to be fascinated with knowing what folk
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/000/09.png" /><span class="f"><img src="/photo/000/09.png" alt="Add alt text" /></span></p>
-  <p> The most recent photo taken of me, mainly as a test to get Imogen (my Nikon here) on camera. And yes, you saw that time gap correctly--this is more or less the only photo I took of myself in over a year. I wasn't joking in <a href="http://localhost:1313/post/faq/#what-do-you-look-like">my FAQ.</a> Fall 2023. </p>
+  <p> The most recent photo taken of me, mainly as a test to get Imogen (my Nikon here) on camera. And yes, you saw that time gap correctly--this is more or less the only photo I took of myself in over a year. I wasn't joking in <a href="/post/faq/#what-do-you-look-like">my FAQ.</a> Fall 2023. </p>
 </div>

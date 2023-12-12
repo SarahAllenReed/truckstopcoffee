@@ -7,17 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All work written by Sarah Allen Reed.</copyright>
-    <lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>barren</title>
+      <link>/tags/barren/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/barren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>blogpost</title>
       <link>/tags/blogpost/</link>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/blogpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>/tags/music/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>our lady maven</title>
+      <link>/tags/our-lady-maven/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/our-lady-maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>/tags/personal/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>studio notes</title>
+      <link>/tags/studio-notes/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/studio-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tabula rosetta</title>
+      <link>/tags/tabula-rosetta/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tabula-rosetta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the garden</title>
+      <link>/tags/the-garden/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/the-garden/</guid>
       <description></description>
     </item>
     
@@ -225,69 +288,6 @@
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/scenes-from-the-studio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>barren</title>
-      <link>/tags/barren/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/barren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>/tags/music/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>our lady maven</title>
-      <link>/tags/our-lady-maven/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/our-lady-maven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personal</title>
-      <link>/tags/personal/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>studio notes</title>
-      <link>/tags/studio-notes/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/studio-notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tabula rosetta</title>
-      <link>/tags/tabula-rosetta/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tabula-rosetta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>the garden</title>
-      <link>/tags/the-garden/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/the-garden/</guid>
       <description></description>
     </item>
     

@@ -3,12 +3,13 @@ title: "The Listening List"
 tags: ['miscellany']
 date: 1969-04-20
 ---
-# The Listening List
+## What Is The Listening List?
 
-**Bold** selections are studio picks, *italics* are gym session picks.
+
 
 ## 2023
 
+---
 ### June 2023
 
 **Moe** - Tin Cans and Car Tires   
@@ -89,27 +90,31 @@ date: 1969-04-20
 **Frank Sinatra** - Nice 'n' Easy  
 **Art Blakey And The Jazz Messengers** - A Night In Tunisia   
 
-*Amorphis* - The Beginning Of Times   
-*Tokyo Ska Paradise Orchestra* - スカパラ登場    
-*Anberlin* - Never Take Frienship Personal   
-*The Slackers* - Better Late Than Never   
-*Haste The Day* - Burning Bridges   
-*Psyopus* - Our Puzzling Encounters Considered   
-*Negura Bunget* - Om   
-*Wire* - Pink Flag   
-*AFI* - Black Sales In The Sunset   
-*The Dead Milkmen* - Big Lizard In My Backyard   
-*Elbow* - Asleep In The Back   
-*Amorphis* - Circle   
-*Shadows Fall* - The War Within   
-*Baroness* - Red Album   
-*As I Lay Dying* - An Ocean Between Us   
-*Amorphis* - Queen Of Time   
-*Breaking Benjamin* - Saturate   
-*Thrice* - Vheissu   
-*Saosin* - Saosin   
-*Godsmack* - Godsmack   
-*Black Label Society* - Sonic Brew   
+Gym listens:
+
+**Amorphis** - The Beginning Of Times   
+**Tokyo Ska Paradise Orchestra** - スカパラ登場    
+**Anberlin** - Never Take Frienship Personal   
+**The Slackers** - Better Late Than Never   
+**Haste The Day** - Burning Bridges   
+**Psyopus** - Our Puzzling Encounters Considered   
+**Negura Bunget** - Om   
+**Wire** - Pink Flag   
+**AFI** - Black Sales In The Sunset   
+**The Dead Milkmen** - Big Lizard In My Backyard   
+**Elbow** - Asleep In The Back   
+**Amorphis** - Circle   
+**Shadows Fall** - The War Within   
+**Baroness** - Red Album   
+**As I Lay Dying** - An Ocean Between Us   
+**Amorphis** - Queen Of Time   
+**Breaking Benjamin** - Saturate   
+**Thrice** - Vheissu   
+**Saosin** - Saosin   
+**Godsmack** - Godsmack   
+**Black Label Society** - Sonic Brew   
+
+---
 
 ### July 2023
 
@@ -169,8 +174,9 @@ date: 1969-04-20
 
 (TODO : Add gym listens)
 
-### August 2023
+---
 
+### August 2023
 
 **El Trío de Omar Rodríguez-López** - Ciencia de los Inútiles  
 **Omar Rodriguez‐Lopez** - Blind Worms, Pious Swine  
@@ -228,68 +234,155 @@ date: 1969-04-20
 **Sigh** - Imaginary Sonicscape  
 **The Slackers** - Self Medication  
 
-(TODO : Add gym/physical media listens)
+---
 
 ### September 2023
 
-**Junko Onishi** - Tea Times
-Topdown Dialectic** - Vol. 3
-Ben Webster** - Blue Light
-Departure Chandelier** - Antichrist Rise To Power
-Circle Of Ouroborus** - Kuuhun Kahlittu
-Austere** - Withering Illusions and Desolation
-Ingfried Hoffmann - Hammond Bond
-Logic - Young Sinatra
-Aceyalone and Rjd2 - Magnificent City
-Rob Crow - He thinks he's people
-Circa Survive - On Letting Go
-Chevelle - Antisaint Vena Sera
-Porcupine Tree - In Absentia
-Slough Feg - Traveller
-alt-J - An Awesome Wave
-OM - Advaitic Songs
-Nocturnal Depression - Spleen Black Metal
-Sonny James - You're The Only World I Know
-Bailey - Intelligent Drum & Bass
-Ben Webster - Live at the Haarlemse Jazz Club
-They Might Be Giants - Flood
-Modest Mouse - The Lonesome Crowded West
-King Harvest - Dancing in the Moonlight
-Kori Linae Carothers - Trillium
-Abdullah Ibrahim - Water From An Ancient Well
-Bush - Sixteen Stone
-Botch - We Are The Romans
-The Mars Volta - Octahedron
-The Mars Volta - The Bedlam In Goliath
+**Junko Onishi** - Tea Times     
+**Topdown Dialectic** - Vol. 3     
+**Ben Webster** - Blue Light   
+**Departure Chandelier** - Antichrist Rise To Power   
+**Circle Of Ouroborus** - Kuuhun Kahlittu   
+**Austere** - Withering Illusions and Desolation   
+**Ingfried Hoffmann** - Hammond Bond   
+**Logic** - Young Sinatra   
+**Aceyalone and Rjd2** - Magnificent City   
+**Rob Crow** - He thinks He's People   
+**Circa Survive** - On Letting Go   
+**Chevelle** - Vena Sera   
+**Porcupine Tree** - In Absentia   
+**Slough Feg** - Traveller  
+**alt-J** - An Awesome Wave  
+**OM** - Advaitic Songs  
+**Nocturnal Depression** - Spleen Black Metal  
+**Sonny James** - You're The Only World I Know  
+**Bailey** - Intelligent Drum & Bass  
+**Ben Webster** - Live at the Haarlemse Jazz Club  
+**They Might Be Giants** - Flood  
+**Modest Mouse** - The Lonesome Crowded West  
+**King Harvest** - Dancing in the Moonlight  
+**Kori Linae Carothers** - Trillium  
+**Abdullah Ibrahim** - Water From An Ancient Well  
+**Bush** - Sixteen Stone  
+**Botch** - We Are The Romans  
+**The Mars Volta** - Octahedron  
+**The Mars Volta** - The Bedlam In Goliath  
+
+Physical releases:
+
+**Frank Sinatra & Antonio Carlos Jobim** - Francis Albert Sinatra & Antonio Carlos Jobim   
+**Sergio Mendez & Brazil '66**: Herb Alpert Presents Sergio Mendez & Brazil '66  
+**Chuck Mangione** - Main Squeeze    
+**Jean-Pierre Rampal** - Suite for Flute and Jazz Piano  
+**Rick Wakeman** - The Six Wives Of Henry VIII  
+**Stan Getz** - Focus  
+**Ray Price** - For The Good Times  
+**Shelly Manne, Jim Hall, and Red Mitchell** - A Different Kind Of Blues  
+**Various Artists** - Columbia Records Presents Jazz Beaucoup  
+**Tim Weisberg** - Tim Weisberg  
+**Petrichor** - Bodies Of Light  
+**Maria Chavez & Lucas Gorham** - Live At Jewel's Catch One  
+**Black Epheria** - Long Play Omega  
+**Ray Brown Trio** - Soular Energy  
+
+---
 
 ### October 2023
 
-Ben Webster - Autumn Leaves (Blue Light)
-The Rippingtons - Moonlighting (Moonlighting)
-Pierce Murphy - Through The Olive Branches/01 Pierce Murphy - The Shadow Of The Bluff.mp3
-Arovane - Ten Hours (Lilies)
-M83 - Birds (Dead Cities, Red Seas & Lost Ghosts)
-Skinny Puppy/2004-The Greater Wrong Of The Right/greater.flac
-Saluki Regicide - Rain 1 (Rain I [Webbed Hand wh002])
-Liturgy - Total War (The Ark Work)
-SNFU - The Devil's Voice (If You Swear, You'll Catch No Fish)
-Pouya - Suicidal Thoughts In The Back Of The Cadillac (South Side Slugs)
-Maserati - Ambassador of Cinema (The Language of Cities)
-The Mercury Program - Tequesta (A Data Learn the Language)
-mrkgnao - Thrive (The Lotus-Eaters)
-C418 - Atempause (Seven Years of Server Data)
-Com Truise - Open (In Decay)
-Clark - New Year Storm (Turning Dragon)
-Akashic Crow's Nest - Rain 1 (Rain 1 [Webbed Hand wh011])
-Tangerine Dream - Birth Of Liquid Pleyades (Zeit)
-Saor - Children of the Mist (Remastered) (Aura (Remastered))
-Lifeseeker - On Earth (Lifeseeker)
-BADBADNOTGOOD - And That, Too. (IV)
-Roxy Music - In the Midnight Hour (Flesh + Blood)
-milo - rabblerouse (so the flies don't come)
-Gevurah - The Fire Dwelling Within (Hallelujah!)
-The Cal Tjader Quintet - Yesterdays (Tjader Plays Mambo)
-Ray Lynch - Her Knees Deep in Your Mind (Conversations with God: a Windham Hill collection: disc 1)
-Lifeseeker - How to Build a Plane [Explicit] (Nugz)
-Larry Coryell - Gypsy Queen (Barefoot Boy)
-Jenova 7 - Dreaming Again (One Step Beyond) (Dusted Jazz Volume Three)
+**Ben Webster** - Blue Light  
+**The Rippingtons** - Moonlighting  
+**Pierce Murphy** - Through The Olive Branches  
+**Arovane** - Lilies  
+**M83** - Dead Cities, Red Seas & Lost Ghosts  
+**Skinny Puppy** - The Greater Wrong Of The Right  
+**Saluki Regicide** - Rain 1   
+**Liturgy** - The Ark Work  
+**SNFU** - If You Swear, You'll Catch No Fish  
+**Pouya** - South Side Slugs  
+**Maserati** - The Language of Cities  
+**The Mercury Program** - A Data Learn the Language  
+**mrkgnao** - The Lotus-Eaters  
+**C418** - Seven Years of Server Data  
+Com Truise - In Decay  
+Clark - Turning Dragon  
+Akashic Crow's Nest - Rain 1   
+Tangerine Dream - Zeit  
+Saor - Aura  
+Lifeseeker - Self Titled Debut Album  
+BADBADNOTGOOD - IV  
+Roxy Music - Flesh + Blood   
+milo - so the flies don't come  
+Gevurah - Hallelujah!  
+The Cal Tjader Quintet - Tjader Plays Mambo  
+Various artists - Conversations With God: a Windham Hill collection  
+Lifeseeker - Nugz  
+Larry Coryell - Barefoot Boy  
+Jenova 7 - Dusted Jazz Volume Three  
+21 Savage & Metro Boomin - Savage Mode  
+Johnny Paycheck - She's All I Got  
+Oingo Boingo - Dead Man's Party  
+Sergio Mendes - The Beat of Brazil  
+
+Physical releases:
+
+Keith Jarrett - Bop-Be  
+William Ackerman - Passage  
+Pat Suzuki - The Many Sides Of Pat Suzuki  
+Willie Nelson - Night Life  
+Various Artists - That's The Way: A Tribute To Thelonious Monk  
+Tom Jones - Memories Don't Leave Like People Do  
+Harry Babasin & Terry Gibbs - Pick N' Pat  
+Elminster - Standing At The Gates Of Night  
+Pankaj Udhas - Pankaj Udhas in Live Performance Vol. 1  
+
+---
+
+### November 2023
+ 
+Serge Gainsbourg - Du Jazz Dans Le Ravin  
+Black Sabbath - Paranoid  
+Bad Religion - Stranger Than Fiction  
+Bobbi Humphrey - Flute-In  
+Ochre - Early Learning  
+Omar Rodriguez‐Lopez - Killing Tingled Lifting Retreats  
+Roxy Music - Avalon  
+An Autumn for Crippled Childre - Lost    
+FatBoy Slim - Halfway Between The Gutter And The Stars  
+Joy Division - Closer  
+Kayo Dot - Coffins On Io  
+Aphex Twin - Drukqs  
+Arctic Monkeys - Tranquility Base Hotel & Casino  
+Various Artists - Sunset Nights  
+Ray Brown, John Clayton, Christian McBride - Super Bass 2  
+The Rippingtons - Live in L.A  
+The Rippingtons - Welcome to the St. James' Club  
+Roxy Music - Siren  
+Grateful Dead - 1980-09-03 Springfield, MA  
+Grateful Dead - 1980-09-04 Providence, RI (Set 2)  
+Paysage d'Hiver - Nacht  
+Woods Of Ypres - The Green Album  
+Igor Boxx - Breslau  
+Junko Onishi and Jatroit - JUNKO ONISHI presents JATROIT Live at BLUE NOTE TOKYO  
+Funeral Depression - Road to Suicide  
+深山 (Deep Mountains) - 长涂岛 (Changtu Island)  
+Opeth - Orchid  
+The Polish Ambassador - Diplomatic Immunity  
+Skepta - Blacklisted  
+Bill Evans Trio - Sunday at the Village Vanguard  
+The Alchemist - Yacht Rock 2  
+Brian Gingrich - Anxious Days & Forty Nights  
+Asbel - The Nocebo Effect  
+
+Physical releases: 
+
+Jethro Tull - Songs From The Wood   
+Various ARtists - The Montreux/Detroit Collection Volume Two: An Evening Of Song  
+Moe Koffman Quartet - The Shepherd Swings Again  
+Sergio Mendez & Brazil '66 - Ye-Me-Le  
+Mahavishnu Orchestra - Between Nothingness And Eternity  
+Various Artists - Individuals  
+Ramsey Lewis Trio - Hang On Ramsey!  
+Sonny James - You're The Only World I Know  
+Tom Jones - Close Up  
+Herbie Mann - Discotheque  
+
