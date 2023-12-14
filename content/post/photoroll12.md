@@ -1,8 +1,8 @@
 ---
-title: "Photo Roll 12 - Scenes From The Studio - November 2023"
+title: "Photo Roll 12 - Mister Pliskin Presents New Rekkids Day, December 2023"
 description: "A collection of in-progress photos from the development and illustration process for the World Expo poster for datafruits.fm." 
 tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'poster', 'datafruits', 'jazz', 'radio']
-date: 2023-12-31
+date: 2023-12-10
 ---
 
 <div class="floatcenter caption">

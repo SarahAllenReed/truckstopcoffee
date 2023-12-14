@@ -4,8 +4,73 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/art/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/comics/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/datafruits/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/illustration/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jazz/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/misc/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/photo-roll/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/photoroll12/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/poster/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/process/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/radio/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -49,23 +114,8 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/the-garden/</loc>
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/0020/</loc>
-    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -75,16 +125,6 @@
   
   <url>
     <loc>/tags/essay/</loc>
-    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/jazz/</loc>
-    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/radio/</loc>
     <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,27 +144,7 @@
   </url>
   
   <url>
-    <loc>/tags/art/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/datafruits/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/illustration/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/jazzy-fuckin-holidays/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/photo-roll/</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -134,22 +154,7 @@
   </url>
   
   <url>
-    <loc>/tags/poster/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/process/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/linux/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/misc/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -161,11 +166,6 @@
   <url>
     <loc>/tags/pinephone/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/comics/</loc>
-    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
