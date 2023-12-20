@@ -4,9 +4,10 @@ tags: ['miscellany']
 date: 1969-04-20
 ---
 
----
 
 ## 2023
+
+---
 
 ### July 3, 2023
 
@@ -39,12 +40,20 @@ date: 1969-04-20
 
 * Modified the sidebar to put "blog posts" and "photo rolls" in separate lists. I'm going to be doing a lot more photo roll posts so this was kind of necessary to keep things clean.
 * Implimented [1337box](https://vimuser.org/1337box.html) on the Photo Roll pages. 
-* Uploaded Photo Rolls 6-11, and post 19. Lots of photos!
+* Uploaded Photo Rolls 6-11, and post 19. I know I'm late on the radio schedule, but I brought lots of photos!
 * Added as many friends as I could think of to the Links page, as well as my RSS feed list and Freetube subscription list. 
 * Added the Main Site update log.
 * Added and edited the FAQ again. 
 * Uploaded an actual photo of myself to the About page.
 * Added in "Share To Mastodon" and "Share By Email" buttons.
+
+### December 19, 2023
+
+* hahahah finally uploaded post 20. We're back to being half a month late on the radio schedule, but it's the holidays so what can you do.
+* Uploaded Photo Roll 13 as well. 
+* I have some other stuff to upload hopefully tomorrow or later this week but I want to have this out before tonight's show so here ya go
+
+---
 
 ## Todo List
 
