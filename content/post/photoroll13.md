@@ -2,7 +2,7 @@
 title: "Photo Roll 13 - Scenes From The Studio - November 2023"
 description: "A collection of in-progress photos from the development and illustration process for the World Expo poster for datafruits.fm." 
 tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'poster', 'datafruits', 'jazz', 'radio']
-date: 2024-12-17
+date: 2023-12-17
 ---
 
 ## November 2
@@ -123,109 +123,109 @@ These were all taken with my [Nikon](/post/photoroll07/) and edited with Darktab
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/013/1123/01.jpg" /><span class="f"><img src="/photo/013/1123/01.jpg" alt="A drawing board with three large pieces of bristol board splayed across it. Each page of bristol has a full page layout and inked lettering on it."/></span></p>
-  <p> Yet another pass of inks. Note the <a href="https://www.youtube.com/watch?v=0X9C4yt7GKg">Lemoner</a>-shaped halo on the witch there. </p>
+  <p> Lettering on the page for The Garden short. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/013/1123/02.jpg" /><span class="f"><img src="/photo/013/1123/02.jpg" alt="A half-finished pen, ink, and pencil study of a woman covered in leaves with her hands crossed, along with a sketchbook displaying diagrams for the layout of the painting the study will eventually become. Multiple completed pieces of artwork sit behind it."/></span></p>
-  <p> A few passes of inks later, and boom!  </p>
+  <p> More preliminary sketches for an upcoming canvas. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/013/1123/03.jpg" /><span class="f"><img src="/photo/013/1123/03.jpg" alt="The top of a metal filing cabinet that sits next to the artist's drafting desk, with a cornucopia of random objects crowded across its surface. Among them are a lit midwakh, a coffee mug with the words &quot;one day at a time&quot; written on it and a visibly steaming Vietnamese style drip coffee maker on top of it, multiple survival knives the artist uses for pencil sharpeners, and a bunch of mugs with various drawing implements sticking out of them, including one with a silly fox face on it."/></span></p>
-  <p> The final, scanned poster. </p>
+  <p> smonky smonk smoke coffee coffeey koff </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/013/1123/04.jpg" /><span class="f"><img src="/photo/013/1123/04.jpg" alt="A computer screen with mocp running on it. The past three albums are Funeral Depression's &quot;Road To Suicide&quot;, Deep Mountains' &quot;Changtu Island&quot;, and Opeth's &quot;Orchid&quot;. A Junko Onishi Jatroit record is barely visible on the top of the screen."/></span></p>
-  <p> Yet another pass of inks. Note the <a href="https://www.youtube.com/watch?v=0X9C4yt7GKg">Lemoner</a>-shaped halo on the witch there. </p>
+  <p> Sad girl music. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/013/1123/05.jpg" /><span class="f"><img src="/photo/013/1123/05.jpg" alt="Polyhymnia snuggling a stuffie in her blankie."/></span></p>
-  <p> A few passes of inks later, and boom!  </p>
+  <p> Afternoon nap time with mommy </p>
 </div>
 
 ## November 25
 
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1125/01.jpg" /><span class="f"><img src="/photo/013/1125/01.jpg" alt="Add alt text"/></span></p>
-  <p> Yet another pass of inks. Note the <a href="https://www.youtube.com/watch?v=0X9C4yt7GKg">Lemoner</a>-shaped halo on the witch there. </p>
+  <p><img tabindex=1 src="/photo/013/1125/01.jpg" /><span class="f"><img src="/photo/013/1125/01.jpg" alt="A pot of green tea and a hookah sit atop my writing desk, with a green glass banker's lamp lighting the scene."/></span></p>
+  <p> Hookah, tea, and writing. </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1125/02.jpg" /><span class="f"><img src="/photo/013/1125/02.jpg" alt="Add alt text"/></span></p>
-  <p> A few passes of inks later, and boom!  </p>
+  <p><img tabindex=1 src="/photo/013/1125/02.jpg" /><span class="f"><img src="/photo/013/1125/02.jpg" alt="A record player spins Sonny James' &quot;You're The Only World I Know&quot;. A copy of Moe Kauffman's *&quot;*The Shepherd Swings Again&quot; sits behind the Sonny James record."/></span></p>
+  <p> One of my favorite country-crooner albums on the turntable. </p>
 </div>
 
 ## November 26
 
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1127/01.jpg" /><span class="f"><img src="/photo/013/1127/01.jpg" alt="Add alt text"/></span></p>
-  <p> Yet another pass of inks. Note the <a href="https://www.youtube.com/watch?v=0X9C4yt7GKg">Lemoner</a>-shaped halo on the witch there. </p>
+  <p><img tabindex=1 src="/photo/013/1127/01.jpg" /><span class="f"><img src="/photo/013/1127/01.jpg" alt="Polyhymnia, a Piranese mix, playing in the snow. She is wearing a red and black flannel doggy sweater."/></span></p>
+  <p> Autumn █████████ took some cute photos of the snow....</p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1127/02.jpg" /><span class="f"><img src="/photo/013/1127/02.jpg" alt="Add alt text"/></span></p>
-  <p> A few passes of inks later, and boom!  </p>
+  <p><img tabindex=1 src="/photo/013/1127/02.jpg" /><span class="f"><img src="/photo/013/1127/02.jpg" alt="A snowy forest."/></span></p>
+  <p> ...and of Poly today. </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1127/03.jpg" /><span class="f"><img src="/photo/013/1127/03.jpg" alt="Add alt text"/></span></p>
-  <p> The final, scanned poster. </p>
+  <p><img tabindex=1 src="/photo/013/1127/03.jpg" /><span class="f"><img src="/photo/013/1127/03.jpg" alt="Mister Pliskin, a giant stuffed bear, sitting on my easy chair."/></span></p>
+  <p> She also got me an early Christmas present! It's Mister Pliskin, the big grey bear! </p>
 </div>
 
 ## November 27
 
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1127/04.jpg" /><span class="f"><img src="/photo/013/1127/04.jpg" alt="Add alt text"/></span></p>
-  <p> Yet another pass of inks. Note the <a href="https://www.youtube.com/watch?v=0X9C4yt7GKg">Lemoner</a>-shaped halo on the witch there. </p>
+  <p><img tabindex=1 src="/photo/013/1127/04.jpg" /><span class="f"><img src="/photo/013/1127/04.jpg" alt="A cloudy sunset on the banks of the Mississippi river."/></span></p>
+  <p> Went out shooting on the Iowa side of the Mississippi today. </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1127/05.jpg" /><span class="f"><img src="/photo/013/1127/05.jpg" alt="Add alt text"/></span></p>
-  <p> A few passes of inks later, and boom!  </p>
+  <p><img tabindex=1 src="/photo/013/1127/05.jpg" /><span class="f"><img src="/photo/013/1127/05.jpg" alt="A distant view of the other side of the Mississippi river, with a small gazebo in the foreground."/></span></p>
+  <p> A client wanted a story about "predictions" that has something to do with Iowa. </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1127/06.jpg" /><span class="f"><img src="/photo/013/1127/06.jpg" alt="Add alt text"/></span></p>
-  <p> Yet another pass of inks. Note the <a href="https://www.youtube.com/watch?v=0X9C4yt7GKg">Lemoner</a>-shaped halo on the witch there. </p>
+  <p><img tabindex=1 src="/photo/013/1127/06.jpg" /><span class="f"><img src="/photo/013/1127/06.jpg" alt="A lone bench sitting under a tree, looking out at a bridge on the Mississippi river."/></span></p>
+  <p> While I don't live in Iowa, per se... </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1127/07.jpg" /><span class="f"><img src="/photo/013/1127/07.jpg" alt="Add alt text"/></span></p>
-  <p> A few passes of inks later, and boom!  </p>
+  <p><img tabindex=1 src="/photo/013/1127/07.jpg" /><span class="f"><img src="/photo/013/1127/07.jpg" alt="Some rocks on the banks of the Mississippi."/></span></p>
+  <p> ...I do live in the Quad Cities, and do travel over to the Iowa side a decent amount. </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1127/08.jpg" /><span class="f"><img src="/photo/013/1127/08.jpg" alt="Add alt text"/></span></p>
-  <p> The final, scanned poster. </p>
+  <p><img tabindex=1 src="/photo/013/1127/08.jpg" /><span class="f"><img src="/photo/013/1127/08.jpg" alt="A newspaper-style comic strip layout with a couple panels worth of pencils down. The panel closest to the viewer contains a figure sitting on a bench on the banks of the Mississippi river."/></span></p>
+  <p> So it wasn't much of a stretch to incorporate the Iowa side of my beloved Mississippi river in the piece. </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1127/09.jpg" /><span class="f"><img src="/photo/013/1127/09.jpg" alt="Add alt text"/></span></p>
-  <p> Yet another pass of inks. Note the <a href="https://www.youtube.com/watch?v=0X9C4yt7GKg">Lemoner</a>-shaped halo on the witch there. </p>
+  <p><img tabindex=1 src="/photo/013/1127/09.jpg" /><span class="f"><img src="/photo/013/1127/09.jpg" alt="A Thinkpad T520 with i3wm and two windows open--one of which is Freetube, playing a video from roleplay Lets Player Rycon, and the other of which is the reference photo the artist took for the panel on the comic page."/></span></p>
+  <p> <a href="https://www.youtube.com/playlist?list=PLfLssncxyGGdZwHbmBPTM-iIIE0CPCsU3">Watching Rycon play through Rimworld</a> and putting some reference images up on the screen. </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1127/10.jpg" /><span class="f"><img src="/photo/013/1127/10.jpg" alt="Add alt text"/></span></p>
-  <p> A few passes of inks later, and boom!  </p>
+  <p><img tabindex=1 src="/photo/013/1127/10.jpg" /><span class="f"><img src="/photo/013/1127/10.jpg" alt="The artist's beloved Brother WP-760D word processor, typing out word panels for the comic strip the author is working on. A framed photo of actress Theda Bara, a tin of shisha, an e-pipe and some vape liquid, and a digital clock with the current time of 7:56 are also visible."/></span></p>
+  <p> Typing some lettering up on Valentine, my WP-760D. </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1127/11.jpg" /><span class="f"><img src="/photo/013/1127/11.jpg" alt="Add alt text"/></span></p>
-  <p> Yet another pass of inks. Note the <a href="https://www.youtube.com/watch?v=0X9C4yt7GKg">Lemoner</a>-shaped halo on the witch there. </p>
+  <p><img tabindex=1 src="/photo/013/1127/11.jpg" /><span class="f"><img src="/photo/013/1127/11.jpg" alt="A coffee mug with the layout of the New York subway and a French press sit precariously on the edge of the artist's drawing table."/></span></p>
+  <p> Drinkin' coffee out of my MTA mug and missing NYC. </p>
 </div>
 
 ## November 29 and 30
 
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/013/1129/01.jpg" /><span class="f"><img src="/photo/013/1129/01.jpg" alt="Add alt text"/></span></p>
-  <p> Yet another pass of inks. Note the <a href="https://www.youtube.com/watch?v=0X9C4yt7GKg">Lemoner</a>-shaped halo on the witch there. </p>
+  <p> Starting in on pencils on Page 6 for Our Lady Maven. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/013/1129/02.jpg" /><span class="f"><img src="/photo/013/1129/02.jpg" alt="Add alt text"/></span></p>
-  <p> A few passes of inks later, and boom!  </p>
+  <p> hashtag selfie  </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1129/03.jpg" /><span class="f"><img src="/photo/013/1129/03.jpg" alt="Add alt text"/></span></p>
-  <p> The final, scanned poster. </p>
+  <p><img tabindex=1 src="/photo/013/1129/03.jpg" /><span class="f"><img src="/photo/013/1129/03.jpg" alt="A Thinkpad displaying the Youtuber &quot;Let's Play With Brigands&quot; playing through &quot;Codename: ICEMAN&quot;. The text box on the screen displays the text &quot;For the purposes of this game you are, in fact, Commander Westland.&quot;"/></span></p>
+  <p> Watching <a href="https://www.youtube.com/playlist?list=PLPSg4CGjoztl2ov4eVGjxLxeHTpXDEAOE">Brigands</a> suffer through CODENAME ICEMAN. </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1129/04.jpg" /><span class="f"><img src="/photo/013/1129/04.jpg" alt="Add alt text"/></span></p>
-  <p> Yet another pass of inks. Note the <a href="https://www.youtube.com/watch?v=0X9C4yt7GKg">Lemoner</a>-shaped halo on the witch there. </p>
+  <p><img tabindex=1 src="/photo/013/1129/04.jpg" /><span class="f"><img src="/photo/013/1129/04.jpg" alt="My bedroom computer, with LMMS clearly displayed on the monitor. An open Thinkpad and Mnemosyne notebook are barely visible underneath a green banker's lamp."/></span></p>
+  <p> Working on some top-secret nonsense. </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1129/05.jpg" /><span class="f"><img src="/photo/013/1129/05.jpg" alt="Add alt text"/></span></p>
-  <p> A few passes of inks later, and boom!  </p>
+  <p><img tabindex=1 src="/photo/013/1129/05.jpg" /><span class="f"><img src="/photo/013/1129/05.jpg" alt="A series of pencilled comic book panels."/></span></p>
+  <p> Pencils are down for this client piece. </p>
 </div>
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/013/1129/06.jpg" /><span class="f"><img src="/photo/013/1129/06.jpg" alt="Add alt text"/></span></p>
-  <p> Yet another pass of inks. Note the <a href="https://www.youtube.com/watch?v=0X9C4yt7GKg">Lemoner</a>-shaped halo on the witch there. </p>
+  <p><img tabindex=1 src="/photo/013/1129/06.jpg" /><span class="f"><img src="/photo/013/1129/06.jpg" alt="A comic book panel being inked."/></span></p>
+  <p> inkie selfie. </p>
 </div>

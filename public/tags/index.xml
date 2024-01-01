@@ -7,10 +7,100 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All work written by Sarah Allen Reed.</copyright>
-    <lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>art</title>
+      <link>/tags/art/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comics</title>
+      <link>/tags/comics/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/comics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datafruits</title>
+      <link>/tags/datafruits/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/datafruits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>illustration</title>
+      <link>/tags/illustration/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/illustration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jazz</title>
+      <link>/tags/jazz/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jazz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>/tags/misc/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photo roll</title>
+      <link>/tags/photo-roll/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/photo-roll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poster</title>
+      <link>/tags/poster/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>process</title>
+      <link>/tags/process/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radio</title>
+      <link>/tags/radio/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/radio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>blogpost</title>
@@ -27,24 +117,6 @@
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/essay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jazz</title>
-      <link>/tags/jazz/</link>
-      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/jazz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>radio</title>
-      <link>/tags/radio/</link>
-      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/radio/</guid>
       <description></description>
     </item>
     
@@ -72,78 +144,6 @@
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/the-jazz-program/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>art</title>
-      <link>/tags/art/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>comics</title>
-      <link>/tags/comics/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/comics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>datafruits</title>
-      <link>/tags/datafruits/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/datafruits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>illustration</title>
-      <link>/tags/illustration/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/illustration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>misc</title>
-      <link>/tags/misc/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/misc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>photo roll</title>
-      <link>/tags/photo-roll/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/photo-roll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>poster</title>
-      <link>/tags/poster/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/poster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>process</title>
-      <link>/tags/process/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/process/</guid>
       <description></description>
     </item>
     

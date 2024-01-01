@@ -5,12 +5,58 @@ date: 1969-04-20
 ---
 ## What Is The Listening List?
 
+In June of 2023, I started making a tiny thread on Mastodon about albums I was listening to in the gym and in the studio. While I tend to listen to music via [Newpipe](https://newpipe.net/) in the gym, I use [mocp](https://www.mankier.com/1/mocp) in the studio. It eventually hit me that I could just keep everything I listen to on MOCP saved in a folder of monthly playlists, and edit them down and put them up here.
 
+Think of this as a more manual form of scrobbling via Lastfm. Every time I listen to something I haven't listened to in a while -- which is fairly often, to be honest -- I put it on the monthly playlist. Once the month's out, I edit down the playlist to only the albums themselves, and toss 'em up here.
 
-## 2023
+It should be noted that I try to limit this to *only albums I haven't listened to before* since starting the list. I listen to a lot of albums on repeat--you can check out [The Usual Suspects](/post/misc_listen/#the-usual-suspects) list after this intro to find out which are most likely to be on there--but this is for novelties. Occasionally I'll forget and list an album twice; if that bugs you, [it may help to tell yourself that it's just a website, and you should really just relax.]()
+
+Finally, I made the executive decision to *not* put in podcasts, old-time radio plays, or anything that isn't an album of some degree of musicality in here. While I could list every time I listened to an episode of Art Bell or Yours Truly, Johnny Dollar from my hard drive of archives, it'd get real old real quick to list every single one, air date and all, every time I do so. I often just navigate to a folder and hit "play" when I listen to those, so there'd be long stretches of YOURS TRULY JOHNNY DOLLAR YOURS TRULY JONNY DOLLAR YOURSTRULYJOHNNYDOLLAR and so forth if I had my favorite [insurance investigator](https://archive.org/details/OTRR_YoursTrulyJohnnyDollar_Singles) on the brain that day.
+
+With that said, here's The Usual Suspects that you'll almost never see on this list, because I listen to them almost religiously.
 
 ---
-### June 2023
+
+## The Usual Suspects
+
+***Full band discographies:***
+
+* Interpol (my favorite band, hands down)   
+* Modest Mouse   
+* HIM   
+* The Mars Volta   
+* Porcupine Tree   
+* Amorphis   
+* Underoath 
+* Elbow    
+* Bad Religion   
+* Most mainline Grateful Dead records[^1]
+* Johnny Paycheck
+* Willie Nelson
+* Frank Zappa   
+* Woods Of Ypres
+* Gasoline
+
+***Other miscellanious albums I blast all the time:***[^2]
+
+**Ben Webster** - Soulville  
+**Jethro Tull** - Aqualung  
+**Jethro Tull** - Songs From The Wood  
+**De-Phazz** - Godsdog  
+**Bonobo** - Animal Magic  
+**Bonobo** - Days To Come    
+**Portishead** - Dummy  
+**Starflyer 59** - Leave Here A Stranger  
+**The Moody Blues** - Days Of Future Past  
+
+---
+
+## The Listening List, 
+
+### 2023
+
+---
+#### June 2023
 
 **Moe** - Tin Cans and Car Tires   
 **Drive Like Jehu** - Yank Crime   
@@ -116,7 +162,7 @@ Gym listens:
 
 ---
 
-### July 2023
+#### July 2023
 
 **Talking Heads** - Fear of Music  
 **Ashbringer** - Absolution  
@@ -172,11 +218,11 @@ Gym listens:
 **HIM** - Deep Shadows And Brilliant Highlights  
 **The Ernies** - Meson Ray  
 
-(TODO : Add gym listens)
+*Note: I had a note to myself at some point to add the gym listens here, but I never got around to it and I'm not sure where I put the lil' list I had of them. No matter; a lot of 'em were definitely repeats and we'll get to them in the future.*
 
 ---
 
-### August 2023
+#### August 2023
 
 **El Trío de Omar Rodríguez-López** - Ciencia de los Inútiles  
 **Omar Rodriguez‐Lopez** - Blind Worms, Pious Swine  
@@ -236,7 +282,7 @@ Gym listens:
 
 ---
 
-### September 2023
+#### September 2023
 
 **Junko Onishi** - Tea Times     
 **Topdown Dialectic** - Vol. 3     
@@ -268,6 +314,8 @@ Gym listens:
 **The Mars Volta** - Octahedron  
 **The Mars Volta** - The Bedlam In Goliath  
 
+*Note: now that I'm settled into the new place, I decided to start keeping track of physical releases as well since I have my stereo finally set up. This will hopefully be a trend on the list that continues from here--although it's going to depend on me remembering to keep track of it physically so all bets are off.*
+
 Physical releases:
 
 **Frank Sinatra & Antonio Carlos Jobim** - Francis Albert Sinatra & Antonio Carlos Jobim   
@@ -287,7 +335,7 @@ Physical releases:
 
 ---
 
-### October 2023
+#### October 2023
 
 **Ben Webster** - Blue Light  
 **The Rippingtons** - Moonlighting  
@@ -337,7 +385,7 @@ Pankaj Udhas - Pankaj Udhas in Live Performance Vol. 1
 
 ---
 
-### November 2023
+#### November 2023
  
 Serge Gainsbourg - Du Jazz Dans Le Ravin  
 Black Sabbath - Paranoid  
@@ -386,3 +434,10 @@ Sonny James - You're The Only World I Know
 Tom Jones - Close Up  
 Herbie Mann - Discotheque  
 
+
+
+<p style="text-align: center;">Footnotes...</p>
+
+[^1]: When I say "mainline" I mean studio recordings, not live bootlegs. 
+
+[^2]: This part of the list is honestly subject to change; I tend to find albums that I love and put on repeat fairly frequently.

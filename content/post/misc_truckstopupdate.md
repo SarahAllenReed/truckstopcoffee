@@ -53,6 +53,16 @@ date: 1969-04-20
 * Uploaded Photo Roll 13 as well. 
 * I have some other stuff to upload hopefully tomorrow or later this week but I want to have this out before tonight's show so here ya go
 
+
+## 2024
+
+### January 1, 2024
+
+ * Catching up on photo rolls; uploaded Photo Rolls 14 and 15.   
+ * Realized that I never actually made a unique header to Post 18; fixed that.
+ * Moved all blog post/photo roll drafts to a separate folder to avoid accidentally posting them early (as happened a few times in November and December; my apologies to all you folks who got your RSS feeds all fucked up because of me)
+ * 
+
 ---
 
 ## Todo List
@@ -61,7 +71,7 @@ date: 1969-04-20
 * Add an Old Time Radio list to the Links page, with all the sources I usually list on my radio writeups.
 * Make intro pages to the "Blog Posts" and "Photo Rolls" pages to explain what makes them special.
 * Add alt text to everywhere it's not already implemented. I want to make this site as screen-reader friendly as possible.
-* Add my Zettlekasten via [Tiddlywiki](https://tiddlywiki.com)
+* Add a digital copy of my Zettlekasten via [Tiddlywiki](https://tiddlywiki.com)
 * Add my commonplace book.
 * Actually finish adding all the links I want to add to the links page.
 * Finish updated the Listening List to be as current as possible. *(Ongoing)*

@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All work written by Sarah Allen Reed.</copyright>
-    <lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Photo Roll 14 - Went Out Shootin&#39;, December 24, 2023</title>
+      <link>/post/photoroll14/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/photoroll14/</guid>
+      <description>Autumn █████████ and I went out on Christmas Eve to get both of us out of our heads a bit and for me to go shooting. Here&#39;s a little sample of what Imogen and I shot today. All of these were edited with Darktable on Linux Mint.
+ 
+ Some pretty goosies.   
+ the gooses are on the looses!  
+ Keeping watch.</description>
+    </item>
     
     <item>
       <title>#020: Now I Have A Jazz Program, Ho-Ho-Ho - December 2023 Radio Calendar</title>
@@ -20,6 +33,19 @@
       <guid>/post/0020/</guid>
       <description>pictured: your face when you realize exactly how incredible the programming is on tuesday nights on datafruits dot eff emm
  Hey y&amp;rsquo;all! As the vast majority of you know, I&amp;rsquo;ve been the host of The Jazz Program on datafruits.fm for a good couple years now, and the host of a small show called Talkie Time on the timeslot before it. I&amp;rsquo;ve decided to make a monthly post here to let you fine folks know which records we&amp;rsquo;re going to be playing each episode, as well as take a bit to talk about some of my favorite jazz and jazz-related artists and records.</description>
+    </item>
+    
+    <item>
+      <title>Photo Roll 13 - Scenes From The Studio - November 2023</title>
+      <link>/post/photoroll13/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/photoroll13/</guid>
+      <description>November 2 
+ November 2nd is [Prey Day](https://en.wikipedia.org/wiki/Deadly_Prey), of course, so that narrows down today&#39;s background noise material.  
+ The task was to do as much as I could to update the blog. I didn&#39;t get as much done as I&#39;d like, but progress is progress.   
+ The drawing board covered in last month&#39;s completed pages.  
+ Also, today I tried to take a photo of Polly with Imogen.</description>
     </item>
     
     <item>
@@ -474,16 +500,7 @@ This page gets updated all the time, so check back frequently!
       <pubDate>Sun, 20 Apr 1969 00:00:00 +0000</pubDate>
       
       <guid>/post/misc_listen/</guid>
-      <description>What Is The Listening List? 2023  June 2023 Moe - Tin Cans and Car Tires
-Drive Like Jehu - Yank Crime
-Gorguts - Pleiades&amp;rsquo; Dust
-De-Phazz - Black White Mono
-Beck - The Information
-Bugge Wesseltoft&amp;rsquo;s New Conception Of Jazz - Sharing
-Elbow - The Taking Off And Landing Of Everything
-Johnny Paycheck - 11 Months And 29 Days
-Johnny Paycheck - Slide Off Your Satin Sheets
-The Grateful Dead - Radio Luxembourg, May 16, 1972</description>
+      <description>What Is The Listening List? In June of 2023, I started making a tiny thread on Mastodon about albums I was listening to in the gym and in the studio. While I tend to listen to music via Newpipe in the gym, I use mocp in the studio. It eventually hit me that I could just keep everything I listen to on MOCP saved in a folder of monthly playlists, and edit them down and put them up here.</description>
     </item>
     
     <item>
@@ -493,6 +510,15 @@ The Grateful Dead - Radio Luxembourg, May 16, 1972</description>
       
       <guid>/post/misc_truckstopupdate/</guid>
       <description>2023  July 3, 2023  Added this update log! Formally added a bunch of features, including the Miscellany section, the Project Update Threads, and more. Added Listening List entries from when I started keeping track in mid-June, up through July 1st. Finished the first entry in How To Cook Shit Started in on two additional entries Minor CSS updates, including different colors when hovering over the menu  July 4, 2023  Added post 14, the Jazz Program schedule for July.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/misc_sixthrees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/misc_sixthrees/</guid>
+      <description></description>
     </item>
     
     <item>
