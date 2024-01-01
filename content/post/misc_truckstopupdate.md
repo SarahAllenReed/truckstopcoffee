@@ -61,6 +61,7 @@ date: 1969-04-20
  * Catching up on photo rolls; uploaded Photo Rolls 14 and 15.   
  * Realized that I never actually made a unique header to Post 18; fixed that.
  * Moved all blog post/photo roll drafts to a separate folder to avoid accidentally posting them early (as happened a few times in November and December; my apologies to all you folks who got your RSS feeds all fucked up because of me)
+ * Finally added an intro to The Listening List, as well as a few initial entries to The Usual Suspects. Still need to add December's listens, though; that'll be next.
  * Happy New Year!
 
 ---
