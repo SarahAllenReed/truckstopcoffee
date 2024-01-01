@@ -9,7 +9,7 @@ date: 2023-12-17
 
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/013/1102/01.png" /><span class="f"><img src="/photo/013/1102/01.png" alt="A Linux desktop, with the left monitor displaying the Thunar web browser, Nvim with Nerdtree, the Xviewer file viewer, and a terminal window displaying the Mogrify command from the Imagemagick library. The rightmost monitor has the SMplayer media player, with 1987's cult classic Deadly Prey currently playing."/></span></p>
-  <p> November 2nd is [Prey Day](https://en.wikipedia.org/wiki/Deadly_Prey), of course, so that narrows down today's background noise material. </p>
+  <p> November 2nd is <a href="https://en.wikipedia.org/wiki/Deadly_Prey">Prey Day</a>, of course, so that narrows down today's background noise material. </p>
 </div>
 <div class="floatcenter caption">
   <p><img tabindex=1 src="/photo/013/1102/02.jpg" /><span class="f"><img src="/photo/013/1102/02.jpg" alt="Me holding a giant list of stuff I gotta do for the blog."/></span></p>
