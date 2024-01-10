@@ -64,6 +64,10 @@ date: 1969-04-20
  * Finally added an intro to The Listening List, as well as a few initial entries to The Usual Suspects. Still need to add December's listens, though; that'll be next.
  * Happy New Year!
 
+
+### January 9, 2024
+
+ * Added Post 21.
 ---
 
 ## Todo List
