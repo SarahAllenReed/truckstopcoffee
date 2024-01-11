@@ -1,0 +1,41 @@
+---
+title: "#019: Meet Squashy! A Journey Through The Misunderstood Word Processor"
+description: "We got ourselves a new addition to the studio recently. In this post, I'll talk about why I love old word processors so much, and go through what makes Squashy here unique and what I've done so far to fix her up."  
+date: 2023-11-14
+tags: ['jazz', 'the jazz program', 'show lineup', 'radio', 'essay', 'schedule', 'blogpost']
+
+---
+
+## PARLOR TRICKS
+
+Believe it or not, the entirety of this article was typed on
+a Smith-Corona PWP 3850 DS, and then subsequently brought
+into Linux, edited with Vim, rendered to HTML with Hugo, and
+delivered via an Apache web server directly to your computer 
+screen.   
+
+If you think I'm full of shit, go ahead--look to the right 
+of this paragraph and check out the photo. There she is, 
+the introduction you're reading right now, brought to you in
+beautiful amber phosphorous.
+
+If it seems a bit archaic to do things this way....yeah,
+you're probably right. Thing is, I love stuff like this, and
+despite the fact that not even most retro tech enthusiasts
+give devices like this a second glance, word processors from
+this era are infiniately fascinating to me, and I don't think
+they get enough appreciation for their role in computing
+history. 
+
+I also happen to collect these things and use them for work,
+belive it or not--word processors like this, along with my
+arsenal of typewriters, are how i generate a good deal of the
+text in the comics I create and stories I tell for a living.
+I either use handwritten or typewritten text in all my
+books, and as you'll soon see, these vintage word processors
+have a typewriter hidden inside of them.
+
+So, without further ado, here's a gigantic write-up
+on how this works, what it is, why it works, and how I got
+it to work, because I love my misfit toys and I wanna write
+about my newest addition to the gang.
