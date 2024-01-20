@@ -28,7 +28,7 @@ date: 2023-10-31
 ## October 15, 2023
 
 <div class="floatcenter caption">
-  <p><img tabindex=1 src="/photo/006/10_15_1.jpg" /><span class="f"><img src="/photo/006/10_15_1.jpg" alt="A poster in progress on the drawing board, featuring a trans woman depicted as a forest nymph being framed by a Yule wreath. The visible lettering reads &quot;DATAFRUITS.FM and SARAH ALLEN REED AND THE JAZZ PROGRAM present JAZZY FUCKIN HOLIDAYS&quot;"/></span></p>
+  <p><img tabindex=1 src="/photo/006/10_15_1.jpg" /><span class="f"><img src="/photo/006/10_15_1.jpg" alt="A poster in progress on the drawing board, featuring a trans woman depicted as a forest nymph being framed by a Yule wreath. The visible lettering reads &quot;DATAFRUITS.FM and Piper Bly  AND THE JAZZ PROGRAM present JAZZY FUCKIN HOLIDAYS&quot;"/></span></p>
   <p> Initial pencils down on the <a href="/post/photoroll11">Jazzy Fuckin' Holidays</a> poster for <a href="https://datafruits.fm">Datafruits.</a> </p>
 </div>
 <div class="floatcenter caption">

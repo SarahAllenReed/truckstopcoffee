@@ -23,13 +23,13 @@ layout: single_noshare
 ---
 
 
-## What Is A Sarah, And What Does She Do? (About Me)
+## What Is A Piper, And What Does She Do? (About Me)
 
-It's worth noting that [you can view my &quot;About Me&quot; page here](/post/about) for most of the answers one would have to the question &quot;Who is Sarah?&quot;. For the rest, here's this.
+It's worth noting that [you can view my &quot;About Me&quot; page here](/post/about) for most of the answers one would have to the question &quot;Who is Piper?&quot;. For the rest, here's this.
 
 ### Who are you, exactly?
 
-I'm Sarah, and I'm a cartoonist. 
+I'm Piper, and I'm a cartoonist. 
 
 I've worked in illustration for most of my adult life and been making scribbles of some variety for the vast majority of my life before that. I've also been a trucker, a chef, a programmer, a janitor, a radio DJ, a touring musician, and a bunch of other things at some point or another. 
 

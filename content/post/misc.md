@@ -31,19 +31,19 @@ I keep a small text file on my [Pinephone](/post/photoroll03.md) with a series o
 
 ## Website Update Histories
 
-Starting with this update, I plan on making little "feature update" lists whenever I add anything of interest. Until then, you can always check out [my Github](https://github.com/SarahAllenReed) and check out the commit histories there for a much more abbreviated summary of what I've been tinkering with.
+Starting with this update, I plan on making little "feature update" lists whenever I add anything of interest. Until then, you can always check out [my Github](https://github.com/PiperAllenReed) and check out the commit histories there for a much more abbreviated summary of what I've been tinkering with.
 
 ### sarahallenreed.com
 
-<span style="font-size: 1.3em"> [Click here for Sarahallenreed.com's Patch Notes](/post/misc_mainsiteupdate) </span>
+<span style="font-size: 1.3em"> [Click here for sarahallenreed.com's Patch Notes](/post/misc_mainsiteupdate) </span>
 
-As of right now, [all that I have up is the Github commit list.](https://github.com/SarahAllenReed/sarahallenreed/commits/master)
+As of right now, [all that I have up is the Github commit list.](https://github.com/PiperAllenReed/sarahallenreed/commits/master)
 
 ### truckstop.coffee
 
 <span style="font-size: 1.3em"> [Click here for Truckstop Coffee's Patch Notes](/post/misc_truckstopupdate) </span>
 
-You can also check out the Github commit list [here.](https://github.com/SarahAllenReed/truckstopcoffee/commits/main)
+You can also check out the Github commit list [here.](https://github.com/PiperAllenReed/truckstopcoffee/commits/main)
 
 ---
 

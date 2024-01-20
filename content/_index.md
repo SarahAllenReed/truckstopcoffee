@@ -1,5 +1,5 @@
 ---
-title: "Truck Stop Coffee - Sarah Allen Reed's Blog"
+title: "Truck Stop Coffee - Piper Bly 's Blog"
 layout: index
 ---
 

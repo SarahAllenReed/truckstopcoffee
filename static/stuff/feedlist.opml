@@ -51,7 +51,7 @@
         <outline title="VHS Revival" text="VHS Revival" description="VHS Revival" type="rss" xmlUrl="https://vhsrevival.com/feed/" htmlUrl="https://vhsrevival.com"/>
       </outline>
       <outline title="My Blogs" text="My Blogs" description="My Blogs" type="folder">
-        <outline title="Truck Stop Coffee - Sarah Allen Reed's Blog on Truck Stop Coffee" text="Truck Stop Coffee - Sarah Allen Reed's Blog on Truck Stop Coffee" description="Truck Stop Coffee - Sarah Allen Reed's Blog on Truck Stop Coffee" type="rss" xmlUrl="https://truckstop.coffee/index.xml" htmlUrl="https://truckstop.coffee/"/>
+        <outline title="Truck Stop Coffee - Piper Bly 's Blog on Truck Stop Coffee" text="Truck Stop Coffee - Piper Bly 's Blog on Truck Stop Coffee" description="Truck Stop Coffee - Piper Bly 's Blog on Truck Stop Coffee" type="rss" xmlUrl="https://truckstop.coffee/index.xml" htmlUrl="https://truckstop.coffee/"/>
       </outline>
       <outline title="Vintage" text="Vintage" description="Vintage" type="folder">
         <outline title="Glamour Daze" text="Glamour Daze" description="Glamour Daze" type="rss" xmlUrl="https://glamourdaze.com/feed" htmlUrl="https://glamourdaze.com/"/>

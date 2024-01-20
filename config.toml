@@ -2,8 +2,8 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Truck Stop Coffee"
 theme = "blackburn"
-author = "Sarah Allen Reed"
-copyright = "All work written by Sarah Allen Reed."
+author = "Piper Bly "
+copyright = "All work written by Piper Bly ."
 canonifyurls = true
 paginate = 10
 
