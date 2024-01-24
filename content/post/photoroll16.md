@@ -2,7 +2,7 @@
 title: "Photo Roll 16 - Process Thread - \"Predictions\" for Little Village Magazine"
 description: "A collection of in-progress photos from the development and illustration process for my strip, \"Predictions\", published in Little Village magazine." 
 tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'poster', 'datafruits', 'jazz', 'radio']
-date: 2024-01-20
+date: 2025-01-20
 ---
 
 <div class="floatcenter caption">
