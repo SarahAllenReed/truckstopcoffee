@@ -12,13 +12,13 @@ div.sharebar {
 
 .resp-sharing-button__link {
   text-decoration: none;
-  color: #fff;
+  color: #ff5fd7;
   margin: 0.5em
 }
 
 .resp-sharing-button {
   border-radius: 5px;
-  color: #fff;
+  color: #ff5fd7;
   font-family: "Testimonial";
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
@@ -38,14 +38,14 @@ div.sharebar {
 
 /* Non solid icons get a stroke */
 .resp-sharing-button__icon {
-  stroke: #fff;
+  stroke: #ff5fd7;
   fill: none
 }
 
 /* Solid icons get a fill */
 .resp-sharing-button__icon--solid,
 .resp-sharing-button__icon--solidcircle {
-  fill: #fff;
+  fill: #ff5fd7;
   stroke: none
 }
 /* 
