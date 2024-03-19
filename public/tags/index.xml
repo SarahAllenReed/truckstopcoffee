@@ -7,15 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All work written by Piper Bly .</copyright>
-    <lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blogpost</title>
       <link>/tags/blogpost/</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/blogpost/</guid>
       <description></description>
@@ -24,7 +20,7 @@
     <item>
       <title>essay</title>
       <link>/tags/essay/</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/essay/</guid>
       <description></description>
@@ -33,7 +29,7 @@
     <item>
       <title>jazz</title>
       <link>/tags/jazz/</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/jazz/</guid>
       <description></description>
@@ -42,7 +38,7 @@
     <item>
       <title>radio</title>
       <link>/tags/radio/</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/radio/</guid>
       <description></description>
@@ -51,7 +47,7 @@
     <item>
       <title>schedule</title>
       <link>/tags/schedule/</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/schedule/</guid>
       <description></description>
@@ -60,7 +56,7 @@
     <item>
       <title>show lineup</title>
       <link>/tags/show-lineup/</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/show-lineup/</guid>
       <description></description>
@@ -69,7 +65,7 @@
     <item>
       <title>the jazz program</title>
       <link>/tags/the-jazz-program/</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/the-jazz-program/</guid>
       <description></description>
