@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All work written by Piper Bly .</copyright>
-    <lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cartooning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cartooning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>#007: An Old Interview (or, A Time Capsule To 2019 Piper)</title>
       <link>/post/0007/</link>

@@ -57,7 +57,7 @@ The content `<div>` is where all your content goes.
     color: #333;
     text-align: center;
     padding: 2.5em 2em 0;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #6acbff;
 }
 
 .header h1 {
@@ -151,7 +151,7 @@ appears on the left side of the page.
         */
 
 #menu .pure-menu-selected a {
-    color: #fff;
+    color: #ff5fd7;
 }
 
 /*
@@ -160,7 +160,7 @@ appears on the left side of the page.
 
 #menu .pure-menu-heading {
     font-size: 110%;
-    color: #fff;
+    color: #ff5fd7;
     margin: 0;
 }
 
@@ -206,11 +206,7 @@ small screens.
 .menu-link span,
 .menu-link span:before,
 .menu-link span:after {
-<<<<<<< HEAD
     background-color: #ff5fd7;
-=======
-    background-color: #fff;
->>>>>>> 098ef952aa26994dc03d87db6aff95ab0138134e
     width: 100%;
     height: 0.2em;
 }
