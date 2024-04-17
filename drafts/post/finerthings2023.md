@@ -39,7 +39,6 @@ ssSTTRAaaANAGEE birRRRRdd
 ### IGOR BOXX - BRESLAU
 
 
-
 ---
 
 ## WHAT I'VE BEEN PLAYING
@@ -62,17 +61,41 @@ ssSTTRAaaANAGEE birRRRRdd
 
 #### MYSTERY SCIENCE THEATER 3000
 
-#### 
-
-
 ### MOVIES
 
+#### DEADLY PREY
 
-####
+#### DIRTY HARRY 
+
+#### DIRTY HARRY IN: MAGNUM FORCE
+
+#### DIRTY HARRY IN: THE ONE WHOSE TITLE I FORGOT BUT THAT HAD THE LADY COP IN IT
+
+####  DIRTY HARRY IN: OKAY I ALSO FORGOT THIS ONE'S TITLE BUT IT'S THE RAPEY ONE
+
+#### DIRTY HARRY IN: THE DEAD POOL
+
+...is not something I bothered to watch. I don't remember *why*, exactly; I actually have this one on VHS, so I could have just popped it in and pressed play. 
+
+Actually, ya know what? Lemme do that real quick. One sec.
+
+. . . 
+
+Ah, yes. Right right right. This was the one with the Jim Carrey Does An Overdose Scene And Pretends To Be An Actual Serious Actor For Five Minutes. THAT'S why I hated this one.
 
 #### ...WAIT, WHY NO AUTUMN AND SARAH'S BIG DUMB MOVIE NIGHT?
 
+Two reasons. One, our new digs are not exactly set up in a way that makes a movie night possible; nowhere to put a couch, no real actual "livingroom" since I'm using it as a makeshift studio' that sort of thing. And two, Autumn didn't wanna watch Dirty Harry.
+
+Which, I mean...understandable.
+
 ### INTERNET TOOBZ
+
+#### SUPERGREATFRIEND: LET'S PLAY SILENT HILL HOMECOMING
+
+#### KIKOSKIA: LET'S PLAY STRAHD'S POSSESSION
+
+### GOLD AND GUNPOWDER 
 
 ---
 
