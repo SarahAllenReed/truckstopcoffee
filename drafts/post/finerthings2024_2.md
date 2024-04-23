@@ -34,13 +34,14 @@ A good minute back, I started cataloging "shit i listened to in the studio" over
 
 ## WHAT I'VE BEEN PLAYING
 
-### RADIANT HISTORIA: PERFECT CHRONOLOGY (3DS)
+### NIER: AUTOMATA (PS4)
 
-### SONIC AND SEGA ALL-STARS RACING (DS)
+### DISCO ELYSIUM (PS4)
 
-### MILES EDGEWORTH INVESTIGATIONS (DS)
+### 
 
-### COMBO POOL. ALSO I'M A SPEEDRUNNER NOW, I GUESS
+### MAHJONG SOUL (PC)
+
 
 
 

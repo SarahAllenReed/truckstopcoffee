@@ -3,8 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/post/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>/tags/art/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/comics/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/datafruits/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/illustration/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jazz/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/misc/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/photo-roll/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/photoroll18/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/poster/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/process/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/radio/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/0025/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
@@ -18,25 +57,13 @@
     <loc>/tags/essay/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/jazz/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/radio/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/schedule/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/show-lineup/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/the-jazz-program/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/0023/</loc>
@@ -69,31 +96,7 @@
     <loc>/post/0021/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/art/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/comics/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/datafruits/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/illustration/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/misc/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/photo-roll/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/photoroll14/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/poster/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/process/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/0020/</loc>
@@ -282,10 +285,10 @@
     <loc>/post/links/</loc>
     <lastmod>1969-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/miscellany/</loc>
+    <loc>/post/misc/</loc>
     <lastmod>1969-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/misc/</loc>
+    <loc>/tags/miscellany/</loc>
     <lastmod>1969-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/updates/</loc>
