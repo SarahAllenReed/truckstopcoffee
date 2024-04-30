@@ -1,6 +1,6 @@
 ---
 title: "Photo Roll 18 - Went Out Shootin', April 19, 2024"
-description: "I went out and shot some photos on Christmas Eve. Here's the roll." 
+description: "Woke up too early, couldn't sleep for shit. Here's the roll." 
 tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'poster', 'datafruits', 'jazz', 'radio']
 date: 2024-04-19
 ---
