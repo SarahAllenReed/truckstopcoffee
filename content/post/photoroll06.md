@@ -3,6 +3,7 @@ title: "Photo Roll 06 - Scenes From The Studio - October 2023"
 description: "I've been documenting what's going on in little semi-weekly photo posts as of late. Here are those posts from October." 
 tags: ['photo roll', 'scenes from the studio', 'life', 'cooking', 'process']
 date: 2023-10-31
+layout: photo
 ---
 
 

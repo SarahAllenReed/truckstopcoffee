@@ -3,6 +3,7 @@ title: "Photo Roll 01 - Polyhymnia, Emotional Support Dumbass"
 description: "Photos of my fuzzy animal companion."  
 tags: ['photo roll', 'misc', 'dog', 'polyhymnia']
 date: 2023-04-07
+layout: photo
 ---
 
 Polyhymnia was supposed to be a service dog for my autism and PTSD, but the training she was supposed to get never actually happened. So now she's just my favorite dumbass who tries her best. Here's some cute photos of her over the years.

@@ -16,6 +16,7 @@ paginate = 10
     endLevel = 4
     startLevel = 2
     ordered = false
+    
 
 [params]
   # Shown in the home page
@@ -89,39 +90,9 @@ paginate = 10
    weight = 9
    url = "http://sarahallenreed.com"
 
-[social]
-  # Link your social networking accouns to the side menu
-  # by entering your username or ID.
-  # twitter="*"
-  # gnusocial="*"
-  # facebook="*"
-  # weibo="*"
-  # tumblr="*"
-  # instagram="*"
-  # flickr="*"
-  # photo500px="*"
-  # pinterest="*"
-  # youtube="*"
-  # vimeo="*"
-  # vine="*"
-  # slideshare="*"
-  # linkedin="*"
-  # xing="*"
-  # reddit="*"
-  # hackernews="*"
-  # github=""
-  # gitlab="*"
-  # bitbucket="*"
-  # stackoverflow="*"
-  # serverfault="*"
-  # steam="*"
-  # mobygames="*"
-  # lastfm="*"
-  # discogs="*"
-  # keybase="*"
-
-
 [markup.goldmark.renderer]
   unsafe= true
 [markup.goldmark.extensions]
   table = true
+[markup.goldmark.parser]
+  wrapStandAloneImageWithinParagraph = false

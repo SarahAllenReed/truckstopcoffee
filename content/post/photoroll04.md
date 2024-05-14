@@ -3,6 +3,7 @@ title: "Photo Roll 04 - Scenes From The Studio - The Garden Concept Art, part 2"
 description: "A collection of in-progress photos from the development and illustration process for the concept art for The Garden, an upcoming comic from Cabbage and I."  
 tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'the garden']
 date: 2023-09-08
+layout: photo
 ---
 
 Part two of two sets of progress photos of me working my way through the concept art for The Garden.

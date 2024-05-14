@@ -3,6 +3,7 @@ title: "Photo Roll 09 - Scenes From The Studio - Datafruits World Expo Poster"
 description: "A collection of in-progress photos from the development and illustration process for the World Expo poster for datafruits.fm." 
 tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'poster', 'datafruits', 'jazz', 'radio']
 date: 2023-11-03
+layout: photo
 ---
 
 <div class="floatcenter caption">

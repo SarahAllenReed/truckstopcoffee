@@ -3,6 +3,7 @@ title: "Photo Roll 08 - Polyhymnia Bein' Cute, Part 2"
 description: "Even more photos of my fuzzy animal companion."  
 tags: ['photo roll', 'misc', 'dog', 'polyhymnia']
 date: 2023-11-02
+layout: photo
 ---
 
 Polyhymnia was supposed to be a service dog for my autism and PTSD, but the training she was supposed to get never actually happened. So now she's just my favorite dumbass who tries her best. Here's yet another gallery worth of cute photos of her over the years.

@@ -3,6 +3,7 @@ title: "Photo Roll 14 - Went Out Shootin', December 24, 2023"
 description: "I went out and shot some photos on Christmas Eve. Here's the roll." 
 tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'poster', 'datafruits', 'jazz', 'radio']
 date: 2024-01-01
+layout: photo
 ---
 
 <div class="floatcenter caption">

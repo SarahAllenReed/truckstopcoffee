@@ -3,6 +3,7 @@ title: "Photo Roll 12 - Mister Pliskin Presents New Rekkids Day, December 2023"
 description: "I went to the record store and picked up some new LPs for my collection. Here's a little jaunt through what I picked up, with my good friend Mister Pliskin." 
 tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process', 'poster', 'datafruits', 'jazz', 'radio']
 date: 2023-12-16
+layout: photo
 ---
 
 <div class="floatcenter caption">

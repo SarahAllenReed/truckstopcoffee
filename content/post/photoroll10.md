@@ -3,6 +3,7 @@ title: "Photo Roll 10 - Meet Navi!"
 description: "Navi is my beloved Pinephone. This page is where you can find some glamour shots and screenshots of her." 
 tags: ['photo roll', 'misc', 'linux', 'pinephone']
 date: 2023-11-04
+layout: photo
 ---
 
 <div class="floatcenter caption">

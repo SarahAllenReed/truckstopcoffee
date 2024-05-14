@@ -3,6 +3,7 @@ title: "Photo Roll 11 - Jazzy Fuckin' Holidays 2023 Poster Process"
 description: "A collection of photos and screenshots, documenting the process behind the 2023 Jazzy Fuckin' Holidays poster." 
 tags: ['photo roll', 'illustration', 'art', 'process', 'poster', 'jazzy fuckin holidays', 'jazz', 'radio', 'datafruits']
 date: 2023-11-05
+layout: photo
 ---
 
 ## Drafting, Pencilling, and Inking

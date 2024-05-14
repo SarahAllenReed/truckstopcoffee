@@ -3,6 +3,7 @@ title: "Photo Roll 02 - Scenes From The Studio - Our Lady Maven, Issue 1"
 description: "A collection of in-progress photos from the development and illustration process for Our Lady Maven."  
 tags: ['photo roll', 'misc', 'comics', 'illustration', 'art', 'process']
 date: 2023-05-01
+layout: photo
 ---
 
 Some in-progress photos of me working my way through Our Lady Maven Issue 1.
