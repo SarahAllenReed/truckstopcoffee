@@ -7,73 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All work written by Piper Bly .</copyright>
-    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>blogpost</title>
-      <link>/tags/blogpost/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/blogpost/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>essay</title>
-      <link>/tags/essay/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/essay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jazz</title>
-      <link>/tags/jazz/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/jazz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>radio</title>
-      <link>/tags/radio/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/radio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>schedule</title>
-      <link>/tags/schedule/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/schedule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>show lineup</title>
-      <link>/tags/show-lineup/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/show-lineup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>the jazz program</title>
-      <link>/tags/the-jazz-program/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/the-jazz-program/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>art</title>
@@ -108,6 +45,15 @@
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/illustration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jazz</title>
+      <link>/tags/jazz/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jazz/</guid>
       <description></description>
     </item>
     
@@ -148,11 +94,29 @@
     </item>
     
     <item>
+      <title>radio</title>
+      <link>/tags/radio/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/radio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>barren</title>
       <link>/tags/barren/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/barren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogpost</title>
+      <link>/tags/blogpost/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blogpost/</guid>
       <description></description>
     </item>
     
@@ -207,6 +171,42 @@
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/the-garden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>essay</title>
+      <link>/tags/essay/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/essay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schedule</title>
+      <link>/tags/schedule/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/schedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>show lineup</title>
+      <link>/tags/show-lineup/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/show-lineup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the jazz program</title>
+      <link>/tags/the-jazz-program/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/the-jazz-program/</guid>
       <description></description>
     </item>
     
